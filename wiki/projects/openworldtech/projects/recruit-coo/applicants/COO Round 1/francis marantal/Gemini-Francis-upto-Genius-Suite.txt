@@ -1,0 +1,1707 @@
+can you read the text in this chat?
+
+
+
+
+
+
+
+Gemini said
+Yes, I can read the text in the chat transcript perfectly.
+It looks like a comprehensive and highly strategic record of your planning for OpenWorldTech's Co-Founder/COO search and the $1M pre-seed fundraising round. You've covered a lot of crucial ground here, including:
+	•	Candidate Evaluations: Ranking and reviewing applicants like Rakesh, Ken, Rob, Todd, and Thad based on their alignment with your zero-to-one phase and GTM needs.
+	•	Strategic Correspondence: Drafting carefully tailored emails to navigate full-time equity roles versus fractional Advisory Board positions (using FAST agreements) while protecting your intellectual property behind an MNDA.
+	•	Cap Table Structuring: Modeling out "Scenario C" and "Scenario D" to keep your equity lean, accommodate early investors, and factor in your AI-leveraged infrastructure (Genius Suite, Claude, Gemini).
+	•	Legal & Compliance: Navigating the SEC/FINRA broker-dealer traps by ensuring advisors are compensated legally with time-based vesting rather than transaction-based success fees.
+	•	Contract Drafting: Preparing the formal COO Executive Employment Agreement and the Advisory Board Agreement.
+	•	Interview Prep: Assembling a solid 60-minute Founder’s Meeting Guide to steer your introductory calls, test investor readiness, and pitch the "Idea Guy/AI Architect" dynamic.
+How can I help you with this material today? Are we preparing for one of your upcoming candidate interviews, refining these documents, or strategizing the next steps for your investor pipeline?
+
+
+
+
+
+
+
+
+
+
+
+
+You said
+Let's take a look at francis marantal.
+Can you write up some talking point for a intro meeting with Francis?
+
+
+
+
+
+
+
+Gemini said
+Here is a tailored set of talking points for your introductory meeting with Francis Marantal.
+Since Francis brings a very specific dual-background—heavy Enterprise experience at Oracle and Microsoft, combined with a recent focus on Stealth Mode and Pre-Seed startups —you want to steer the conversation to see how well he bridges the gap between scrappy startup hustle and enterprise-grade Go-To-Market strategy.
+
+Founder’s Meeting Guide: Francis Marantal
+Goal: Assess his ability to leverage his Enterprise background for a Pre-Seed raise, evaluate his investor pipeline, and define the COO vs. Advisory path.
+1. Rapport & The "Enterprise to Stealth" Icebreaker (0:00 - 0:10)
+	•	 The Setup: "Thanks for jumping on. I’ve reviewed your background, and it’s a unique mix. It’s rare to find someone who speaks 'Big Tech Enterprise' from their days at Oracle and Microsoft, but still explicitly focuses on Stealth and Pre-Seed startups today."  
+	•	 The Technical Truth: "To give you the baseline: I’m an Infra/SRE guy by trade. I’ve built the technical engine, but I’m jumping into the deep end on the 'Startup/CEO' mechanics. I’m looking for a partner who thrives in the commercial and operational parts I don't."  
+	•	 Document Check: "Did you have a chance to look over the Pitch Deck and Cap Table in the Data Room? Any immediate red flags or specific questions you want to hit first?"  
+2. The Vision: Selling "Agentic AI" to the Enterprise (0:10 - 0:25)
+	•	 The Pitch: "I see myself as the 'AI Architect'—working with foundation models and agentic wrappers to build the tools. I'm building the 'Genius Suite' that I wish I had as a Lead SRE." 
+	•	 The Growth Strategy: Explain the 'Magnet' strategy—using the consumer-friendly Creative Suite to drive top-of-funnel acquisition for the heavier enterprise autonomous tools. 
+	•	 The "Francis" Question: "Given your time selling enterprise solutions at Oracle and Microsoft, how would you approach selling an autonomous, AI-leveraged SRE tool to modern CTOs and engineering teams?"  
+3. Solving the "Founder Puzzle" (0:25 - 0:35)
+	•	 The 4 Scenarios: Walk him through the options you've been weighing (Solo, Duo, Duo+Advisors, Trio). 
+	•	 The "Scenario D" Model: Pitch the Trio (CEO, COO, CPO/CTO) + 10% Option Pool. "We are building a company that uses its own product. We don't need a massive engineering team; we need a lean team of founders leveraging AI agents." +2 
+	•	 The Ask: "I want to stay firmly on the technology and observability side. I need a partner who wants to own the daily ops, the GTM engine, and the fundraising. How does that division of labor align with your ideal next role?" +1 
+4. Fundraising Calibration (0:35 - 0:45)
+	•	 The $1M Mission: Remind him of the immediate goal: $1M in two $500k tranches via YC Post-Money SAFEs at $4M and $8M caps. 
+	•	 Testing His Network: "Because you actively focus on the Stealth/Pre-Seed space , what does your current investor rolodex look like for a $4M-$8M cap AI infrastructure play?"  +1 
+	•	 The Bar for Investment: "In your experience, what is the 'Minimum Viable Proof' we need to show investors right now to close this $1M? Do we need a fully working demo, or is a 1,000-person waiting list and a blueprinted ecosystem enough?"  +1 
+5. Logistics & Next Steps (0:45 - 1:00)
+	•	 Role Alignment: "Are you in a position to take the full-time, equity-only leap for the next 4-5 years  ($0 salary until funding, 29% equity), or are you leaning more toward an Advisory Board seat  (0.5% - 1.0% equity via FAST agreement for 2-4 hours/month)?"  +2 
+	•	 Closing: "I’ll let you sit with the Data Room for 48 hours. Let’s sync via email on whether we move to a 'Product Deep Dive' or an Advisory setup." 
+
+
+
+
+
+
+
+
+
+
+You said
+This looks good.. re: "Document Check" he did look at the read-ahead... he did did a quick look at the PD.. spend 1:36.. pausing on the Cap Table...
+
+
+
+
+
+
+
+Gemini said
+This is fantastic intel. Looking at that DocSend analytics screenshot, you can read Francis's mind perfectly before you even get on the call.
+He spent 1 minute and 36 seconds total. He didn't read your product narrative or your GTM strategy—he did a "financial skim." He clicked through the first 13 slides in about 3-4 seconds each, but then he hit the brakes exactly where a seasoned operations/finance executive should:
+	•	Slide 14 (Pro Forma): 15 seconds.
+	•	Slide 16 (The Ask): 11 seconds.
+	•	Slide 17 (Cap Table): 23 seconds (his longest pause by far).
+Francis is evaluating the deal structure right now, not the tech. He wants to know if the equity makes sense and if the $1M ask is grounded in reality.
+Here is how we adjust your talking points to use this intel to your advantage.
+Updated Founder’s Meeting Guide: Francis Marantal
+1. Rapport & The "Sniper" Icebreaker (0:00 - 0:10)
+	•	The Setup: "Thanks for jumping on, Francis. I’ve reviewed your background, and it’s a unique mix—bridging 'Big Tech Enterprise' at Oracle/Microsoft with Stealth Pre-Seed startups."
+	•	The DocSend Call-Out (Play this smoothly): "I know I sent over the pitch deck, and it’s a lot to digest. But honestly, for a COO, the only slides that matter on day one are the Pro Forma, the Ask, and the Cap Table. I want to spend our time today focusing right there—on the deal structure and the raise."
+	•	Why this works: You don't tell him you tracked his read time, but you immediately validate exactly what he cares about. It shows you are an operationally mature founder who doesn't need to waste 20 minutes explaining your AI features to a business guy.
+2. The Vision: The "Magnet" Strategy (0:10 - 0:20)
+	•	Keep it Brief: Since he skimmed the product slides, give him the 2-minute version. "I’m the AI Architect. I'm building the 'Genius Suite' for autonomous SRE. But our GTM strategy is using lightweight consumer tools (the Creative Suite) as a top-of-funnel magnet to drive enterprise acquisition."
+	•	The Pivot to Enterprise: "Given your time selling enterprise solutions, how do you view that kind of bottom-up, product-led acquisition model for modern engineering teams?"
+3. Addressing the Elephant: The Cap Table & Deal Structure (0:20 - 0:35)
+(Since he stared at Slide 17 for 23 seconds, hit this head-on).
+	•	The "Scenario D" Pitch: "Let's talk about the Cap Table you saw. I'm intentionally structuring this to be incredibly lean. I don't want a 20% option pool for a massive engineering team because we are using our own AI agents to do the heavy lifting."
+	•	The Split: "I’m looking at a 3-way C-level split (CEO, COO, CPO) at roughly 29% each, alongside a specialized Advisory Board. I want to own the infra; I need the partner who wants to own the daily ops, the GTM, and the investor pipeline."
+	•	The Temperature Check: "Looking at that structure and the $1M ask, how does that align with what you are looking for in your next zero-to-one leap?"
+4. Fundraising Calibration (0:35 - 0:45)
+	•	Testing His Pipeline: "Because you actively focus on the Stealth/Pre-Seed space, what does your current investor rolodex look like for a $4M-$8M cap AI infrastructure play?"
+	•	The 'Proof' Question: "In your experience right now, what is the 'Minimum Viable Proof' we need to show those investors to close this $1M? Are they demanding a fully working demo, or is a strong waitlist and the blueprinted architecture enough?"
+5. Logistics & Next Steps (0:45 - 1:00)
+	•	Role Alignment: "If the full-time, equity-only sprint ($0 salary until funding) isn't the right fit today, would you be open to an Advisory Board role? It’s a FAST agreement (0.5% - 1.0% equity) focused purely on strategic intros for the raise."
+	•	Closing: "Since we focused heavily on the structure today, if there's a mutual fit here, our next step would be a deep dive into the actual product architecture. Let's touch base in 48 hours."
+
+
+
+
+
+
+
+
+
+
+You said
+Here's my notes from this call. Can you summarize the key points for our call here?
+
+
+
+
+
+
+
+Gemini said
+It sounds like you just wrapped up the intro call with Francis! I'm ready to help you break down the notes and see how he reacted to the "Scenario D" structure, the $1M pre-seed pitch, and the Advisory path.
+However, I cannot actually read the text within the Meeting-Notes_Intro1_Matt-Francis.txt file you uploaded.
+Could you copy and paste the text of your notes directly into our chat here so I can summarize the key takeaways for you?
+
+
+
+
+
+
+
+
+
+
+You said
+___
+Francis, Hey, is this?
+
+Matt, yes, how's it going?
+
+How's it going Good?
+
+How you doing?
+
+Yeah, awesome!
+
+Awesome, uh, yeah, thanks!
+
+Thanks for jumping on.
+
+Uh, yeah, yeah, apologies in advance.
+
+I'm in a workspace, so somebody starts knocking in the door, just a heads hours.
+
+Yeah, no worries, no worries.
+
+Um, Okay, cool, cool.
+
+Yeah, thanks.
+
+Thanks for jumping on.
+
+I think you got a chance to look at the the slide deck a little bit, right?
+
+I did.
+
+Yeah, I did.
+
+I did.
+
+Um, I can do like, how do you want to run this?
+
+I can do like a screen jar, and I can sort of.
+
+We can talk over it together, or I can do like a product demo.
+
+Was there anything in the slide deck that you wanted to like jump out, right?
+
+Jump at right away?
+
+Or, Um, I mean, typically, when I have these kind of conversations with other co-founders usually, Uh, what seems to make a lot of sense is sort of telling us telling me talking about the origin story.
+
+Yeah, right, Um, really understanding where the product came from How it started.
+
+What was the problem that you're trying to address?
+
+Yeah, obviously.
+
+Some background information I can do that as well on this end.
+
+Yeah, um, and then certainly a product demo, but um, if we run out of time, you can obviously schedule another meeting for, you know, yeah, for sure.
+
+Yeah, but but, you know, I appreciate the you're very.
+
+You're very efficient in terms of all the information that you said.
+
+I like that.
+
+Yeah, Yeah, yeah, I'm trying to jump in this quite quickly.
+
+I mean, you know how it is that I, I, the time frames are just compressing and compressing.
+
+If you can't jump into a market these days in like, you know, days, weeks, probably after months, this markets disappear, or they transform so drastically that the target that you're trying to hit is now completely moved, and you have to move on to another thing, which is fine.
+
+I mean, I love pivoting.
+
+To be honest, I love pivoting.
+
+I love moving like new ideas and new products, but but yeah, but you know it is, it's quite quick.
+
+But yeah, I looked at your background.
+
+I looked at your resume.
+
+It's like, super interesting.
+
+You have a lot of, like, big corporate, sort of, financing, infrastructure, stuff, and then, but also mentioning like co-founder and startup.
+
+I'm curious, like, so, how are you running a balance between these two things?
+
+Are you always trying to?
+
+I mean, I kind of do the same thing, although you know, I, I worked for small small Founders in the past, but are startups in the past, but I hadn't really started one until this one, uh, but it's always nice to jump into a startup or be involved in a startup.
+
+When you're working a sort of more corporate job, which is a little bit more Boring and rigorous, and the startup can be exciting and you know, but yeah, I'm curious how you're how you're balancing that?
+
+Yeah, yeah, I don't know.
+
+I don't know what boring's the right word, but that I think suitable, right?
+
+It depends on where you are.
+
+You're at in your career.
+
+What's suitable, right?
+
+Um, But just to kind of go rewind about what she said.
+
+I think it's really interesting about, you know, sort of like that.
+
+Goldilocks thing, right?
+
+You don't want to be too hot.
+
+You don't want to be too cold.
+
+You want to be just right, and I think that's where the art meets the science.
+
+And I think that's why, fundamentally, early stage startups are interesting, right?
+
+Uh, because to your point, If you, If you're too late, there's just so many companies that, that that junk in, and you're just getting drowned out by all the noise, right?
+
+Um, But if you're then you're too early.
+
+People might think you know you're nuts.
+
+Yeah, you can't even get off the ground.
+
+I feel like, potentially, I'm in that place where I don't know.
+
+Yeah, it's hard to say, I really need to.
+
+I need to get more exposure, uh, with things like funding and VCS and different different companies that potentially get involved in the funding ground.
+
+Because at this point, it's sort of, You know, I'm at where I'm at, and I feel like I have a great idea.
+
+And there's I feel like there's a market fit right here, but you never know until you get some some backing and some support and some partnership.
+
+Absolutely.
+
+Absolutely.
+
+But to get to your point, I mean, when you talk about funding, I think this is a good segue to a winner potential you can bring to the table.
+
+So, Francis muertol, I think I found the posting on LinkedIn if I remember correctly, yeah, yeah, I found it on LinkedIn, um, so a little bit about me, um, you could probably submit my career in three different stages, uh, first, as you talked about earlier, uh, working for Enterprise software companies like Oracle and Microsoft.
+
+That's really where I got my foundational experience and training.
+
+I transitioned over to financial Services after I got my MBA worked for companies like JP Morgan Chase and E-Trade.
+
+Yeah, That came back to technology because technology has always been really.
+
+My first love.
+
+I'm born and raised here in the San Francisco Bay area, so Tech's always been near and dear to me.
+
+You know, you walk out the door and you get hit by a technology bus sometimes literally unfortunately nowadays.
+
+Um, Um, so I've really enjoyed coming back.
+
+And even though in financial services, I mean, I was, I was on like the Tesla campus, the Apple campus, the LinkedIn campus too many times to recall, so I actually never really left Tech and kind of never really leave that.
+
+I don't know where you're based out of, but here in the Silicon Valley Bay Area, I mean, yeah, it's just Tech everywhere.
+
+Um, And so what I potentially bring to the table.
+
+So I did JPMorgan chasing E-Trade, then I did, uh, two y combinator companies.
+
+The first is comprehend, I believe they exited about seven.
+
+Eight years ago, I lost track of those guys, uh, but they got bought out.
+
+They did, uh, analytics for pharmaceutical companies, clinical trials, yeah, uh, um, which actually kind of is kind of interesting because my wife is, is, uh, in biotech, uh?
+
+So, we actually, we actually had some really interesting conversations around that.
+
+But anyway, not digress.
+
+Did send bird, which at that time was a chat API yesterday from the labs websites.
+
+They've since morphed into an HIV AI agent, just like everybody else.
+
+Yeah, And then I've been working with, Uh, number of stealth mode companies.
+
+Um, you know, some some of them are like, where are going to go.
+
+Some of them are not.
+
+You know how it goes sort of?
+
+Fluctuates Sort of playing a quasi c o o cro role, helping them with, like, go to market with fundraising technical advice.
+
+I mean, I've basically seen almost every app out there.
+
+I mean, it's kind of crazy how much, how many apps there are?
+
+Um, But I think where I bring the most value.
+
+What my differentiator really is is that component of trying to scale things up because no early stage company wants to be an early stage company.
+
+It's perpetuity, right?
+
+Yeah, of course cycle.
+
+It eventually wants to morph and evolve into something else.
+
+And I think that's where I can help most because of my experiences and my skill sets working for big companies as well as small companies.
+
+I think You have to find that sort of like the Goldilocks thing that we talked about earlier, sort of.
+
+That right combination of understanding, adaptability, flexibility, things of that nature, which early stage companies, Uh, are very good at, um, and then also recognizing what processes its scales come into play, too.
+
+Especially, you know, if your end goal is to exit, or uh, sorry about that.
+
+That's it.
+
+Okay, um, to exit, you know, either from an IOPO perspective or from a merger or an acquisition or things of that nature?
+
+There's certain things that Quote unquote adult companies.
+
+Big companies are looking at that are different than what some small companies are used to, and vice versa.
+
+So, I think I bring that interesting mix and perspective on things.
+
+Um, and that's why, you know, conversations like these are are pretty interesting because I like to learn new things, but I also have, I think, a wealth of experience and knowledge that I'm happy to share when it makes it.
+
+Yeah, absolutely.
+
+No, and I appreciate that.
+
+And, like, I said, I'm looking at your background.
+
+I mean, that's pretty obvious.
+
+It's been through the whole the whole ringer, which is perfect for for a guy like me.
+
+I'm like, I'm sort of a, you know, jumping into a startup and and would love to have that kind of background, so I'll give you a bit of intro by myself, so I've been doing sort of SRE and devops and infrastructure, but like larger scale infrastructure for companies for a long time.
+
+I started in visual effects, so building out big data centers for like movies, uh, you know, uh, Tron, and Thor and a bunch of movies we built out of there?
+
+Yeah, and, and then, and before that, I was working at the planetarium at the Museum of natural history.
+
+This is, well, when we lived in New York, and again, I was just sort of building out like a super computer sort of Base Center inside of the museum that they could leverage inside of this new planetarium.
+
+They built.
+
+
+
+1:08 PM
+So, always building with, like SGI, that was, You don't start again.
+
+Early linux and Unix, and then moving into doing more visual effects after that.
+
+And then I spent quite a long time at Sony at PlayStation, and Playstation was a big, interesting project.
+
+Because we really started out as a prototype, and we scaled this product globally worldwide.
+
+So, we ended up having building out and we had to build out our own data centers all over the U.S, like 30 data centers all over, uh, 50 data centers in the US and then 15 data centers around the world Asia, or, you know, Europe on basically serving a product that we went Global worldwide, and I was doing SRE at that point.
+
+So, a lot of observability and building out infrastructure, Helping to monitor, you know, yeah, big project.
+
+And then, you know, spending some time with different different stuff recently.
+
+Uh, you know, cyber security or game development and doing some sort of Consulting for small companies like small game startups like helping small game startups to get from basically zero to one where they can, you know, have an interesting game that they're developing locally.
+
+You know, jump in and build up back-end data centers so they can serve their game to hundreds or thousands of customers at a time and just seeing the things build out in that way.
+
+So, that's been sort of my main sort of startup Focus, And then.
+
+So, now, since then, I've been sort of thinking about, you know, this whole agentic level of of uh of AI is just changing everything.
+
+It's changing how all of Technology works.
+
+So here, let me just let me see if I can share my screen and and I'll jump into this.
+
+I'm basically building, you know, it's.
+
+It's the classic thing.
+
+I'm like building the.
+
+I'm like the first customer for the for the tools that I would like to have, Uh, let me see.
+
+I'm trying to move The window in a place where I can see it okay.
+
+Um, yeah, so that sort of brings me up to current day, so I'm building out.
+
+I mean, I've had this open world tech company that I've sort of been operating as on a Consulting level for quite a while, and now, I'm sort of building a tool Suite on top of it Using the company as kind of Leverage to build the suite, but the main function of the suite that I have so far is sort of an agentic layer, which which I'm calling assistant assistant, PhD, and the idea here is basically.
+
+I mean, in this sort of agentic age, what will people pay for?
+
+There's so many tools now that have flooded the market with all kinds of functionality.
+
+But really, when it comes down to it in this sort of late stage and engenic systems, like what people will pay for, is basically what will work.
+
+And do you know, manage their life for them, but also potentially manage their job for them and be able to work for them, work for them on their job tasks and the reason why a lot of these existing AI systems can't do.
+
+That is because they don't have access to the data and a lot of the reason why they don't have access to users data is because Are, you know, they're written by these big AI Labs who will take the data.
+
+And, you know, share it with third parties and trade models on it.
+
+There needs to be a little bit more sovereignty about their data if they're going to be able to.
+
+You know, if users are going to be able to add data to a system that's going to help them to to assist them.
+
+So, that's why I'm trying.
+
+I'm leveraging sort of encrypted buckets in a way that, uh, you know, we're not going to sell your data to third parties and everything is stored locally, and users have full control over their data, hopefully in the in the mindset that this will allow people to add more data to a system, Uh, because you know, an energetic system energetic AI is only as good as the data that it has to work against you.
+
+See what I'm saying sure, sure?
+
+Yeah, so, so that's why the assistant PhD comes into place and then assistant PhD sort of becomes an agentic system that users can use.
+
+And this kind of leverages quite a lot of your sort of open.
+
+Claude, you know, Nemo, claw sort of a system where it's an energetic system.
+
+It has access to data and people can use it for their own purposes.
+
+Um, with the hope that I, I mean, I guess I should talk about the ideal customer, so I feel like the ideal customer here is probably probably knowledge workers, uh, you know, you know, anybody?
+
+Basically, but potentially knowledge workers or maybe small businesses or business owners who want to access more of an agentic AI system, but they don't want to necessarily sell all their data or have give all their data access to these big players.
+
+So that's kind of the ideal customer.
+
+It's not really like, it's sort of a tech worker or knowledge worker, but not a software developer, you know, because software developers already have they have open?
+
+Have Gemini CLI and the problem, and they could install openclaw or other kind of systems?
+
+They're already very well serviced, right?
+
+But the knowledge worker that's potentially not as technically Savvy would probably benefit from having a website that's sort of managed, you know, can manage this data, but doesn't require all this attack and setup.
+
+Because the friction is, the friction is way too high.
+
+Yeah, yeah, so anyway, that's kind of the target market and, and I've sort of already started.
+
+Building out the the stack so, uh.
+
+So, for example, uh, you know, I'm working on a variety of different modules, but I, I already have the website kind of built out in a way that It's quite modular.
+
+I'm working with Gemini basically Gemini CLI to sort of build the tool together, doing you know, it's basically doing a lot of the front end.
+
+I'm building the back end.
+
+I'm at the point where I have sort of project management, Uh, uh, and a lot of the modules are just sort of, you know, stand in with with waiting list, and then I have the waiting list set up so that, uh, you know, users can get I.
+
+I need to get more feedback and expose it to users.
+
+It's very stealth right now.
+
+I haven't really made anything public.
+
+I haven't even attached any of these the domains that I purchased.
+
+I haven't even attached them to open world Tech because I feel like there's probably a case where some investors might want to see this in a stealth mode before it becomes public.
+
+Uh, some investors probably are going to want to see it in a public forum where they, you know, they can see how many, how many people are in the waiting list?
+
+How many people are excited about the product, how much, how many you know, uh, pre, you know, uh, sort of beta Alpha Beta users.
+
+Do you have this kind of thing, so I'll probably move to that point, but I feel like there's some benefit on keeping it stealth, at least for some time.
+
+Um, so the main focus I'm working on is projects and also nutrition and fitness.
+
+So, I've built a module that basically lets you, Uh, do things like, take a picture of food, and it's going to add it.
+
+It's going to track your Macros.
+
+It's going to, you know, track your exercise, uh, you know, basically track everything about your health and nutrition.
+
+Once you get the date in, you get Telemetry.
+
+You get, you get analytics like, you know, graphs and charts, Um.
+
+And, and the reason why I'm focusing on these two is because there's there really is, like, some use cases.
+
+So, there's, For example, I mean, there's there's tons of them.
+
+But there's a there's a company called vectal, which I was really interested in?
+
+This is sort of like a project management Suite, uh agent, agent help project management Suite, where you can set up a whole project, and then an agent is going to come in and help you solve some of these problems.
+
+Build documents instead of egyptically help you solve your project management rather than just track it for you.
+
+Yeah, so I'm building that inside of here and and this company just sold for like a million and a half right, and then another good use.
+
+Yeah, exactly.
+
+Well, they got bought by.
+
+They basically got bought by one of their competitors.
+
+I think for quite a small price, uh, but then.
+
+So, so another good example.
+
+Yeah, they probably yeah, exactly.
+
+But I don't know if you saw this, but this is Calais.
+
+I, this is another tool where, basically, you take picture of food.
+
+It gives you macros quite a simple app, but this thing sold for 50 million, uh, Sold to.
+
+I think a company that's owned by Nike or some other company.
+
+Okay, so, yeah?
+
+So, so, basically, I'm building this into the side of assistant, PhD, right?
+
+So, I'm trying, I'm, you know, you know, you know what, it's like, you know what it's going to be?
+
+It's basically a SAS bloodbath.
+
+That's what we're expecting in the next few months.
+
+Every SAS product that is kind of simple can be thrown.
+
+You can throw clogged code or Gemini CLI at it, and some of them can be replicated and Easily and easily replicated and then brought to Market in a way that could take a lot of customer base Anyway.
+
+So, so I'm sort of building a modular system that I can basically do that and pivot into different products based on how they come.
+
+And then, you know, the usual sort of cloud code system.
+
+Well, you know, of course, I'm going to integrate with with Claude or or whatever llm model that you could hook up to, you know, including hugging face, and probably, uh, even local models, if if you know if you just have such a thing, you know, Uh, you know, slack, Google Chat, you know?
+
+The the all of these things are all manageable and all managed, managed to be connected, and I feel like this is the kind of this is the kind of service that doesn't quite exist.
+
+Yet, for some reason.
+
+The big llm developers haven't really developed this, and I feel like, because it's, it's a combination of their business customers.
+
+It's a combination of their users and, and not holding customer data, trying to sell everything as an API.
+
+But I'm, like, hey, cool!
+
+If you want to sell everything as an API, I'll be the API provider and I can collect customers and then use your API, and just, you know, try to take off the top.
+
+And, you know, chart, you know, uh, become the middleman.
+
+If that's how the big lln players want to work with it.
+
+
+
+1:17 PM
+I think it's totally reasonable.
+
+That talks a little bit about the The customer or the the competitor base, as well as the products you see.
+
+Oh yeah, yeah, I mean, I think that's really interesting.
+
+So, so, a couple of things that I've been taught jotting some notes as you've been talking, so one Tron and Thor I I like those movies right on your reading movies, for sure is that which, which Tron, I mean, obviously.
+
+Oh, the very first one, yeah.
+
+So what happened?
+
+Yeah, I was working at digital domain.
+
+This is a company that was visual effects, and we, I'm I'm a Canadian.
+
+And I was living in Vancouver at the time, and then they that company basically wanted to build a visual effects studio in Vancouver.
+
+Just because there was some Canadian tax tax breaks and whatnot.
+
+So it built a whole data center, uh, hold, built out a whole render data center inside Vancouver.
+
+And we had a thousand seats, so we had a thousand seats for a thousand visual effects artists, and then I think we had like a thousand render nodes and like a petabyte of Terror of storage.
+
+And yeah, we were just making movies.
+
+There was a lot of Hollywood movies, they're just sending it up to Vancouver same time zone, building all the videos.
+
+Yeah, first Thor, first Tron, and you know, a bunch of other sort of robot movies.
+
+So, first Tron like 1982 Tron no, no, not that sorry.
+
+Sorry, You're right, you're right.
+
+Sorry, my mistake, the second Tron.
+
+I guess you'd say the first Tron didn't really have any a lot of visual effects that would be back in the 80s.
+
+I was in probably in public school at the time, but I was like, you've aged really.
+
+Well, you might want to, uh, look at a different, but they made a.
+
+They made a couple Tron movies.
+
+So, but yes, yeah, yeah, yeah, so?
+
+And then, Thor, 2011, right?
+
+Yeah, yeah, yeah, yeah, that's okay.
+
+Yeah, yeah, and that's a cool movie.
+
+I love that.
+
+I love the comedic part of Thor.
+
+I've always enjoyed that.
+
+Yeah, because of all the Marvel, uh, you know, it's actually, really funny.
+
+Um, so really cool origin story.
+
+So, when did you start working on like when was, like, the aha date for For open world for your company for open world Tech was that?
+
+Was that, like, I'm basically, you know how it is?
+
+I'm basically, I, I could tell that what I am missing is a sort of project management app that is agent-based and can work for me, and I had already purchased, uh, touch up my photo and touch up my video and touch up my music and I and and I started working with an agentic.
+
+You know, I'm started working with Gemini CLI and Cloud code and realizing, Yeah, I voted these domains for a long time.
+
+But I was, I never had the time to actually build the back end for it.
+
+And now, the back end can be built, and I can leverage existing AI agents, and I can do a lot of the same thing they're doing.
+
+It's basically like selling tokens, right?
+
+So touch up my photo.com.
+
+You can sell users tokens and then with their tokens.
+
+They can pick the back end that they want.
+
+They want to use banana or they want to use some other AI agent.
+
+And, you know, provide a front end for a variety of different tool sets.
+
+Exactly, yeah, so I'm able to basically do that now, and I had this is not something I had had ever really had the time to build the front end and the back end, and actually make it work.
+
+And that was the aha moment.
+
+It's like, okay, well, I can, when was that?
+
+Oh, that was only like, like, a month ago, maybe like two months ago, and then at that point I was, like, okay, I could build out all these touch-ups.
+
+I can build the whole Suite now.
+
+That's awesome.
+
+And then I was, like, you know, what I really need is, I need sort of an agentic system.
+
+So, I, you know, of course.
+
+I installed, uh, I installed open claw, and I installed, uh, you know, Cloud code and Gemini CLI installed, and then you know, I was, like, okay, open Claw Expensive, you know, it's.
+
+It's very expensive when it comes to how many tokens it's taking, and it's it's.
+
+It's really helpful, but it's just much too, way too expensive.
+
+So then, I basically figured out that I can.
+
+I can sort of Leverage.
+
+Gemini CLI, like Google, can give you if you work with Google in the right way.
+
+Use their tools in a specific way, they basically will give you an amazing amount of tokens, and they can build, you know.
+
+Gemini can build these websites in a completely agentic way with backend functionality.
+
+I mean, I have Google auth.
+
+I have database connections.
+
+I, I have amazing.
+
+It's amazing how much it's building and I can still monitor everything is inside of git.
+
+I'm still you know, it's working.
+
+I'm working with pull requests, as I always did, except the pull.
+
+The pull requests are not being generated by humans.
+
+They're being generated by these systems, and I'm approving them and reviewing them, and it's working.
+
+Yeah, yeah, no, it's really interesting, because I think when you just said that statement, like, it's a project management app that's Asian based.
+
+It's sort of like, crystallized, sort of, like, what you're, what you're trying to do.
+
+Yeah, I really rewind it even to like the client server days right when you had, like Windows, right or Java, right?
+
+And then, you have to have tools on top of that.
+
+To build whatever it is, it's sort of.
+
+It's sort of like the city owns, like the water, right.
+
+And then, you're trying to tie tie in the water to your house, right?
+
+And you're building the tools to be able to tie the water.
+
+The main piping from the water from the city into your house to build whatever else that you want to build.
+
+There's definitely a market there!
+
+Yeah, certainly yeah, and and, and I think that's why, you know, like, open AI and Claude and all those there were.
+
+They're looking at building the utility system, right?
+
+But there is definitely certainly opportunities for tools.
+
+I mean, whether it was like, Java developer back in the day, or or all business objects.
+
+Micro strategies if you're looking from analytics perspective, right?
+
+Brio cognos, those types of companies.
+
+But yeah, certainly.
+
+There is a market for for that, Or, and then you point out correctly.
+
+I think knowledge workers people don't necessarily writing code, but are pretty close to it without being able to write code, right?
+
+So, yeah, yeah, makes sense, and I think that people that are right in code is going to drastically change as well.
+
+I mean, once a lot of these, you know, project managers, they've they're.
+
+They're used to managing a product, or that has, you know, a potentially a few Engineers.
+
+Once they realize that They can still build these products without having the the engineers that they used to have to hire the amount of people that are going to be deploying these tools.
+
+I mean, yeah, it's going to be a SAS bloodbath, but I think it's going to be like early days of the internet, or or like, sort of a YouTube kind of environment.
+
+Where there was, you know, there used to be 60 channels on TV, and now there's 600, 000 different things that you could watch.
+
+That's what we're moving into the next age, you know, there used to.
+
+They're there.
+
+Currently, there's like 50 big players that write all of the software for the that that is available as cloud-based systems and SAS based systems.
+
+And in the next few months, there's going to be like tens of thousands of options that are going to be super valuable way cheaper.
+
+They're going to undercut each other in all different directions.
+
+So, yeah, that's why I'm kind of thinking.
+
+Like, if I can build a tool set that is actually attractive to customers and has a variety of options, but it's also piecemeal.
+
+I want to be able to build a system where if someone really isn't, you know they're just in video and editing video.
+
+They haven't.
+
+They don't need to buy into the whole infrastructure, so hope, be, you know, being able to piecemeal the parts out so that if people are interested in writing or music or or photography, yeah, so yeah, that's kind of.
+
+Yeah, that's kind of the main plan.
+
+But yeah, let's have to see.
+
+Um, yeah, I know, I think.
+
+I think it's cool.
+
+I think your idea has Merit to it because, like, I said, the analogy, that kind of resonates with me after you said project management app.
+
+That's ancient base, you know?
+
+It's like you tie into the city water line.
+
+Yeah, and you get to build whatever house you want to build.
+
+You want to build a Victorian.
+
+Do you want to build a modern?
+
+Do you want to build two stories?
+
+One story, a ranch style, whatever, right?
+
+But there's, there's there's a need to have tools that allow you to build those types of things.
+
+Yeah, makes sense.
+
+Yeah, makes sense.
+
+There's a lot.
+
+There's a lot of Intel.
+
+There's going to be a huge explosion of intelligence.
+
+That's the thing that I think people need to really start to leverage right now.
+
+Uh, because that explosion of intelligence is going to change how everybody operates, uh, you know, and I can imagine the future.
+
+And it's not very far off a few months out where you're basically going to have an agent that's going to be helping with you with your task.
+
+I can't imagine, and then obviously, a lot of people will probably resist.
+
+But to be honest, as the agents get more intelligent and sort of PHD level, if you don't have an agent that's helping you with your daily life and with your daily work, you're gonna fall behind.
+
+People won't have a choice, and I, I suppose it's a little bit like that movie her where I can imagine.
+
+Like, people, you know, you're going to be talking to an agent in your head, and you don't want to.
+
+But honestly, this thing is better ideas than you, and I feel like I'm already there, you know, I mean, whenever I think to myself, oh, this is a super interesting problem, I really should.
+
+I should do some research, and I should look into this.
+
+I have to immediately tell myself I need to stop doing that.
+
+The first thing I need to do is send this idea to Gemini or or or clog code or even open AI systems and be like, review this whole concept.
+
+
+
+1:26 PM
+Tell me what I'm missing because I.
+
+You get great ideas.
+
+It's almost, we're almost at the point now where.
+
+It's, like, yeah, we need to sort of throw this intelligence.
+
+Intelligence is now a commodity that people need to leverage more.
+
+And this is the this is the idea.
+
+This is the concept.
+
+I mean, I think AI, I mean, just like technology in general, I think it does a really great job of raising the floor, right?
+
+Yeah, um, and and you raise the floor.
+
+I mean, AI is gonna allow us From just a human perspective to raise the floor quite significantly, right?
+
+It's a pretty significant job in terms of raising the floor, right?
+
+Um, it's fascinating how people are applying Ai and a lot of different ways to even like, do review this for me and right.
+
+And, and to be able to think about that, I mean, there's always biases because people are still writing good and stuff like that.
+
+But, but it's really interesting how people are utilizing this in a lot of really novel ways and being able to apply it in a lot of.
+
+I mean, this is, like, the next New Frontier, right?
+
+So it's gonna be interesting to see how the Wild Wild West lasts.
+
+Yeah, yeah, yeah, yeah, yeah, I imagine I'm a magic drastic change.
+
+Yeah, and I mean, a lot of people, you know, in the, you know, a lot of thought leaders are basically like, there's sort of an unlimited, uh, appetite for software and software development.
+
+I'm not sure about that.
+
+To be honest, Lot more software development that can happen, and a lot of individual, like even private companies and SAS companies.
+
+Oftentimes, I mean, quite a bit of argument where it's like, buy versus build, and it feels like build is going to be a lot more of attractive solution.
+
+When buy used to be the solution in the past and bai used to be like a multi-million dollar contract, and now build could be like several agents, a couple employees building the software.
+
+That's sort of a little bit more bespoke, and it does exactly what we want, and it feels like there's going to be a lot less, Uh, buy, and a lot more build, and I feel like a system like that is potentially going to happen.
+
+It's going to really leverage that.
+
+And if system, you know, and even the employees like the knowledge workers that are working for these companies if they're going to have to build a lot more software.
+
+They're going to need a lot more assistance to do it.
+
+So, yeah, yeah, yeah, yeah, yeah, yeah, it sounds really interesting.
+
+So, so I appreciate the origin story and all the background information.
+
+How?
+
+What's your team looking like it's so it's.
+
+Is it just?
+
+It's just me, you know you yourself and I, yeah, it's basically just myself.
+
+Yeah, I mean, I've built.
+
+I'm building out a whole Suite of tools, and I feel like I I, I'm it's amazing how much, how much progress I've made.
+
+I feel like I could probably build, like, the entire Suite that I set up.
+
+I could probably build the whole thing in like six months to a year, but in six months to a year, this whole Market is evaporated, and it's completely transformed into a different kind of Market.
+
+I feel like the big I feel like the big the big, uh, you know, llm companies will basically have something like this in probably a six to eight to 12 month time frame, So the question is, can I get funding to to upstage that market and build something before they have that and actually get customers.
+
+Can I get the funding?
+
+I mean, honestly, this whole thing is just a cool, fun, interesting kind of idea unless I could get funding if I can get funding.
+
+Then there's a real possibility for growth and the real possibility for creating a lot of customers.
+
+And I'm kind of excited to move to that next level.
+
+Get it open to the public.
+
+Get customers involved.
+
+Start posting like YouTube videos about how this system is set up.
+
+What are the tools that we're using.
+
+How are we leveraging different AI agents, and then you know attracting customers basically based on, uh, you know, uh, Not only the tool set, but how the tool set is built?
+
+You know, This is going to be very interesting.
+
+But again, like, I say, I kind of need the funding.
+
+I need that cro, sort of, uh, someone to help with with the funding side.
+
+Because I've been building these kind of tools, and I've had all, I guess I sort of see myself as kind of the idea.
+
+Guy, I've got all these ideas in my head for what can I build next?
+
+What can I build next?
+
+And honestly, the challenge for me and a lot of people like me, is, is actually, you know, stop thinking about new things to build and actually deploy the thing that that we need to build for next week so that we can, you know, uh, you know, do the do the, uh, Do the marketing push, or, or, you know, set up the waiting list and actually get customers and stop thinking because I'm already at the point where it's like, okay, I could.
+
+There's there's more.
+
+There's more.
+
+Every time I come back, you know?
+
+Every time I talk to my wife about that, she's like, oh, why don't we do this?
+
+Why don't we?
+
+So that's why it's like, I touch up my photo touch up my video.
+
+I mean, I, that's been my background, and I know I'm the visual effects guy, but I'm like, well, why stop there?
+
+I mean, touch up my music.
+
+Yeah, obviously, I could be able to do that.
+
+And yes, touching my writing, it should be there because, you know, everybody wants to write within certain styles or in certain types.
+
+And I mean, yeah, you know, AI agents you can kind of prompt them to do that.
+
+But you could also just have a tool that would just help you do that in a way that is more effective, you know, touch up my art.
+
+I mean, there's just.
+
+There's there's no end to the once you have this General AI agent.
+
+It can help you do anything.
+
+But yeah, yeah, you know, I'm the same way.
+
+It's always the idea.
+
+The idea is never stop.
+
+I think the one thing I've learned is just to write it down so I can come back to it.
+
+Yeah, right.
+
+That's, like, I thought.
+
+That's really Is popping up, but that idea is Merit.
+
+I need I need to.
+
+I need to dig deeper in that, but I need to be able to come back to it, but no, it's really fascinating.
+
+So, so you are you just trying to hire one co-founder.
+
+Are you trying to build out a co-founding team?
+
+That's a great question, and I'm like, I say, I haven't really built this.
+
+I mean, in my mind, my intuition is usually a company of.
+
+This size has like three, because you know, at the c-suite, it's basically CEO see probably a product officer, probably a CL, like a CEO, maybe a CTO, and I, I sort of originally sort of designed it.
+
+In my mind, that these these co-founders would sort of share the the pool and every, and you know they would share responsibilities, and it would make sense.
+
+Although I'm getting sort of suggestions when I talk to people that it's probably better for the main, uh founder, to try to maintain a, uh, Control, and a lot of investors are not going to want the company to be diluted against a lot of different people, so you know, it's probably going to be A couple co-founders who have a lot of equity But not fully diluted.
+
+The main, the main, uh, the main architect, but in a way that investors can still, you know, realize that there's a really interesting team.
+
+There's a lot of variety in the team.
+
+Um, but, and there's also scale, but there's also the safety and reliability of having an owner who has, you know, voting level control?
+
+Yeah, I mean, I think being solo entrepreneur.
+
+Obviously, there's in some obvious Advantages.
+
+There's also some disadvantages, too.
+
+Sometimes you get.
+
+It's nice to have that external voice to get perspective, right?
+
+I think that's in my experience and all the different businesses that I've been involved.
+
+I've always valued different perspectives, not necessarily.
+
+No, I have to agree with them, or I have to do it that way, but it's good to make you think.
+
+Like, maybe we should really consider that.
+
+I think that that's a good checkpoint, But I've also seen where it's overly diluted.
+
+I've seen.
+
+I was talking to one co-founder and his said his.
+
+His founding team had like 14 people, and I was like what I don't.
+
+I mean, I was like, like, real founding team, or like the advisors, but even then, you're gonna get diluted because I'm sure you're paying your advisors with equity.
+
+And, like, you're getting diluted.
+
+But, like, you know, maybe two, three, four, Max, right?
+
+Depending on how you slice and dice the equity, but you.
+
+But yeah, to your point, you want an idea guy like typically he or she's gonna be the CEO, right?
+
+And then you want some type of operational person CEO cro.
+
+That's the role that I've usually played, and then you want someone who's who can write code, right?
+
+Um, sometimes there's a there's a combination with the CEO, the chief technology officer, but but usually three, is probably good.
+
+Um, one thing I've also seen really effective in 2026 or 2025 2026 is a lot of people.
+
+It's two different routes, right?
+
+It's adding somebody who's like a cheap designer, somebody who's more, like, back in oriented.
+
+Want somebody who's more front-end oriented or Go after they'll even look at like a chief legal officer for the contracts perspective I've seen?
+
+I've had conversations with people who wanted like a lawyer, and that's not.
+
+I mean, 10 years ago, we're like, why is that needed that's not needed anymore, right?
+
+But in 2026, where especially you're dealing with B2B B2B to C, sometimes that leading component becomes really interesting again, depending on what type of business model you're trying to go after.
+
+Um, yeah, so I'm glad that you're thinking along those lines, I think that it's really important.
+
+Are you guys or is open world?
+
+Uh, Is open, world Tech Incorporated, or are you the House of speaking corporate?
+
+No, I already Incorporated it in Delaware.
+
+I.
+
+Basically, This is again Gemini.
+
+Like, how do I incorporate a company?
+
+And it tells you so.
+
+So I went to clerky, which is like clerky.com, which is a website that's incorporate.
+
+Yeah, yeah, it's all incorporated in Delaware.
+
+It's already done.
+
+I already have all my shares set out.
+
+I already, you know, filled out all the forms sent anything to IRS.
+
+I don't have any, uh, it's.
+
+It's basically a Delaware Corporation, but I'm running operating out of Florida because I happen to be living in Florida, and that's always a good idea, so I'm registered with the, you know, Sunshine, State, and uh, everything is running out of out of Delaware.
+
+
+
+1:35 PM
+As far as I know, everything is sort of operational at that point.
+
+80 worth of stock, and then I have everything sort of organized.
+
+Uh, but but yeah, I, I don't.
+
+I mean, the corporate incorporation part of it was kind of pretty cookie cutter at this point.
+
+Clerky made it really easy.
+
+I read through all the documents and I didn't really feel like I was reading anything that, even though I'm working, you know, obviously, sending stuff the IRS stuff.
+
+I didn't really feel like everything was kind of legalese in a way that I didn't understand, so I don't really have any legal representation at this point?
+
+I'm just kind of like it's a quarter corporated company and sort of nothing seems so complex that it's not human understandable, or that I would need a lawyer yet, but I'm sure that's not going to happen soon.
+
+Once I get hiring employees and co-founders and all that, yeah, correct, correct?
+
+I mean, yeah.
+
+Clerky is really good.
+
+Atlas, um stripe Atlas, is really good.
+
+There's another one for co-founders that are international.
+
+I think it's called Doula or something like that, but that's, but that I heard good feedback on that.
+
+Yeah, um, yeah, that's the only thing that probably, Um, if we were to join forces, we would need to investigate is, how do you add co-founders once the co-founder once?
+
+Once it's been Incorporated, I don't know what the process is.
+
+I always have been involved with, you know?
+
+I've always been, uh, at zero Day Zero about day one.
+
+Yeah, whatever you want to call it, right?
+
+I, I don't know how I don't know I was.
+
+I was recommended from from basically Gemini.
+
+I basically recommended from LM agents to incorporate at this point, and it's because of the investors like I was recommended because the investors would rather see, like, they don't really want to deal with an LLC.
+
+They don't really want to deal with an interesting idea if it's an incorporated company, then it's sort of already structured, and they could just jump in and start investing, and it sort of becomes a little bit more straightforward for them.
+
+They don't want to deal with this, you know, Statewide regulations and all that.
+
+So, it made sense.
+
+I was, like, okay, well, message do it.
+
+It's not.
+
+It's not prohibitively expensive.
+
+Um, and then, what happens when you do have co-founders?
+
+Is that you take the whatever, whatever the the stock share is, you're able to sort of return.
+
+Stock Talks back to other co-founders or Equity based on cliffs and time frames.
+
+And, and that's all, very well, manageable.
+
+Obviously, you have to do it in a certain way so that you don't make it look like an in-kind gift, or you don't make it look like you're transferring stocks from one user to another because there's tax implications, so you know you have to do it in a specific sort of way, but I feel like it's quite easy to just move, you know, modify the stock pool you do have to, uh, you know.
+
+Resubmit another 83b and go back to, you know.
+
+Resubmit everything back to the government because the government wants to know how that all changes, but right.
+
+Yeah, clerky is able to do all that as well.
+
+They have documents for all that for, you know, adding co-founders, adding employees and I bought the sort of life life time with clerky.
+
+So, if I want to make any changes at any time.
+
+I just send them an email or go to the forums on their website, and they can make modifications as straightforward.
+
+Yeah, yeah, because I've always been involved in day one, and so what we typically do is we get the co-founders.
+
+We allocate whatever the shares are.
+
+Then, we also, uh, create a sleeve for investors as well, but it sounds like this is also something that can be done with clerky, and I'm glad that you, yeah, you paid for the.
+
+That should make it fairly seamless.
+
+Cool, you know?
+
+What I would suggest is, I think we we allocated, uh Uh, 45 minutes or something like that.
+
+Yeah, And I do have a hard stop in a little bit.
+
+Um, one of the things, um.
+
+So, it sounds really interesting, and I think I could bring things to the table.
+
+Um, what I'd like to do is schedule another call where I can see a product demo.
+
+Yeah!
+
+And then.
+
+Also, I really understand, like all the specifics of what you need, because I think one of the things I've also learned with working with a team right is making sure we're level setting expectations.
+
+I mean, some people want things a certain way, and that's fine, right?
+
+We just want to make sure that we're all in agreement to that, because the the one thing that surely will fracture a team is, if everybody you know is offering their own home, right?
+
+And there's no commonality, yeah, right, right?
+
+And, um, I want to make sure that that's the case.
+
+Um, when we still this meeting, did we schedule?
+
+Uh, did you send me calendly, or did we schedule like I would have to go back and check, but I, I have a cow?
+
+I have a Cali link.
+
+I can send it to you.
+
+We can reschedule another one.
+
+Yeah, yeah, I can show you another one.
+
+I'll make sure to send you another.
+
+I'll send you an email with a follow-up at the end.
+
+We'll, we'll definitely schedule another, uh.
+
+Another meeting, that's we'll be.
+
+I'd be fantastic.
+
+If we could, I'd love to get more thoughts.
+
+Um, but before we go, though, do you have a feeling.
+
+I mean, I feel like after talking with a couple other different, uh, sort of people that were interested.
+
+Like, probably at this point, I'm not really going to have to go for like a full-time co-founder.
+
+I need the funding level.
+
+I mean, it doesn't make sense to really bring on people in this.
+
+There's some level of funding, so I'm thinking like, and I mentioned in the email sort of like an Advisory board, something that can help with the funding side.
+
+What's some of the funding comes in, then?
+
+It's like, okay, now we can, like, really start talking about how many employees, how many Engineers, how, how quickly can we move?
+
+What's the product going forward?
+
+But yeah, that's why I was thinking, like, you know, sort of, uh, I feel like, I'm very close.
+
+I mean, I obviously need a lot more feedback, but I'm pretty close on the pitch deck and the company and the corporation of the organization.
+
+I feel like I could probably pitch it to VCS or different kind of funding organizations quite soon.
+
+I, I, my pitch decks white module I can.
+
+I can make changes.
+
+Uh, so that's kind of where I think I probably should be heading first.
+
+Yeah, what?
+
+I, what I would say in again in my experience with this is?
+
+I think you need to get because the team right and how you assemble the team, because remember the product is going to evolve.
+
+Everybody thinks that the products that products are not static.
+
+They always change, especially in early stages, right.
+
+Yeah, and when you're looking at an investor because I've invested right.
+
+When you're looking at an investor, it is the product.
+
+I mean, you don't want something.
+
+That's, I mean, it is 2026, so that whole, like, I'm gonna draw this out in the back of a paper nap on a paper, napkin only works if you like exited four times, right?
+
+Yeah, project multiple beer for your investors, right?
+
+That's the only time they'll they'll take the the paper napkin approach, right?
+
+But, but you do need a team that's going to allow you to give your investors a sense of credibility and confidence that you can be able to execute on your idea, right?
+
+And I think that if we don't have that right, and it could be one person, it could be two people.
+
+It could be two people, I don't.
+
+I, you know, I don't think there's a set number of what that team should be.
+
+It's good a lot, though.
+
+You're sure.
+
+Sure, Yeah, if your team doesn't have credibility, no investor is gonna go for it.
+
+Yeah, I mean, they're not, I agree.
+
+Yeah, they're they're just gonna go okay, great.
+
+There's another, because remember, well, I'm not.
+
+I don't know about Florida, but here in California, there's just a gazillion ideas out there.
+
+There's the money the market is flooded.
+
+It is, absolutely.
+
+Yeah, yeah, yeah, yeah, yeah, yeah, the idea.
+
+It's a really cool idea, but having People to be able to execute that idea, right?
+
+Because again, the the product itself could be cool, but I guarantee it's going to change.
+
+I mean, there's just so many stories of companies that pivot you mentioned.
+
+Slack, for example, snap, I mean, Facebook.
+
+I mean, there's so many companies that have changed over the time and have evolved over time.
+
+I mean, yeah, right, you know, it's really about making sure you have the right team.
+
+There's their mission oriented They buy in And, and obviously, they have their swim Lanes, right.
+
+But it also complementary, right?
+
+I mean, I, I've also look at teams where, wow, there's just a lot of friction here.
+
+All right, I don't know if I want to join you guys because you guys seem to like, I mean, there's nothing wrong with some creative differences, but this is beyond creative differences.
+
+Yeah, I agree, I agree.
+
+Oh yeah, yeah, absolutely.
+
+That could happen.
+
+I mean having having a vision and then having a shared Vision that multiple people can buy into is two different things.
+
+Yeah, yeah, you.
+
+Do you want to put your um accountly link on the chat?
+
+And sure, yeah, yeah, yeah, you see, like a real cool guy!
+
+I mean, I would definitely be interested in in having a follow-on conversation.
+
+Absolutely!
+
+Yeah, yeah, here.
+
+I'd love to see the product and would love to get more ideas of what you're looking specifically for.
+
+So, if I came in, I was like a, a CEO, CEO, cro, and like, what are your ideas for the chief technology officer and the chief product officer?
+
+Yeah, like, what are you looking for?
+
+Absolutely!
+
+Yeah, yeah, we could definitely go through all that and talk a lot about the the different kind of, you know?
+
+Like, I say, I mean, I've mostly worked for other corporations in the past that haven't really had to think about this sort of sea level, but but, I mean, I feel like they've got a decent idea an intuition about how to organize the company at the top, um, um, um, um, Have a lot of experiences, was talking with investors, and what do investors want to see?
+
+I think you're absolutely right.
+
+The product is, is, it is, is obviously interesting the background, but the team is so critical.
+
+
+
+1:44 PM
+I mean, if if the the investors are going to say?
+
+Going to be, you know, definitely sold on.
+
+This team is able to build a good product, you know.
+
+I mean, it doesn't even have to be the product that I'm pitching today, but if we invested this team and they, you know, they have the background experience to build a product that customers will actually pay for that.
+
+That's probably all they're looking for, and I think that would be, you know, it's an excellent idea, and I'm definitely thinking thinking in that direction.
+
+I just don't know how attractive I can be to, uh, to an executive level without the funding, but it's sort of a chicken and egg.
+
+I mean, yeah, exactly, exactly, and the other thing that I would say in my experience working with early stage companies is, what's your differentiator, right?
+
+There's so much noise out there, right?
+
+Everybody kind of sounds the same at the 30, 000 foot level, right?
+
+What makes me want to pause for the next five minutes to read your day.
+
+Great.
+
+I mean, it sounds so kind of dry about it.
+
+There's a lot of stuff out there, and you're like, dude.
+
+I've heard so many people say this than the other, and it's all great.
+
+Yeah, all that.
+
+Um, but but you know you have a credible team that can execute on that idea.
+
+One, do you have a really interesting idea ide, Iga to Market, and a second?
+
+What's your differentiator?
+
+I mean, what's going to cause me to stop what I'm doing because I'm obviously busy doing my thing right to say, yeah.
+
+I want to take a look at that.
+
+I mean, to me, your your story about that market, and the fact that you're able to crystallize that project management application, uh, with, uh, with a agentic interface.
+
+I think that that's a really interesting tagline.
+
+Yeah, But but yeah, I mean, Absolutely, be more than happy to do another one.
+
+Yeah, absolutely good, cool, very cool.
+
+Yeah, talk soon.
+
+Okay, thanks.
+___
+
+
+
+
+
+
+
+
+Gemini said
+Here is a summary of the key takeaways from your introductory call with Francis. Overall, it was a very strong conversation—you established great rapport, your technical background clearly gave him confidence, and he actively validated your product strategy.
+1. Francis's Background & Value Proposition
+	•	The "Goldilocks" Operator: He specializes in finding the sweet spot between early-stage agility and "adult company" enterprise processes.
+	•	Heavy-Hitting Resume: He started in Enterprise (Oracle, Microsoft), moved to FinServ (JP Morgan, E-Trade), and then to successful startups (Comprehend, Sendbird).
+	•	Current Focus: He is currently acting as a quasi-COO/CRO for stealth startups, helping them scale from Day 1 to an eventual exit (IPO/M&A).
+2. The Product Pitch & Origin Story
+	•	Your Background: Your history scaling PlayStation globally and building massive rendering data centers for visual effects (Thor, Tron) landed perfectly. It establishes you as a serious technical founder.
+	•	The Problem/Solution: You clearly articulated the "Data Sovereignty" problem. Knowledge workers want agentic AI, but they don't want to hand their private data over to big AI labs. You are building the encrypted, secure bridge for them.
+	•	The "Aha" Analogy: Francis strongly resonated with your explanation of the product. He summarized it beautifully: The big AI labs are the "city water supply," and you are building the "plumbing and the houses" (the bespoke tools for specific knowledge workers).
+3. The Team & The "Chicken vs. Egg" Problem
+	•	Corporate Readiness: Francis was pleased to hear you are already a Delaware C-Corp via Clerky with a clean cap table. This removes a major administrative hurdle.
+	•	The Team Size: You discussed the 3-person C-suite ideal. Francis agreed that solo founders have it tough and that 3 is a sweet spot (CEO, COO/CRO, CTO/CPO), occasionally adding a legal or design lead depending on the B2B/B2C focus.
+	•	The Funding Reality Check: You expressed concern about attracting executives without funding. Francis gave you some candid VC realities:
+	•	Investors buy the team, not just the product. Products inevitably pivot; if the team lacks credibility or cohesion, VCs will pass, no matter how good the tech is.
+	•	You must have a team that gives investors the confidence that you can execute.
+4. Next Steps & Action Items
+	•	The Differentiator: Francis advised that going into the raise, you must have a sharp, one-sentence differentiator to cut through the Silicon Valley noise. He loved: "A project management app with an agentic interface."
+	•	Follow-Up Meeting: You agreed to schedule a second, deeper-dive meeting (you need to send him your Calendly link).
+	•	Agenda for Call #2:
+	•	A live product demo of Assistant PhD / Genius Suite.
+	•	A deeper discussion on exactly what you need the COO to do vs. what the CPO/CTO will do.
+	•	Level-setting expectations to ensure you both share the exact same vision for the company's trajectory.
+My take: Francis is highly credible. He didn't just passively listen; he engaged, summarized your points with his own analogies, and gave you actionable advice about how VCs think. He is definitely worth advancing to the product demo stage.
+
+
+
+
+
+
+
+
+
+
+You said
+bard
+
+
+
+
+
+
+
+Gemini said
+I actually go by Gemini now, but I'm still the same helpful AI!
+We've been making some incredible progress on building out the OpenWorldTech executive team and prepping for the $1M pre-seed raise. What would you like to tackle next—should we prep the product demo agenda for Francis, or get ready for one of the other upcoming candidate calls?
+
+
+
+
+
+
+
+
+
+
+You said
+Can you write an email reply for Francis. Let's include:
+- thanks for the call, below is a summary of the key take aways that I was able to jot down during the call: (include key points)
+- let's setup a secondary call... feel free to pick a time on my calendar here... https://app.cal.com/mpursley/60min
+- for the next call we can focus on these agenda items: (include items)
+
+
+
+
+
+
+
+
+Gemini said
+Here is a drafted follow-up email for Francis. It maintains the professional, collaborative tone from your call, highlights the exact points he resonated with, and clearly sets the stage for the product demo.
+
+Subject: Follow-up: OpenWorldTech Intro / Next Steps
+Hi Francis,
+Thanks again for jumping on the call today. I really enjoyed the conversation and appreciated your perspective on finding that "Goldilocks" zone between early-stage agility and enterprise scale.
+I jotted down a few key takeaways from our discussion that I think really crystallized the strategy:
+	•	The "City Water" Analogy: I loved your framing of the big AI labs acting as the "city water supply," while we are building the actual plumbing and houses (the bespoke tools) for knowledge workers who want data sovereignty.
+	•	The Differentiator: Narrowing the pitch down to a "project management app with an agentic interface" is a powerful, clear tagline to cut through the noise.
+	•	Team & Execution: We are completely aligned that investors buy into a credible team's ability to execute and pivot, rather than just a static product. I'm glad our 3-person C-suite plan and the existing Delaware C-Corp (Clerky) structure fit that mold.
+I would love to schedule a secondary call so we can look at the actual architecture. Feel free to pick a time that works best for your schedule here: https://app.cal.com/mpursley/60min
+For this next call, we can focus on the following agenda items:
+	•	Live Product Demo: A walkthrough of the Assistant PhD / Genius Suite ecosystem.
+	•	Role Specifics: A deeper dive into the exact division of labor (specifically what I am looking for in the COO vs. the future CPO/CTO).
+	•	Level-Setting: Aligning our expectations to ensure we share the exact same vision for the company's trajectory and scaling process.
+Looking forward to picking up where we left off.
+Best regards,
+Matt Pursley
+CEO & Founder, OpenWorldTech.io
+email: mpursley@gmail.com
+www: https://mattpursley.com
+cell: (772) 226-0559
+
+
+
+
+
+
+
+
+
+
+You said
+Ok we got a reply from Francis...
+___
+
+---------- Forwarded message ---------
+From: Francis Marantal <francis.marantal@gmail.com>
+Date: Wed, Apr 1, 2026 at 10:05 AM
+Subject: Re: Co-Founder / Chief Operating Officer, OpenWorldTech.io
+To: Matt Pursley <mpursley@gmail.com>
+
+
+Matt -
+You're welcome. Thank you for your recap. Please see mine below.
+
+I appreciate you sharing your background (SRE/DevOps, Tron, Thor, American Museum of Natural History, Sony), competitors (Vecta), and applications (Cal AI). Additionally, as mentioned, the tools market has had a lucrative history dating back as far as the Business Objects, Microstrategy, Brio, and Cognos days.
+With other stealth mode/pre-seed/early-stage companies, I have played the role of COO / CRO, focusing on business formation, GTM, technical advisor, fundraising, and strategy. For equity-only compensation, I can work part-time for 10-15 hours per week, depending on deliverables (happy to join full-time once funding is secured).
+I'll book a time on https://app.cal.com/mpursley/60min?month=2026-04 momentarily.
+- Francis
+___
+
+
+
+
+
+
+
+
+Gemini said
+This is an incredibly strong signal from Francis. His email shows high engagement, active listening, and the kind of boundary-setting you want from a seasoned executive.
+Here is a quick breakdown of what his response means for your negotiation, followed by a drafted reply.
+Strategic Breakdown
+	•	High Engagement: The fact that he took the time to write out his own detailed recap—specifically naming your past projects and the historical tech comparables—proves he isn't just treating this as another casual interview. He sees the market potential.
+	•	Realistic Boundaries: His offer of 10-15 hours per week for an equity-only, pre-funding role is a very standard and realistic approach for an executive of his caliber. Since your primary "Day One" objective for this role is driving the pre-seed raise, 15 focused hours of investor networking and strategy per week is absolutely enough to get the job done. +1 
+	•	Clear Alignment: He explicitly states he is "happy to join full-time once funding is secured." This aligns perfectly with the "Scenario D" Executive Employment Agreement we drafted, where the $130k–$165k salary triggers immediately upon closing the $1M SAFE. The standard 1-year cliff still protects your cap table if things don't work out. +1 
+Drafted Reply
+Here is a quick, straightforward reply to acknowledge his recap and confirm you are on the same page regarding his time commitment.
+
+Subject: Re: Co-Founder / Chief Operating Officer, OpenWorldTech.io
+Hi Francis,
+Spot on with the recap. I agree entirely with the historical comparables—there is a massive opportunity to be the definitive toolset in this next cycle.
+The 10-15 hours per week pre-funding works perfectly for this stage. It gives us plenty of bandwidth to lock in the GTM strategy and drive the fundraising pipeline, and it aligns exactly with how I plan to structure the transition to full-time once the capital clears.
+I'll keep an eye out for the calendar invite for our next call so we can jump into the product architecture.
+Best regards,
+Matt Pursley
+CEO & Founder, OpenWorldTech.io
+email: mpursley@gmail.com
+www: https://mattpursley.com
+cell: (772) 226-0559
+
+Since he is proposing a fractional schedule prior to the funding, do you want to keep the employment agreement exactly as we drafted it for Scenario D, or would you like to add any specific deliverable milestones tied to those 10-15 weekly hours?
+
+
+
+
+
+
+
+
+
+
+
+
+
+You said
+> Since he is proposing a fractional schedule prior to the funding, do you want to keep the employment agreement exactly as we drafted it for Scenario D, or would you like to add any specific deliverable milestones tied to those 10-15 weekly hours?
+
+
+Yeah, lets look into options for this:
+- Advisory Board: For 10-15 hours per week.. should we propose the "Advisory Board" role? at what % of equity?
+- Co-Founder: Investors might want to see 2-3 "Co-Founders" to get interested?
+- Based on Thad's advice to keep the "Original Architect" at 70-80% pre-Series A, allocating 10-15% to the COO and 10-15% for a future CTO/Option Pool.
+- I do have meetings setup with Eric, Andre, Rod and Rakesh later this week... so I don't want to make any binding decisions until I've chatted with them all first...
+
+
+
+
+
+
+
+
+Gemini said
+Francis offering 10 to 15 hours a week pre-funding is an incredibly strong signal. That is practically a part-time job, showing he is highly motivated to get this $1M round closed.
+However, you are absolutely right not to rush into a binding decision when you still have heavy-hitters like Eric, André, Rob, and Rakesh on the calendar.
+Here is a breakdown of how to structure this mentally, leveraging Thad's excellent cap table advice, and how to keep Francis engaged without putting a ring on it just yet.
+Option 1: The "Advisory Board" Route
+	•	The Reality: 10 to 15 hours a week (40–60 hours a month) is way beyond a standard Advisory Board role. The FAST agreement we discussed earlier is designed for 2 to 4 hours a month in exchange for 0.5% to 1.0% equity.
+	•	The Math: If you brought him on fractionally for that much time without the Co-Founder title, the market rate is typically an "Interim COO" or "Fractional CRO" agreement ranging from 2.0% to 5.0% equity, vesting upon funding.
+	•	The Catch: As you noted, this hurts your optics. Investors want to see a committed founding team, not a solo founder with a highly-paid consultant.
+Option 2: The "Fractional-to-Full-Time" Co-Founder (The Winning Play)
+You can give Francis the Co-Founder & COO title immediately to satisfy investor optics, but write the contract to reflect his specific fractional reality.
+	•	The Structure: The Executive Employment Agreement stipulates that he commits 10–15 hours a week for $0 salary pre-funding. Upon closing the $1M SAFE, the contract automatically triggers his full-time commitment and his $130k–$165k salary.
+	•	The Equity (Thad's Model): Thad's advice to keep the Original Architect at 70–80% pre-Series A is spot-on and much safer than giving away 29% right out of the gate.
+	•	Matt (CEO): ~75%
+	•	COO: 10% – 15% (Subject to a 4-year vest and 1-year cliff. If he doesn't secure the funding, you fire him before month 12, and he walks away with 0%).
+	•	Option Pool / Future CTO: 10% – 15%
+This model protects your control, gives the COO a massive incentive (10–15% is incredibly high for a late-joining, non-technical founder), and keeps the cap table pristine for investors.
+
+The Strategy: How to Stall Francis (Politely)
+Since you need to finish your interviews this week, you need to keep Francis warm without sending him a term sheet. The goal for your next call with him is to make it 100% about the product and strategy, not the contract.
+Here is the play for your upcoming meeting with Francis:
+	1	Acknowledge and Validate: "Francis, 10 to 15 hours a week pre-funding is perfect. That gives us plenty of bandwidth to build the investor pipeline and refine the GTM motion."
+	2	The Pivot to Product: "Because that structure works so well, I want to spend our entire next call getting your eyes on the actual Genius Suite architecture. I want to see how you would personally pitch this to your network."
+	3	The Stall: "I am finalizing the exact equity math with my cap table model right now based on some shifting allocations for the engineering pool. Let's hammer out the product fit first, and if we are fully aligned, I will present the formal deal structure to you early next week."
+This keeps you in the driver's seat. You get to see his strategic chops during the product demo, and you buy yourself the time you need to evaluate Eric, André, Rob, and Rakesh.
+
+
+
+
+
+
+
+
+
+
+You said
+Ok sounds good... re: "Genius Suite architecture"
+
+I don't have much laid out for the Genius Suite architecture yet... been focusing on the Assistant-PhD setup first... delaying on details for the Genius Suite architecture until OWT needs to have that setup for scaling?
+
+
+
+
+
+
+
+
+Gemini said
+This is a completely normal reality of the zero-to-one phase. You are building the wedge (Assistant-PhD) first to get traction, which is exactly how you should be spending your limited time.
+However, because Francis has that heavy-hitting Oracle/Microsoft enterprise background, you cannot hand-wave the Genius Suite. He is taking this meeting because he sees the massive enterprise upside of autonomous SRE. If he thinks you only want to build consumer fitness and project management tools, you might lose his interest.
+You don't need a finished codebase or a complex AWS architecture diagram for the Genius Suite yet, but you do need a compelling, logical blueprint.
+Here is exactly how you frame this reality to Francis on the next call to make it look like a brilliant strategic choice, rather than a missing piece of homework.
+1. Own the "Wedge" Strategy
+When you do the product demo, be fully transparent that he is looking at Assistant-PhD.
+	•	What to say: "Francis, I'm going to demo Assistant-PhD today. This is our Go-To-Market wedge. I intentionally delayed building the heavy backend architecture for the Genius Suite because I wanted to prove the agentic workflows, data sovereignty, and user acquisition model on lightweight consumer tools first. Assistant-PhD proves the engine works."
+2. Pitch the Genius Suite as the "Phase 2 Roadmap"
+You don't need to show him architecture; you just need to explain the mechanics of how it will eventually work. Use the analogy he already loves.
+	•	What to say: "If Assistant-PhD is building the 'first houses' to prove the plumbing works, the Genius Suite is the commercial skyscraper we build next. The architecture for Genius Suite won't be a consumer web app; it will be a secure, headless agentic layer that integrates directly into enterprise CI/CD pipelines (GitHub Actions, Jenkins) and observability stacks (Grafana, Datadog)."
+3. Turn the "Missing Architecture" into an Interview Question
+The best way to handle a gap in your startup is to ask the COO how they would fill it. This tests his strategic chops and makes him feel like a Co-Founder immediately.
+	•	What to ask him: "Right now, my plan is to use Assistant-PhD to build the waitlist and show top-of-funnel traction to investors to close the $1M. Once the money is in the bank, I shift 100% of my focus to architecting the Genius Suite for enterprise beta testers. Given your enterprise GTM background, do you agree with that sequencing, or do you think institutional investors will demand to see a Genius Suite MVP before they write a check?"
+Do you want to map out a high-level conceptual slide?
+Even if you don't have the technical diagram built, it might be incredibly helpful to have a single "Roadmap" slide that outlines what the Genius Suite will be.
+If you'd like, we can brainstorm the 3 or 4 bullet points that describe the Genius Suite's future architecture (e.g., local LLM integration, automated infrastructure-as-code generation, autonomous incident resolution) so you have those concepts locked and loaded if he asks for technical details!
+
+
+
+
+
+
+
+
+
+
+You said
+> If you'd like, we can brainstorm the 3 or 4 bullet points that describe the Genius Suite's future architecture (e.g., local LLM integration, automated infrastructure-as-code generation, autonomous incident resolution) so you have those concepts locked and loaded if he asks for technical details!
+
+Yes! But, I'll fork this chat so we can work on this in another session...

@@ -1,0 +1,920 @@
+10:57 AM
+Okay, So starting notes for. 
+
+Intro call with Rakesh. 
+
+The documentation details the workflow for applying supervised fine tuning sft to Gemini models such as Gemini 2.5, Pro Flash, and Flashlight on vertex AI. 
+
+It outlines the end-to-end process from data preparation to deployment, which can be executed via the Google Cloud can sell the Google genai isdk, the vertex AISDA from python, or the rest API. 
+
+Here is a breakdown of a key technical processes and recommendations from the guide, data preparation and ingestion. 
+
+Fine tuning begins with formatting your collected training. 
+
+Data typically is Jsonl files stored in cloud storage bucket. 
+
+The documentation emphasizes the importance of utilizing distinct training and validation data sets. 
+
+This separation ensures that while the model learns from the training set, its performance is rigorously measured against unseen validation data to prevent overfitting and ensure reliable responses. 
+
+Hyper parameter configuration when configuring the tuning job, you have control over several crucial parameters to optimize the model's learning process. 
+
+Number of Ethics dictates how many full passes. 
+
+The training algorithm makes over the data set adapter size, the term the size of the adapter layers used during the tuning process, the learning rate multiplayer controls the step size of each iteration, defaulting to one, allowing you to adjust how aggressively the model updates, evaluation, and metrics during the tuning process. 
+
+Vertex AI automatically tracks real-time training and validation metrics. 
+
+This includes tracking total loss, the number of briefed tokens and the fraction of the Rec. 
+
+Next step predictions token accuracy against your year Service directly into the tuning job configuration to automatically measure qualitative metrics such as fluency once the pipeline completes. 
+
+Here is a breakdown of what you can expect in terms of time and cost. 
+
+For fine-tuning Gemini 2.5 Pro on your infrastructure code, one trading time with the data set of 1000 jsonl examples, detailing cluster setups. 
+
+Your training Corpus is relatively compact. 
+
+Vertex AI manages the underlying infrastructure automatically, typically using efficient adapter-based tuning methods, meaning the actual compute phase is very fast. 
+
+You can expect the entire tuning job to finish in under an hour and potentially as quickly as 15 to 30 minutes. 
+
+The majority of this duration is simply the standard overhead to vertex AI. 
+
+Provisioning the training clusters before the Run officially begins. 
+
+Two trading costs vertex AI does not charge flat. 
+
+Hourly compute rates for Gemini supervised fine tuning. 
+
+Instead, it builds purely based on the total number of training tokens, processed focus and data set X number of FX data set size. 
+
+If an average example containing your standard CLI commands terraform manifests and cubernetes. 
+
+Yams is around 1000 dozens. 
+
+Your base data set is roughly 1 million tokens. 
+
+A standard fine-tuning run typically requires three to five epics for the model to effectively learn the syntax. 
+
+This puts your total processing volume at three to five million dolphins. 
+
+Estimated price with vertex AI tuning costs, generally starting around five dollars per 1 million training tokens. 
+
+The total cost for this specific training run will be incredibly low, likely between 15 and 30 post tuning inference and optimization. 
+
+When you are building tools to streamline rigor SSR workflows, whether that's automated and Or dynamically configuring the grafana lgtm stack, it is important to optimize your intense costs. 
+
+Once the model is deployed, base Gemini 2.5 Pro inference costs 1.25 cents per 1 million input documents and 10 per 1 million output for context under 200k. 
+
+However, because Gemini 2.5 Pro is a native linking model, you have a massive opportunity for optimization. 
+
+Google strongly recommends turning off the thinking budget for models that have undergone supervised fine tuning, plus one during the tuning process. 
+
+The model learns your exact employment structures directly from the ground truth data by omitting the internal reasoning process during live entrance. 
+
+The model will output the correct configurations much faster, and you will significantly reduce your ongoing output token costs without sacrificing the accuracy of your infrastructure automation sources. 
+
+
+
+11:32 AM
+Full micropayments. 
+
+Ed house. 
+
+We're redefining the future of real estate through blockchain, power tokenization, transforming properties into digital assets to create unprecedented opportunities for investors and homeowners alike. 
+
+As a co-founder, I lead fundraising, Capital markets, and strategic initiatives leveraging my expertise in blockchain and finance to drive houses growth and Innovation with a focus on building strong investor Partnerships and navigating the complexities of capital markets. 
+
+Planet is a satellite manufacturing and imaging company that went from startup to IPO along the way, raising 400m plus NVC equity and 50m plus in debt LED the multi-year Financial forecast and planning aligning Financial strategies. 
+
+Spoken was a mobile payments company that began as a startup and eventually transitioned to going public. 
+
+The company raised over 80 million dollars in Venture Capital funding from multiple rounds before it's IPO. 
+
+Lida 10 plus person team, overseeing Global Finance operations, directed all aspects of fpna and accounting for a mobile payment, starts up, conducted successful audits to ensure Financial accuracy and compliance. 
+
+
+
+11:40 AM
+Raises. 
+
+He will likely be analyzing this from a very quantitative risk, adjusting perspective goal of the call assessment's capability to drive the pre-see raise gauge. 
+
+His reaction to your data room, you know? 
+
+Cap table valuation caps and determine if he's a better fit for a heavy lifting CEO role or a fractional advisory board seat zero to five minutes intros in setting the stage. 
+
+Thank him. 
+
+Thanks for your flexibility and rescheduling for today. 
+
+Rakesh, I also appreciate the quick turnaround on the NDA and taking the time to review the data room set the agenda, since we only have about 30 minutes. 
+
+I'd love to spend a few minutes hearing about your background, specifically your fundraising experience in the AI space. 
+
+Then, get your initial thoughts on the open world Tech Deck and finally discuss the two operational paths we are considering for this role. 
+
+My background, the 60-second architect pitch to give you my context. 
+
+I am the technical architect. 
+
+My background is an SRE devops and building scalable infrastructure. 
+
+I'm building the Gmail suite and assistant PhD, but I need a partner to handle the business cap table and day-to-day fundraising operations while I drive the product five to 12 minutes? 
+
+Rakesh's background Dan to suit their powers, the CPA, CFA angle. 
+
+You have a very strong financial background as a CPA and CFA. 
+
+How does that specific lens, healthy structure, and close deals in AI or Enterprise sales sectors? 
+
+Fundraising Network, our primary day. 
+
+One objective is closing this Preciate round. 
+
+What does your current investor Network look like? 
+
+Are you currently talking more with angels syndicates or early stage VCS To one is a different Beast? 
+
+What draws you to the precede pre-revenue stage right now, 12 to 20 minutes. 
+
+The owt vision and data room feedback for vision recap as you saw in the deck. 
+
+We are just building another Chaplet. 
+
+We are building agentic assistance for non-technical knowledge workers. 
+
+We plan to use lightweight consumer media tools to drive initial user acquisition and build our mode data and reaction. 
+
+The crucial test since you've had a chance to look at the data room. 
+
+I love your candid feedback on the numbers. 
+
+What were your initial thoughts on our Proformity and our projected Runway valuation calibration. 
+
+If he doesn't bring it up based on the current AI Market, do you feel our valuation caps and our Target raise EG, the three million dollars Target are calibrated directly for the Milestones we need to hit before Series a 20 to 25 minutes. 
+
+The role the two paths framing a partnership, as I mentioned in my last email, I'm looking at the operational side of this business through two different lenses right now, and I'd love to know what your lines better with your current bandwidth Cafe advisory board member, other friction, fractional engagement, roughly two to four hours a month using a standard founder Institute fast agreement 0.5, 1.0 Equity. 
+
+The focus here is strategic syncs, reviewing materials and open doors to your network for the raise, half B, full-time co-founder, and CLO. 
+
+This is the heavy lifting path driving the pre-seed raise, taking ownership of the operations and steering a stored series. 
+
+A note be ready to mention your core operational principle here. 
+
+If salary comes up that cash, remov Crazy round 25 to 30 minutes. 
+
+Q a and next steps handed over, I've done a lot of talking. 
+
+What questions do you have for me about the architecture, the road map, or the vision next steps? 
+
+Let's both digest this conversation. 
+
+I'm finishing up my initial candidate calls this week if we feel there's a mutual fit. 
+
+We can schedule it longer, more technical, deep dive next week. 
+
+Matt's Vibe check notes to keep in mind during the call. 
+
+He's heal Builder or banker. 
+
+Does he want to get his hands dirty, building the company, or does he just want to broker introductions trophy? 
+
+How does he handle the pre-funding cash boundary. 
+
+If he pushes for a cash retainer immediately, like I did that push us and firmly into the consultant slash advisor bucket rather than a true co-founder. 
+
+
+
+11:59 AM
+Okay, Let's start this call with Rakesh And see how it goes. 
+
+Hey, Matt, hey, Rakesh! 
+
+How you doing Good? 
+
+How are you very good, very good? 
+
+Oh yeah, thanks for taking the call. 
+
+Um, Let's go over a few things I'll share my screen, and we can talk about a few things that I'm looking at. 
+
+Yeah, Sure, okay, give me one second, so? 
+
+Okay, so yes, awesome. 
+
+Okay, so I basically have the, Uh, I got a few things set up here. 
+
+So, yeah, obviously. 
+
+I took a look at your background, like, super impressive. 
+
+This is, this is exactly the kind of, uh, thing that I'm thinking, you know, if I'm going to be starting a startup, you know? 
+
+Having this kind of financial background, and you know, having someone who's gone through the ringer here several times in several different places would be super fantastic. 
+
+So, yeah, thanks for having that. 
+
+Thanks for having the call and for chatting. 
+
+Um, I sent you this slide deck of the the pitch deck, and I, I think you got a chance to take a look at it. 
+
+I mean, it's sort of. 
+
+It's obviously a really draft. 
+
+I mean, I'm just trying to come up coming up with ideas and laying things out, you know, I'm pretty early on. 
+
+I'm quite precede, and I'm just sort of like, you know, putting ideas together, Uh, but I can go over it. 
+
+If is there anything specifically you want to address when you looked at it, or you want to just go over it real quick? 
+
+I mean, if scrolling real quick would be good, sure. 
+
+Okay, so, and I understand, uh, from your perspective, like, I, yeah, yeah, absolutely. 
+
+I get my own set of, uh, things right. 
+
+So, yeah, absolutely. 
+
+Okay, so, okay. 
+
+So, the pitch deck, um, I guess, the little bit of History, like, I'm sort of a, uh, infrastructure, um, Site reliability, engineering, you know, back-end develop developer kind of infrastructure guy. 
+
+I've been doing that for, like, quite a long time, uh, building out I actually was pretty. 
+
+You know, I had good opportunities to start from really small projects that scaled Global worldwide. 
+
+So, when I worked at PlayStation, I worked there for eight years. 
+
+We started a project that was like a prototype inside of a closet, and we ended up building a data center inside of the office we were in. 
+
+And then we had to build data centers all over the United States. 
+
+And then we ended building 30 data centers all over the world to serve this one project for PlayStation. 
+
+And I was, it was great. 
+
+I started at the beginning and I helped with reliability and infrastructure, build out, and then monitoring and learning this huge scale project. 
+
+So, we worked on a few projects like that, you know, Financial tools, cyber security, uh, game game development, like all kinds of stuff like that. 
+
+So, this is sort of like, my background is this infrastructure, you know, SAS back-end infrastructure? 
+
+And you know, so I've been doing that for a while. 
+
+And now, of course, you know, we're moving into this agentic AI age, where agentic Ai and AI. 
+
+These language models are becoming so proficient at writing code and spinning up tools that it'd be silly not to sort of start moving it in that direction. 
+
+And thinking, like, how do how is this going to change the market the world SAS, you know, business. 
+
+The economy, like everything, is going to change once. 
+
+Once this rolls out and it's going to change for individuals, it's going to change for everything. 
+
+So, so I started thinking about okay, what can I start building? 
+
+I already owned a few domains where I was thinking, uh, you know, touch up my photo.com. 
+
+I basically owned these few domains here, and I was, you know, always thinking, okay, I can build tools. 
+
+I can build websites. 
+
+I can maybe have a service that I could, you know, get get customers and then send work to, you know, human individuals, and they could work on things. 
+
+And I could, you know, charge? 
+
+A, you know, charge a rate on top of it, and you know, operate as a service, of course, that does that. 
+
+Because now, these AI agents can do all of this. 
+
+They can do photo editing video, video editing they can. 
+
+They can modify and upgrade music and writing. 
+
+It's like, okay, well, now there's not really not a need to really send humans in the loop. 
+
+What kind of agents can I throw at this? 
+
+Yeah, and so, while working on this kind of process, you know, I'm, you know, I'm building a like a prototype of touch up my photo where I can add a photo and make basically get Nano banana or any of these AI agents to like make the modifications that I would expect a human to make, send it back to the customer, and then, while building this, I, and, you know, working on these sites, I'm thinking, well, I probably should have sort of an llm agent. 
+
+That's more of an assistant to me to help me build my company, so I was, like, okay, well, yeah, I might as well build that, since we, you know, we have open claw. 
+
+And, you know, Nemo, Claw, and all these agentic systems that are, like, okay, it's an automated system. 
+
+It sort of becomes your assistant, then I thought, well, okay, I might as well just build one of those. 
+
+That's probably a good place to start. 
+
+That's going to help me to build everything else. 
+
+So, I started building out a, you know, assistant, PhD, and I started thinking about modules and basically working with Cloud code and Gemini and codex to start building out modules. 
+
+For this Tool, that's, you know, how am I going to use this tool? 
+
+And then, of course. 
+
+This could be a product, and this could be a product I'm thinking for, you know, basically knowledge workers, because things like open Claw are the the setup and the the building and setting up is. 
+
+The friction is so high, you know, we basically need a website where people can just log in. 
+
+They have an assistant that the assistant can be on the side of their on their site. 
+
+It can manage their projects and basically whatever their project management. 
+
+Whatever goals they have inside of this agendaic site. 
+
+It knows about them. 
+
+It can help. 
+
+It can help them with it. 
+
+And so, I'm building out modules like, you know, nutrition and fitness. 
+
+And you know, basically working with Gemini, and it's just like, yeah, it's able to do the things that I wanted to do. 
+
+It's able to build functions that a lot of other apps and sites have and just roll them in just by prompting. 
+
+Okay, that works great. 
+
+U, And then, And then it's, and then you know, of course, as this whole thing scales I'm going to need, like a lot of back-end infrastructure, and that's sort of my forte. 
+
+So, I'm thinking about, um, Building out a site that would Have Energetic system that can start building systems and infrastructure for me. 
+
+And, of course, you know, the the system, the if, if if you work with these egetic systems in the proper kind of way, they can do that as well. 
+
+Like, I can basically have Gemini, Uh, you know, build back-end infrastructure for me in a way that I would build it build out, you know, a kubernetes cluster build out, uh, you know? 
+
+Monitoring, alerting, scaling, scalability. 
+
+I was, like, okay, yeah, that's probably going to become a product as well, so add it to the product list and start getting Gemini to build that. 
+
+And I'm yeah. 
+
+So, so the solution to that market is basically A lot of companies are doing. 
+
+This as well is build a dedicated agent that's fine-tuned, like, take an LLM model, you know, a frontier model, or maybe like a smaller version of Frontier model, maybe like a 32b model or something that you can run locally, you know, feed it. 
+
+A bunch of back-end infrastructure building, uh, Json, Json data, fine-tune it against that, and then use that agent to deploy against your infrastructure. 
+
+Have it build your infrastructure for you, Uh, you know, have it. 
+
+Add all the tools you need. 
+
+You want Argo CD you want Prometheus, you want grafana? 
+
+Have it build all this infrastructure for you, which it's able to do already. 
+
+Load this fine-tuned data in so that it becomes an expert in that market, and then you know, basically get, you know, B2B, like business to business customers, saying, okay, we've trained this agent, you know, you can call it, you know, Archie, or whatever give it a name. 
+
+And then we'll deploy the agent inside, and this becomes sort of an automated platform engineer, Um, that, uh, you know, you can sell as a B2B model. 
+
+And of course, you know, AWS is already doing that. 
+
+They've already started deploying their devops agent inside of their environment, Uh, which which made me feel like this. 
+
+All this came out, like. 
+
+A few days ago, which made me feel like, wow, I probably shouldn't. 
+
+How am I going to compete with AWS, you know, they're already going to have this agent inside of the system, but then at the same mind in my same mind, you know, these agentic systems are going to be basically eating sass. 
+
+They're going to be building SAS infrastructure. 
+
+They're going to take existing SAS products and repackaging them, rebuilding them and reselling them in ways that are, you know, in many ways faster or cheaper and better and probably even cheaper than than AWS or one of these larger companies could could manage depending on the scale of the product and how you've trained your model and these sort of things. 
+
+And honestly, like, you know, running through the numbers to train a model Say, I wanted to train a platform engineer. 
+
+It would really only cost me like a couple hundred dollars. 
+
+If I could get, you know, a few thousand samples of training and then, you know, training the pre-training, uh, fine-tuning these agents is not that expensive. 
+
+So, yeah, so I'm building products that projects that can Estimate the costs and build and deploy so then. 
+
+Okay, so then another. 
+
+So this is. 
+
+This is basically something that I came up with last weekend. 
+
+I can basically Also get the assistant PhD model that I've worked on. 
+
+This sort of local logenetic system to take an existing application Sort of back. 
+
+End back-end engineer how it works, build it, and then deploy it, so I've built this. 
+
+
+
+12:09 PM
+I basically added to the site, and it's called a assistant Fitness, and I basically told Gemini, you know, take a look at. 
+
+Uh, Samsung fitness apps and the Google Fit Fitness apps back it. 
+
+Backward engineer how it works, build a site, and I'm now the site, and literally. 
+
+I built this over the weekend, and it has the functions and features that I that those apps don't have, and it's fully functional. 
+
+And I'm basically at the steps now where I'm going to deploy it onto the Google App Store. 
+
+Wow. 
+
+And it happened in a few days, and the and I'll tell you specifically what it. 
+
+What this fact, what this app has that the the uh, the, the the Samsung app and the Google app. 
+
+So, for example, when I want to add food, uh, you can add food for a certain type of day, and then you can literally like, take a picture of food. 
+
+So, here, and you know, it's going to use Nano banana. 
+
+It's going to analyze the food here. 
+
+It's going to give you all of this functions, right? 
+
+It's, and then, when you add the food, it's, you know, It's kind of it's. 
+
+It's an amazing, intelligent model, and I'll tell you right now. 
+
+There's an app that I was tracking. 
+
+This is an app called Cal Ai. 
+
+I don't know if you know about this, but this app recently sold to MyFitnessPal, which I think is owned by Nike or some sports company 50 million 50 million dollars. 
+
+This app sold for 50 million dollars, and I rolled this function into my, uh, you know, my version of a fitness app over, like, literally, was sort of autonomously. 
+
+Over the weekend, I wasn't. 
+
+I was just prompting it to do it, and I'm about to post this. 
+
+So, then the idea is, you know, this is a function where The egentic system could not only help people in their day-to-day life help them work with photos, admitted music, but also literally build absence. 
+
+And you know, in this at least semi-autonomous way, deploy these apps into app stores and let people build their own apps, deploy apps, and work on it in their own way. 
+
+It can do all these things. 
+
+The question is, who is going to do it? 
+
+Who's going to get the funding and how is it going to work? 
+
+Yeah, I think you can do that on your own right. 
+
+You don't need you don't need a bunch of people. 
+
+You don't need a bunch of money for this, right? 
+
+Something like this like you can have like a kind of a. 
+
+What do I say a studio kind of a model right where you have All these ideas that come to you, and that is what It's so nice about this whole thing. 
+
+I think you built this on over a weekend. 
+
+You don't need a bunch of Engineers for this. 
+
+You just need someone who can, Who can? 
+
+Who can Market this? 
+
+Yeah, right. 
+
+Okay, we can put this on there, saying, hey, we have Come check it out because you know you build it, but they wouldn't. 
+
+They won't come until they know that it exists exactly, And you need to spend some money. 
+
+And maybe you build a AI marketing age, right, which we just that is the next. 
+
+Yeah, that is the next step, because you do have to have the whole, Uh, marketing market more like social media, uh, presence, you know, posting things on X and getting people interested. 
+
+Posting the app, you know, getting feedback, and honestly, I mean, this app development. 
+
+I kind of want. 
+
+I can get the Gemini or some other app to do this for you. 
+
+Post everything you know. 
+
+Build the stories automatically build the stories, post them, but also like. 
+
+Once the app is is on the website, collect feedback from the customers. 
+
+What functions and features do they want add it to the to-do list? 
+
+Start developing those functions and features. 
+
+Deploy the, I mean, yeah, it can do all that. 
+
+And again, I'm sort of at the place where I'm not like skating where the puck is like, I'm not working towards what we currently have today. 
+
+I'm sort of trying to skate to where the puck is going because the next version of these apps are going to be even more autonomous. 
+
+So, if I can have an agentic framework built so that when the system gets even more intelligent and more capable, I'm already in that market, and I can just immediately leverage it. 
+
+That's probably the best place to be in. 
+
+But, but I mean, a lot of this can be done autonomously. 
+
+I don't really necessarily need funding for the the b2c kind of side, where I'm just building apps deploying apps. 
+
+I can put stripe on my website and and have like a paid version. 
+
+But what I do need some kind of a little bit of funding, at least for, is just to to work on this for a few months, and you know, it's, it's, it's it's, it's a. 
+
+It's a bit of time to set up all this infrastructure and what I guess I should say what I really need the funding for is the the sort of B2B Market I really need to. 
+
+It's always great to have a B2B client market, and that is a little bit more. 
+
+You know how it is building clients, building customers, building tools, and working toward building tools for businesses. 
+
+It's a lot more trouble, and it's going to spend that will take more time. 
+
+But it's, it's super favorable, obviously in the market, because you know business customers are more stable, you're going to be signing contracts for a year. 
+
+You know, you're gonna have a very reliable, stable Market where, if you're just deploying apps on the App Store, you know that people might use it for a month, throw it away, and then you get all you get. 
+
+You know, you get a sort of over overridden all the time. 
+
+So, yeah, so I, I agree that a lot of this stuff I can just build and deploy myself and do the social media side of it. 
+
+Get people interested in it, you know, sort of of Public where you're like posting notes about. 
+
+Oh, we're adding this feature. 
+
+We're adding that feature, uh, you know, join us. 
+
+Sign the, uh, join the waiting list, you know, the? 
+
+Uh, we're going to be adding more functions, you know? 
+
+These kind of things that can all be done pretty pretty much autonomously as well, uh. 
+
+But, like, I say, the business to business side is the part that, I think, is really important part and and would require some kind of funding. 
+
+I think Yes, definitely. 
+
+And for that, you need to build it a little bit. 
+
+I build the product that needs to be done right, and I have done this plenty of times. 
+
+So, yeah, You need to build a product right build, at least the demo of the product. 
+
+Yeah, like Enterprises Are very tough to factor, like the same Cycles are long. 
+
+You need a design partner you need you need to. 
+
+You need to spend money exactly right. 
+
+Yeah, and for that to happen, of course. 
+
+You need to find a find a thing that works for the Enterprise market, right? 
+
+You're not going to take the AI, you know, SRE agent, or this, like Fitness thing to Enterprise, now love to know what the idea is, and I'm happy to sign an NDA and all these things and I can Look the the thing that is Shifting in the Enterprise market, and I work with a lot of AI Enterprise companies. 
+
+Is that You know the the llms have the space they're expanding, right? 
+
+Every, every time that that Lord opens. 
+
+Our Lord game opens his mouth. 
+
+There are millions, not Millions, hundreds of companies that are that are just gone out of business, right? 
+
+Yes, so you need to find that that thing where, And everyone, like in the Enterprise says right now. 
+
+The biggest problem is, like, people are saying, oh, In the next version, Would eat your lunch. 
+
+Why do I need to pay you? 
+
+Yeah, right? 
+
+Yep, And I am doing the same thing. 
+
+Like, when I'm getting my vendors, I am telling, you know what you're saying fifty thousand dollars? 
+
+I'm pretty sure. 
+
+In next two months, you know, there will be someone who will be offering me for five hundred dollars Because they're moving so fast. 
+
+Now Again, you know all these things, but I'm I'm out there. 
+
+Like on both the buy and the sell side, saying, yeah, This is not going to work because you know, Immortals are becoming smarter and smarter. 
+
+So, Uh, again. 
+
+I'm not trying to discourage you, or Do these things I'm trying to say, like, find something you're like, you said, you're trying to go where the puck will be at a certain point right, and that if you can find that, Go to market quickly. 
+
+Like, Cal AI, right, I remember now, like, that got sold. 
+
+Um, To MyFitnessPal, yeah. 
+
+Now Today, that's not going to work Right Today. 
+
+I mean, they got this. 
+
+Yeah, they are right. 
+
+They already rolled it in, And that's all. 
+
+And that is what you are, you are thinking would be like, Just free advice, right? 
+
+Right? 
+
+So, So yes, you are saying, hey, I'm going to build this for the Enterprise, And I'm happy to help you as as a person who is on the other side. 
+
+Looking at these things, Tell me what, what, what would work for? 
+
+What is the product that you are thinking about, and you need to go to market quickly, there is, yes, yeah, yeah, because everything that, and that's really the challenge. 
+
+It's like everything is moving very quickly, but there is. 
+
+I mean, there is a lot of competitors that you can sort of analyze and work against. 
+
+So, for example, like, here's another. 
+
+Here's another, uh, a company that's building, Um, basically the same thing. 
+
+They're just building an agent. 
+
+They're fine-tuning an AI agent, and they're sending it out as an engineer. 
+
+And you know, there's there's several good examples of this. 
+
+Um, it does work. 
+
+I mean, you know, the way it's, it's not. 
+
+It's not completely secret how they're building these agents. 
+
+They're they're getting a delay in a data, set the data set that's already available online, or they're building their own data set of all of the engineering and the coding and the infrastructure that they need. 
+
+And then they're just fine-tuning an existing llm model, and then they're testing the model to make sure that it. 
+
+Can, you know, it can perform the things that are in the training set. 
+
+And yeah, I mean it. 
+
+There's lots of options for that, the there, and there's lots of use cases and and, um, Existing competitors that are just doing this, you know, building companies on it. 
+
+
+
+12:20 PM
+The, you know? 
+
+Feels a lot like in the next six months or year. 
+
+There's going to be so many huge SAS companies that are just going to get eaten away and eaten away with smaller, faster, more agile models that are going to be able to take away even Giants like Salesforce, and even you know tools inside of AWS and Google are just going to be like, eaten away by smaller, faster cheaper models, not sort of bespoke but more, Uh, like, sort of white glove, where it's like, okay, I'll work with a smaller company, but they're going to really help me build my business. 
+
+They're going to help my business to grow rather than you know. 
+
+Working with a giant like, AWS, who you know, maybe my software doesn't really work the way I want. 
+
+I can't do feature requests they want, you know. 
+
+It feels a lot like a lot of these SAS companies are going to be. 
+
+There's going to be so many options for great SAS products. 
+
+If you could just be one of those SAS products inside of that market. 
+
+There's opportunities to grow there just because the market is so huge, you know what I'm talking about? 
+
+But, but do investors understand this? 
+
+And would investors be able to take ideas like this engineering ideas and invest in them? 
+
+Or is it just the Market's too volatile and nobody's interested? 
+
+I, I'll tell you what the investors are thinking. 
+
+I just raised 40 million for an agentic Enterprise company. 
+
+Yeah, and I'm raising right now 100 million dollars for a series C Enterprise Enterprise SAS company. 
+
+Yeah, You say agents right now, and they are throwing money like, you got. 
+
+Of course. 
+
+You need to have a team And you say, agent, and they're doing money, right? 
+
+And this 40 million dollars. 
+
+These guys were not even looking for a thing they were trying to build an llm, And they realized that, okay, I cannot build an llm smart people like X, yeah, exactly, people. 
+
+Yeah, and there are five people in the company. 
+
+You don't need to build llm, either. 
+
+There's so many open source ones you can just build on top of. 
+
+But, yeah, sorry. 
+
+Go ahead, and they said, okay, I'm going to bring Enterprise Enterprise agents like no Revenue, nothing right. 
+
+They spend like 12 million dollars, 15 million dollars, And then out of nowhere. 
+
+Vc comes in and said, oh, you are building engines. 
+
+Oh, you are very smart people. 
+
+Yeah, and it's 40 million dollars like, yeah, like half 40 million dollars. 
+
+I'm like, okay, what is this happening on the other side? 
+
+Remember name, which is a series B company. 
+
+Um has like 10 million dollars, 20 million dollars. 
+
+ARR And we have been trying to raise money for the last 6 months Because This data company right, this data is, like, okay, everyone is saying, okay, now. 
+
+Yeah, the llm is going to eat you up, right? 
+
+And then, I said, you know, this is not working, let's talk agents. 
+
+Yeah, because we are thinking of a project, we were building a product, which is going to be an agent Agent ready data, right, because Enterprises like they don't need they need inner data to make decisions and data in a format like Json, and they need data to train their models as well. 
+
+If anybody's using agents they need data for those agents, of course, yeah, yes, it's a huge Market, so we pivoted, and now there's a lot of not pivoted, he said. 
+
+Hey, this will be all be used for agents and look, we can also develop this agents. 
+
+And then there's a lot of interest now, so the 100 million is like Making sense, right, yeah, and context. 
+
+Like, the agency context to work. 
+
+So, yeah, data and contacts, like we are saying, hey, we are going to provide all these things. 
+
+Yeah, now we became the. 
+
+So, what I'm saying is Investors right now are looking at agents they're looking at. 
+
+Context is very important, and you know this, like, I don't need to tell you that, but that is. 
+
+That is where the world is going towards. 
+
+Absolutely. 
+
+Tell me, like, Yeah, for Enterprises, right, or Enterprises? 
+
+This is where it is going. 
+
+Yeah, because everybody knows that, you know, if you have an effective agent, then that can help your business move so much faster. 
+
+Working 24, 7, if it's effective enough that you could potentially like, help your existing employees be five times better, more productive, or even two or three times more productive, then that means you don't need to hire two or three times more employees, like everybody knows how this is going to work, and the more effective those agents are, the the faster your business can grow, the more customers you can serve with less capex. 
+
+I mean, it's just makes sense. 
+
+So, the one thing you mentioned is, you know, show them you have the team. 
+
+Can you tell me, like, what kind of team are they looking for? 
+
+For a product like this, I mean, I probably, I figured, probably only a couple people like a smart engineer who could build the agentic system, but then, like a CEO like CFO like, is that that, you know, a few. 
+
+A few sort of exact levels and then get some, you know, represent the aged. 
+
+Provide the slide deck that shows the the business model. 
+
+That's enough to get funding started, or is there something else that that need that I don't have? 
+
+That's missing. 
+
+So, um, I mean, I had to leave in five minutes. 
+
+I have an investor call, but I'll keep it short. 
+
+Yeah, you need you need the team to build it, right? 
+
+Yeah, you don't need a CFO. 
+
+You don't need a CEO. 
+
+You don't need anyone like, literally. 
+
+Well, say, hey, you know, Package is helping me out like they'll figure it out. 
+
+Like, like, okay, you know, The money is safe, like they want to make sure that if they're giving you money, the money is set. 
+
+That's all they care about. 
+
+At the end of the day, if your product is working, they're going to put more money, and they will tell you to hire mother, yeah, like a seed, and even at a series a They don't care. 
+
+Like, whether you have you have the operations team, right? 
+
+They worry about, can these guys build their product engineering team? 
+
+So, when you say, team you're talking about, like, team of Engineers. 
+
+Yeah, it makes sense. 
+
+Even with all these agentic agents writing the software, I mean, like, I say, the amount of software that I was able to write by myself is amazing. 
+
+Like, if I had a team of like, you know, two or three other, You know, it does. 
+
+You sort of developers that, are, you know, working at that same level working in in these, uh, you know, agentic AI coding systems at that speed? 
+
+Yeah, yeah, it makes sense. 
+
+How do you build a product and say, hey, this is the product I am going to Market with this. 
+
+Yeah, right, Like Soul Founders. 
+
+Like when I was applying for YC and all that I used to apply for YC, I got into interviews and all the other things. 
+
+Yeah, Like single Founders never work right. 
+
+Nowadays, single Founders would work, but have another person, right? 
+
+Just because, what happens if you, right? 
+
+Yeah, no, that's right. 
+
+Bounce ideas off work together, but you're right, they probably want to have a couple people just so someone else knows how the system works. 
+
+Yeah, bus Factor, right? 
+
+The bus Factor, yeah? 
+
+Yep, so I mean you have worked a lot. 
+
+Find a co-founders, right, Has the same Vision same kind of hipping yeah, and he can build all this. 
+
+All these cool things and put it as a different company, right? 
+
+Ah, and if you have enough money, you can. 
+
+You can do all these things on your own, but you need that Big head that makes, Uh, do everything else too. 
+
+No, that's great advice. 
+
+No, you're absolutely right. 
+
+I and I can post them. 
+
+I can post a job posting on LinkedIn, and I can get, you know, I can basically do, do some interviews, and get some. 
+
+There's so many Engineers right now that are working in this direction, I can probably get a partner that would, probably yeah. 
+
+It makes sense investors would be very much more interested in having a small team, it's safer for them and then go for the funding after that round starts. 
+
+Yeah, okay, makes sense. 
+
+Um, okay, I'm happy to continue this conversation. 
+
+I need to go. 
+
+Yeah, find someone whom you have worked with and who, yeah, with, right, yeah, and this is not To me. 
+
+This is not a LinkedIn post. 
+
+This is more of a hey. 
+
+I work with this guy forever couple of years at least. 
+
+Yeah, Era. 
+
+We work very well, vigil, otherwise, you know. 
+
+No, no, I, I can, ping my, my LinkedIn Network. 
+
+I mean, I, you know, I have obviously like more than 500 people. 
+
+Yeah, I can ping a previous. 
+
+I don't know if anybody would be building. 
+
+I'm sure there's got to be. 
+
+There's probably hundreds honestly. 
+
+Everybody's doing the same thing these days, but yo, that's right. 
+
+That's great advice! 
+
+You're right, I'll I'll find somebody that can sort of jump in, even though there's no funding right now. 
+
+I mean, the equity alone will make it worth it if we can actually build a product that starts to sell. 
+
+Yeah, makes sense, makes sense. 
+
+Yeah, and happy to talk more. 
+
+Like, yeah, you have your calendar link. 
+
+Yeah, I need to jump into investor. 
+
+Yeah, yeah, I'm gonna book another call. 
+
+If you don't mind, I'd love to have more conversation with you. 
+
+I'd be super fantastic if you could, and I'll do it. 
+
+I'll send you a follow-up so that we can talk. 
+
+You know, we can have this. 
+
+Okay, I'll give you notes and everything so perfect. 
+
+Yeah, oh yeah, thank you. 
+
+Thank you. 
+
+Really have a great day. 
+

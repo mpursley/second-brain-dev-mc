@@ -1,0 +1,2046 @@
+﻿Hello, Jeff. 
+
+
+How you doing Good? 
+
+
+How are you Matt? 
+
+
+Good, good. 
+
+
+Oh yeah, thanks for. 
+
+
+Thanks for jumping on. 
+
+
+Thanks for joining me today. 
+
+
+I, uh, Thanks for checking out this the the pitch deck, too. 
+
+
+I noticed that you've got to take a look at all the slides and everything. 
+
+
+That's good. 
+
+
+I took a little bit of a look in your background. 
+
+
+You definitely have some interesting, uh, Uh, interesting like, work experience, and different kinds of companies and stuff. 
+
+
+I suppose you probably run a bunch of your own companies in the past as how it's probably been, right? 
+
+
+Yeah, yeah, so I, you know, and I've I've kind of bounced around, done a done a variety of different things. 
+
+
+So, yeah, Um, you know, probably in in a smaller company had just about every, uh, managed every Silo you would. 
+
+
+Yeah, you can think of. 
+
+
+So, yeah, that's interesting. 
+
+
+Yeah, I've worked for. 
+
+
+I've worked for a lot of really small companies, and only had you know, a couple employees, and it's always super busy for the, you know, the lead person or the, you know, the CEO or the main, the main person. 
+
+
+They're always like slammed with a thousand different things, uh, but I've also worked at huge companies, too, where everybody's all solid off. 
+
+
+So, yeah, it's. 
+
+
+It's interesting, though. 
+
+
+Yeah, Yeah, I. 
+
+
+I started my career at a huge company, Procter Gamble. 
+
+
+So, yeah, I hear you. 
+
+
+Yeah, yeah, there you go. 
+
+
+Yeah, that's a huge one, for sure. 
+
+
+Um, cool, yeah, so I guess you got a chance to look at the slide deck, right? 
+
+
+Did you get? 
+
+
+Did you get a chance to sort of, uh, understand? 
+
+
+I mean, Did it make sense to you, or do you want me to like, do a bit of a walk through, like more of a pitch and a demo, or it'd be great if you could do a walkthrough. 
+
+
+That'd be great. 
+
+
+Okay, okay. 
+
+
+So here. 
+
+
+Let me just share a screen and you tell me if you can see this. 
+
+
+Let's do this one. 
+
+
+Okay, you move it over here. 
+
+
+I can see it okay, Uh, yeah, sorry. 
+
+
+This is my whole development pipeline. 
+
+
+Okay, so, Uh, okay, so here's the pitch deck. 
+
+
+I mean, you got a chance to look at it, uh, basically my. 
+
+
+My main goal here is, Uh, I mean, you probably know everybody knows at this point that this AI takeoff is becoming like super humongous, and it's changing How people are working and thinking it's pretty Niche right now. 
+
+
+It's fairly small in specific markets, but it's especially in my market like as this, like, super Tech guy that worked for lots of huge corporations and PlayStations and game companies. 
+
+
+And you know, even like metaverse worlds and crypto spaces, like all a guy like me, that's working in that high-tech industry, you know, the whole agentic system is just taking over my whole job. 
+
+
+It's just become night and day, where you know, three months ago. 
+
+
+Everything was basically written by hand, not everything, but it was monthly written by hand, and then in the last month, I can literally sit back and ask Gemini CLI or Claude code or codecs just to be like, hey, just write the thing for me, and you can literally see it right here. 
+
+
+I'm not even like these the, you know, the the websites that I'm designing here. 
+
+
+For the most part, I'm not writing it. 
+
+
+It's writing it. 
+
+
+It's kind of writing itself like, I can't do this type of web design. 
+
+
+I'm a backhand guy, right, For ever since. 
+
+
+I was like a kid in school, you know, I was helping the school build out their computers. 
+
+
+When I was in elementary school and all the way up to high school and in college, I ended up working at the, you know, I'm always working on the on the infrastructure, um, even all the way up to PlayStation, you know, helping them build out Global infrastructure, but I can't build a website like this. 
+
+
+I can't build an interface like this so that, but now, at this point, I can go to Gemini and I can say, okay, build me an interface. 
+
+
+Now, I want these functions. 
+
+
+I want that function, and it's literally like building the code bases. 
+
+
+Checking things in, I can ask it to test it itself, it tests it itself. 
+
+
+It validates the features that I want. 
+
+
+So, And I'm not the only guy. 
+
+
+But there's a very small Niche of of people that are in that space now, where the whole job has changed. 
+
+
+I don't write the code anymore. 
+
+
+I tell the AI to write the code, and I then I validate and verify, Uh, I, you know, there's there's a lot of knowledge that that goes along there, but you know what I mean, it's it's. 
+
+
+It's a totally different Paradigm now. 
+
+
+Um, so that's what this whole company is basically about is just sort of leveraging that, and also taking that to another mass Market because I feel like the even the big tech companies are doing an amazing job at building these AI models, but they're doing a really bad job at bringing it to the market. 
+
+
+Their their web interfaces are horrible. 
+
+
+Their user interaction is horrible. 
+
+
+Setup is horrible, like it, uh, a system like open Claw is fantastic, right? 
+
+
+You set it up. 
+
+
+It talks to you. 
+
+
+It interviews you. 
+
+
+It's, like, okay, what do I want to do? 
+
+
+How do you want your projects to work? 
+
+
+Where do you want your files to go and you have to like meticulously move things and have things organized and sort, and it'll help you along the process. 
+
+
+But it's just so manual, and that's why I'm building this interface where it's basically like. 
+
+
+It's a classic website, but you also have a chat function on the side where you can say, You know, build me a tool. 
+
+
+Help me with a project. 
+
+
+Here's my project management right inside my project management. 
+
+
+I have all these tasks, and I can ask the agent move this. 
+
+
+Like, I don't actually have to do anything on the interface if I don't want to. 
+
+
+You don't move this move this task around. 
+
+
+I finished this, you finish that. 
+
+
+Let's start a new project tomorrow at this time. 
+
+
+I want to do this, and the same thing with my health, health, and fitness, right? 
+
+
+I can log all of the things I'm eating all of the vitamins. 
+
+
+I'm doing all the fitness that I'm taking And this function alone. 
+
+
+I can take a picture of my food, and it'll then it'll build up my macros this function right here. 
+
+
+I don't know if you probably don't follow all this stuff, but there's a company called Cal AI that has a, Uh, it's these guys, uh, right here. 
+
+
+So, there's there's an app on the App Store. 
+
+
+This is a pretty big app on the App Store. 
+
+
+This app just sold. 
+
+
+I don't know if you noticed they've noticed this, but this app just sold to MyFitnessPal, which is Some big sports companies called 50 million dollars and all it does is you take a picture of the food and it tells you what's in it. 
+
+
+I've rolled that into my app in like 4 hours, And that was a 50 million dollar product. 
+
+
+You see what I'm saying, so this is happening all over the industry, right? 
+
+
+Every it's, they, they really describe it as a SAS bloodbath because all of these SAS companies that are selling software as a service are features as a service. 
+
+
+They're all now that these energetic systems are here. 
+
+
+People like me can just sort of rewrite functionality and then resell it to different customers, and it's going to upend the whole market. 
+
+
+And it's just like this huge sort of opportunity to change how everything works. 
+
+
+Uh, so, yeah, anyway. 
+
+
+That's kind of the idea. 
+
+
+And that's the, uh, that's what I try to describe in the in the pitch deck is basically, you know, assistant PhD is sort of my vision of what I feel like these agentic agents should be. 
+
+
+It should be an assistant that's going to help you to do the thing you want to do. 
+
+
+It's not a chat bot. 
+
+
+I'm not like writing a story or or drafting an email. 
+
+
+No, I want to tell you what my life I'm what I'm doing every day, and you're going to assist me in whatever way you can. 
+
+
+You know, improve the things that I do improve my calendar, improve the things that I'm talking to, and it could be like work projects. 
+
+
+It could be personal projects the, but the way to get to that point is give the give the information to the system and then let it help you out. 
+
+
+And then, you know, obviously, these things are getting quick quite quickly. 
+
+
+Like, they're getting better quite quickly. 
+
+
+So, we're getting to the point where my assistant, you know, I'd love to have an assistant and my assistant doesn't necessarily Need to be as smart as I am. 
+
+
+Maybe they're managing my calendar or helping me book meetings or doing things, but if my assistant was a PhD in every known topic, like, how does that change your life, right? 
+
+
+Not only is like, now, at the point where it's like, okay, well, if my assistant's a PhD, then you know, business, economics, science, art, industry, manufacturing, like, whatever, I'm interested in. 
+
+
+I can now take my PhD along with me and jump into this market and start to Become proficient in it. 
+
+
+Build Tools in it. 
+
+
+Have ideas, Express ideas, touch on my photo first. 
+
+
+Here's. 
+
+
+
+
+
+
+1:11 PM
+It could say, oh, let me let me run it through two. 
+
+
+Here's the mod. 
+
+
+
+
+
+
+1:11 PM
+You know, I got rid of some extra people in the background. 
+
+
+I did this and that, you know, in the back end, it's just Gemini and Nano, Banana, and all these other photo editing tools. 
+
+
+But it can make these modifications, and then it. 
+
+
+Can, you know, become a product unto itself And then the the last, the sort of part the the end part is this genius Suite, which is basically sort of like infrastructure management. 
+
+
+So, I imagine if, as this website scales out to tens and hundreds and thousands, and hopefully millions of users there are going to be a lot of infrastructure management behind it, you know. 
+
+
+Obviously, Google and AWS are going to do a lot of the heavy lifting, but they'll also be sort of a infrastructure management Suite that'll have to be running behind to make sure that we can service all these customers, so we'll eventually probably going to sell that as a service as well. 
+
+
+So, So, yeah, that's kind of the overview of how it's how it's set up, and then the rest of the pitch deck is just your usual sort of like financials and Descriptions and whatnot, but you know what I mean? 
+
+
+Yeah, Interesting. 
+
+
+Yes, yes? 
+
+
+So, so, yeah, I don't know. 
+
+
+Do you have any questions or do you want it? 
+
+
+I mean, I, I'm running this. 
+
+
+I'm running versions of this Of this sites, but there are a lot of them are sort of like landing pages that have, you know, very, it's very Alpha at this point because I'm only working by myself. 
+
+
+I don't have any team, it's basically me, and a bunch of AI agents that are modifying, I'm, you know, I'm making requests. 
+
+
+They're modifying the website, they're bit, and then they're deploying multiple versions and doing all the management. 
+
+
+Somebody's still running it off operating it myself. 
+
+
+But yeah, I'm hoping to get some VC investment, Um, to help with the build out. 
+
+
+And then once. 
+
+
+If I can, uh, you know, attract some invest investment based on, you know what I've built out so far, then I can start, you know, hiring a team, uh, getting more Engineers involved, uh, you know, building out the company, building relationships with other companies, uh, potentially like Sort of something like sponsorships or our Partnerships with other companies that might be mentioned on the platform. 
+
+
+You know, these kind of things, Uh. 
+
+
+But yeah, the main thing at this point is once. 
+
+
+I mean, everything is kind of stealth right now, because I'm not really sharing it with the public yet. 
+
+
+I kind of want the investors to have that stealth mode, you know, under the hood kind of view, where they get to sort of. 
+
+
+View the part of the product before it goes public, potentially provide feedback. 
+
+
+Or you, You know, try to basically have nice landing pages, probably going to do a bunch of YouTube videos to sort of demonstrate how the products work the vision, and then try to see if I can get, you know, a lot of user level people that would be interested. 
+
+
+Want to join the waiting list? 
+
+
+Maybe people that are join into the beta and then collect feedback from those users as well. 
+
+
+Be great to feed that feedback back in and help to prioritize all the different modules and whatnot. 
+
+
+So, yeah, that's kind of how I'm planning on sort of building it out, like the go to market strategy? 
+
+
+I guess you'd say. 
+
+
+But yeah, yeah, that's kind of the idea at this point. 
+
+
+Yeah, one of the things that I know Vcs are. 
+
+
+Investors are interested as is, you know, People in your Market. 
+
+
+You know who you're marketing to Consumers? 
+
+
+Would whoever their their, uh, belief in this product, and they're interested in it. 
+
+
+And so kind of survey results anything you can gather around. 
+
+
+That is huge. 
+
+
+Yep, um, so that's, that's all that's all good stuff, I was. 
+
+
+Yeah, I was looking through your your numbers, so it looked like you wanted to bring on two slugs of Of half a million dollars along the way. 
+
+
+Yeah, how long you think you need, or do you, or I mean, are you thinking more down the road after that. 
+
+
+Is that just kind of the initial? 
+
+
+I think this is kind of like the initial seed raise. 
+
+
+I think you know, talking to a few others, like, in this sort of Text, space, and especially the AI space, you know, coming on with, like, a million of investment like this, or potentially more, is pretty standard, so it's probably possible to do it, um, depending on, you know who I'm working with. 
+
+
+But yeah, I mean, it's I I personally. 
+
+
+I wasn't really sure what the sentiment was like, and that's why I posted this job onto LinkedIn and, and now, I'm talking with, uh, a couple of other people who are like CFOs or in helping with investment in other companies and I talked with some vendors, too, who would like you can, you know, there's there's lots of companies where you could pay for, like, uh, you know, warm, uh, warm greetings for specific investors or specific VCS, and what, and whatnot, you can basically pay for meetings. 
+
+
+So, I was, like, oh, that's kind of an option. 
+
+
+But then, if I go to LinkedIn, I can sort of get enough interest out of LinkedIn and probably get some partners who could come in as sort of Advisory board basically at this point. 
+
+
+Since I'm preceded, I don't have any funding right now. 
+
+
+If I could build an Advisory board that. 
+
+
+Can you know This business and funding and build funding in the past? 
+
+
+That would be great, and I would be able to leverage that to sort of get in front of VCS and be able to pitch the pitch deck in front of VCS. 
+
+
+That's kind of the stage I'm at. 
+
+
+If I can get through that and I can actually get some VC address and I can get the numbers here or potentially more then. 
+
+
+Yeah, it'd be awesome. 
+
+
+I could be able to build the company out and build this product quite quickly. 
+
+
+That's, that's my goal. 
+
+
+Um, I should. 
+
+
+I should probably know, where are you physically located? 
+
+
+I'm in Florida right now, near Sarasota. 
+
+
+Yeah, yeah, all right. 
+
+
+I was gonna say there's a, uh, Um, there's a website built in Boston, and uh, I'm I'm in the Boston area. 
+
+
+So, and uh, on there. 
+
+
+There's a, uh, There's a document on there, you know, 10 VCS. 
+
+
+Everybody in the Boston area should know, right? 
+
+
+And You know, so there's there's information, you know, On those there's. 
+
+
+There's always pitch events going on, which is a great way to validate some of this, you know, as well. 
+
+
+Yeah, absolutely. 
+
+
+Um, and so, you know, those are those are some of the paths I would kind of, you know, jump into. 
+
+
+Yeah, yeah, yeah, absolutely. 
+
+
+No, I totally agree. 
+
+
+Yeah, like, I say, it's kind of stealth. 
+
+
+At this point, I wanted to sort of give the first round to, uh, you know, sort of a selected group and see if anybody was interested from the rip, but but yeah, I think I might at some point, uh, probably I'll go public with it. 
+
+
+I'm gonna hook the all of the assistant PhD sort of preview version of the site into open world Tech, so that open world Tech points to it, you know, make sure all the landing make sure all of the sites that are on the main page. 
+
+
+All of these, uh, domain names make sure they all have really nice like looking landing pages. 
+
+
+If not, if no functionality, at least a landing page that gives Graphics about what the functionality will be once deployed. 
+
+
+Put, make sure there's a waiting list everywhere so that everybody can sign up. 
+
+
+Sign For VCS and started pitching. 
+
+
+Join! 
+
+
+Join those pitch deck meetings, you know, sort of. 
+
+
+Spread it out organically in that way. 
+
+
+Yeah, for sure. 
+
+
+Yeah, so what are you doing right now you're doing consulting? 
+
+
+Is that what you're doing? 
+
+
+Yeah, yeah, openwater Tech. 
+
+
+I mostly do I help like game companies to do back-end infrastructure, for I worked with a lot of like, really small sort of independent games who are independent game companies who have, like, a really small team, or they're they're trying to. 
+
+
+They get to the point where they've built the version of the game, but then they need to scale it up to like hundreds or maybe thousands of test players. 
+
+
+That's usually where they hire. 
+
+
+They hire a consultant because now they don't know how to get that many game servers to run in sync with their Lobby. 
+
+
+It's kind of tricky, so that's normally the footprint that I get into. 
+
+
+Yeah, that or or, you know, working W-2 on different different companies and whatnot. 
+
+
+Normally, what I'm up to. 
+
+
+Okay, okay, yeah, you know. 
+
+
+One of the things that kind of that kind of jumped into my head here. 
+
+
+As you were talking about the, you know, the portion of it that is focused on editing people's videos, pictures, whatnot. 
+
+
+It's, it's almost like having your own AI production company, right? 
+
+
+Yeah, so, yeah, yeah, exactly? 
+
+
+And, and then, though, and these things are absolutely possible. 
+
+
+At this point, I mean, my wife does photography. 
+
+
+She's always sounded like family photography, and it's just amazing. 
+
+
+Now that you can just take your foot, you know? 
+
+
+She spends quite a lot of time in Photoshop in Lightroom. 
+
+
+And, you know, making modifications. 
+
+
+Getting the, you know, balancing colors and making sure that you know the whole series of pictures look like they all came from the same place, you know, just spending a lot of time with it, but it's like, at this point, you can just throw the whole thing into banana or or some of these augenic editing tools. 
+
+
+And just say, okay, clean all these up and just come back an hour later, and it's like all done. 
+
+
+And then you can just ship it, and you don't have to lay, you know, it's much nicer to have the the software work on it for half an hour than a human working on it for six hours. 
+
+
+But yeah, the photos have been pretty much score. 
+
+
+I don't know if you saw that on my. 
+
+
+
+
+
+
+1:21 PM
+Yeah, I, I know with, uh? 
+
+
+
+
+
+
+1:21 PM
+That's one of the things I'm doing right now is Involved in guiding startup companies. 
+
+
+Yeah, and You know, with that, we use a lot of AI. 
+
+
+We, we teach them how to use AI right. 
+
+
+And so, in the last year, it's really come a long way. 
+
+
+I mean, you know, I, You know, I've been. 
+
+
+I've been playing with these things for about five years, and you know, I remember, when, well, okay? 
+
+
+It was so, so, but you know, and each month, it makes it makes gains. 
+
+
+Yeah, and it's pretty wild. 
+
+
+Yeah, so, yeah, yeah. 
+
+
+And some of the people I've talked to. 
+
+
+They basically saying, like, I'm I'm fairly early, or I've built out. 
+
+
+I've built out too much. 
+
+
+I've already bitten off way too much that I can chew, but honestly, the way that the way that this infrastructure, it's moving exponentially quickly. 
+
+
+You kind of have to bite off quite a bit if I, if I only had one website or a couple domains here, and you know, I could just kind of rip it out in a couple months. 
+
+
+And then it's like, what's the point of the investment, you know? 
+
+
+So I'm trying to make it this, like, big, holistic package, where you know an investor can get really interested in the larger picture. 
+
+
+And it, could, you know, I want to have, like, a year of Runway or two years of Runway, where I really want to ramp this up and have a large product and get to the point. 
+
+
+Probably, you know, after a couple years fantastic against, You know, sell to one of the big companies and exit properly and whatnot. 
+
+
+But yeah, but yeah, I totally agree with you. 
+
+
+Like all every entrepreneur these days that you really need to start looking at how all these AI agents can, you can leverage them because A person can do 10 times more work than they used to be able to do. 
+
+
+Even just a few months ago. 
+
+
+And it's really tricky because a lot of people, you know, they might have a lot of people that maybe they're not very high teching. 
+
+
+Maybe they're not software developers and maybe they Ranch at gbt. 
+
+
+Like, two months ago, three months ago and is like not as impressive, but once you start looking at Claude code and codex and Gemini CLI and like open claw, and how all you know getting these agents to start building software and applications for you. 
+
+
+It's unbelievable how good they are at it, and it makes sense from this. 
+
+
+From the AI developer standpoint, I mean, they really focused on this because they know that if they can really crack the software development side of these AI agents, it's just explanation increases their own company, right? 
+
+
+Because now the AI agent can help them. 
+
+
+I mean, if their developers are 10 times faster, the whole industry becomes 10 times faster, and they can't be three times faster. 
+
+
+You know, open AI can't be three times faster. 
+
+
+If Google is 10 times faster, they all need to move at this as fast as they can to, you know, to maintain their market. 
+
+
+So They should be. 
+
+
+They should sort of be spending at least a couple hours a day reading about these tools, experimenting with them, installing them. 
+
+
+It's a game changer. 
+
+
+Yeah, yep. 
+
+
+So the, uh, I have a cousin who works for meta, and she's actually working on some of the the AI stuff behind the scenes and she goes. 
+
+
+Wow, it's it's. 
+
+
+It's moving so fast. 
+
+
+And You know, she says, it's also kind of interesting, though too, because a lot of the people who are developing this AI are actually replacing themselves. 
+
+
+Yeah, I've done that several times now. 
+
+
+I mean, I've worked at a couple companies in the last couple years where it's like, okay, I'm coming in as a back-end infrastructure kind of guy and I come in, and I notice that wow, you guys are spending like twenty thousand dollars a month on a bunch of infrastructure that you said was supposed to be retired last year, and they're like, oh yeah, yeah, it's old stuff, we, yeah, okay, can you, you're you're the infrastructure? 
+
+
+Can you just clean all that up. 
+
+
+And then, yeah, I go through it. 
+
+
+I clean it all up, and I migrate everything. 
+
+
+And I validated all the old stuff is good, and then you know the twenty thousand dollar spend is gone. 
+
+
+And then, like, that's it. 
+
+
+My job's kind of done, and you get you get laid off. 
+
+
+And then you go move on to another company. 
+
+
+It's amazing how many companies right now have so much Tech debt and so much because they have they have to move quickly as well? 
+
+
+And they're just so much waste. 
+
+
+And then, yeah, cleaning up the waste is a huge problem, but I mean, honestly, like, you know, a good AI agent. 
+
+
+At this point, you could just point it at your A Cloud code. 
+
+
+We'll go through it step by step item by item, and it'll tell you the things that aren't like it's. 
+
+
+It's able to do these sort of human level Tech level jobs at that level. 
+
+
+But, but yeah, I totally agree. 
+
+
+Like it's, it's going to be. 
+
+
+It's going to be crazy once the one basically those large tech companies are just going to be shrinking and shrinking and shrinking. 
+
+
+And who knows? 
+
+
+What's that going to do the economy to be honest? 
+
+
+Yeah, yeah, yeah, yeah. 
+
+
+It's interesting, because I mean, the whole American Market is now based on service industry and knowledge, work, and a lot of it's Financial and even Finance. 
+
+
+Even those guys in the financial industry are, like, yeah, well, I don't. 
+
+
+I don't really need to have the team of, uh, researchers that I used to have or the team of, you know, Uh, people that I used to have. 
+
+
+So, yeah, the whole, the whole the whole economy is about to change. 
+
+
+Yeah, yep. 
+
+
+Finance accountants, uh, lawyers. 
+
+
+Yeah, I mean, you name it, I mean, it's. 
+
+
+It will be impacting doctors, I think soon, too. 
+
+
+So, yeah, oh, it already is. 
+
+
+I mean, I went to go to a doctor's appointment and the my doctor was very nice lady. 
+
+
+She literally has a laptop on her screen that she's talking to. 
+
+
+She's talking to an agent on a laptop the whole time, and she wasn't barely like she was barely talking to me. 
+
+
+She was literally talking to the laptop the whole time, and she's walking around the office with a laptop in her hand as she's talking to that. 
+
+
+Take notes about this. 
+
+
+Okay, this patient make sure this make sure that she doesn't do. 
+
+
+She doesn't type on a keyboard at all. 
+
+
+That's amazing. 
+
+
+It's amazing. 
+
+
+But yeah, and I guess. 
+
+
+And that's kind of the point of this. 
+
+
+This product as well is like, I'm trying to allow people to get their information into a system where an agent can help them work on it, and honestly, it could be it could be their work. 
+
+
+I mean, let's face it, everybody out there at the office. 
+
+
+Everybody in the tech industry that I'm working with Out, even if the company is like you're not allowed to do that, They they literally do it anyway. 
+
+
+They kind of have to do it anyway, and they and they sort of have to do it in a way that, Uh, it's very difficult for a company to figure it out, but the that's the other main foot, like, sort of tent. 
+
+
+Pole of this product is. 
+
+
+I'm trying to make it so that it's data sovereign. 
+
+
+You own your own data. 
+
+
+We're gonna package your data into an encrypted folder that only you have access to. 
+
+
+We're not gonna sell the data as third party. 
+
+
+We're not going to train AI agents on your data. 
+
+
+All of that stuff needs to be really specific because Google and openai and even even anthropic they don't say those things, and they don't say those things because that's, you know, 80 of their Market. 
+
+
+They're writing the agent, so they're very motivated to steal everybody's data. 
+
+
+So, you kind of want to work with a third party that's not into that Ai and building environment. 
+
+
+Otherwise, you will expect you should expect all of your data to be bought, sold, monetized, trained on all of that stuff. 
+
+
+And if we can specifically, and then it's going to be specifically In this application. 
+
+
+That, no, we don't do that. 
+
+
+You package your data. 
+
+
+It's your own data. 
+
+
+You can use it for whatever you want that includes, like your personal data, but what's happening in your life. 
+
+
+But hey, if you put something in there, if you put PDFs and documents from your business in there, same thing, it's encrypted. 
+
+
+You're the only one of access to it. 
+
+
+We're not going to sell it. 
+
+
+It's not going to end up in your competitor. 
+
+
+So, as long as we can make those kind of guarantees, and you can absolutely do that these days with the way that you know S3 buckets and encrypted buckets inside of AWS and Google, it's all possible to just encrypt everything and don't share it. 
+
+
+Oh, that's, that's good. 
+
+
+That's good. 
+
+
+Yeah, cuz I know, that's everybody's concern. 
+
+
+Right now, it's a huge concern. 
+
+
+Yeah, yeah. 
+
+
+Yep, yep. 
+
+
+Yep, yeah, it's interesting, So I, I noticed, you know, you were, you were looking for different people in your team and whatnot, yeah, you know, I was looking at that. 
+
+
+I don't really fit into any of those one buckets, you know, I, Um, I don't know. 
+
+
+Maybe I'd be better as an advisor to you, I don't know. 
+
+
+Yeah, yeah, that's I think. 
+
+
+And I think that that's kind of where I'm at right now, too, is that I probably don't. 
+
+
+I don't need any full-time employees at this point. 
+
+
+Not until the funding comes up once the funding comes in. 
+
+
+So, yeah, that's what I'm looking for is more like strategic advisors, business advisors, Uh, you know, people that, who are like even people like yourself that, you know, working with as mentors for different. 
+
+
+You know, you're working at a mentor group for entrepreneurs, like that kind of background and experience can be really helpful for me, not in a full-time capacity. 
+
+
+Maybe, like, uh, you know, a couple a couple hours a month, something like that. 
+
+
+Maybe, like, review the pitch deck from, uh, an angle of the the VCS that you've worked with in the past, or how different companies have, you know, differed? 
+
+
+Uh, investment opportunities you've worked with in the past, just sort of advising a couple hours a week. 
+
+
+That's kind of thing would be super helpful. 
+
+
+Um, and then also like, you know, uh, getting access to more VCS and being able to pitch to different investors. 
+
+
+That's kind of the thing I'm about. 
+
+
+That's kind of the point. 
+
+
+I have to be at right now. 
+
+
+
+
+
+
+1:30 PM
+I have to be at right now. 
+
+
+
+
+
+
+1:30 PM
+Yep, yeah. 
+
+
+Yep, So how quickly are you trying to? 
+
+
+Are you trying to do all that As soon as possible? 
+
+
+Yeah, as soon as sooner really is better. 
+
+
+The problem is that The technology is moving so quickly that I feel like I, you know, I feel like I could build out everything that I have on this main on the main screen. 
+
+
+Like, I could build out all these websites with all the features that I can basically think of right now, and it would probably take me like six months, probably more like a year by the time, it's all sort of deployed, but by. 
+
+
+But, after a year, the Market's all gone. 
+
+
+Yeah, and there's almost no point because now you know, the the market is, or the market has just changed so drastically that it doesn't may even make sense. 
+
+
+And I mean, I'm sure I will have, you know, once I get six months and three months out, once I get into that time frame, I'll be able to build new products and sort of Leverage how things are working existing at that point. 
+
+
+But yeah, if it doesn't happen quickly these days, then you just, you're you, lose the market very quickly. 
+
+
+So, yeah, Sooner's gonna have to be better, and I think that the investors are kind of aware of that too. 
+
+
+At this point there, they know that things are rolling quite quickly. 
+
+
+If you want to let if you want to take advantage of a market. 
+
+
+It's like three months. 
+
+
+If it's the tech industry, yeah, so we'll see. 
+
+
+We'll see how it goes, uh, I'm getting some really good interest from, uh, from different people, So I don't know. 
+
+
+We'll see how it goes. 
+
+
+Yeah, Yeah, the, um, Yeah, so do you? 
+
+
+Do you have actually, you have some of these websites already built, or are you in the process. 
+
+
+Yeah, so I have. 
+
+
+I have assistant PhD. 
+
+
+This is the main one that I'm working on because it's kind of my launching point, so, And then, for each, I do have. 
+
+
+So, I have like a Dev version, and I have a test version, and then I have the the main sort of production version, Um, and then And then. 
+
+
+I have touch up my photo.com. 
+
+
+This was this was an app that I figured this is actually one of the first apps that I built, and it's basically runs out off Nano banana, so it's quite simple. 
+
+
+But it's, it's very classic, sort of, uh, photo touch up, where you can just add a photo. 
+
+
+And then you know, in a text box, describe the modifications that you want. 
+
+
+And then you get your changes here. 
+
+
+And then you can, you know, accept the changes or move things around So you can do something like this. 
+
+
+And you can say, I don't know whatever you want to do So. 
+
+
+This one works assistant, PhD. 
+
+
+The main functions that I'm building out, where's my Dev? 
+
+
+Here's my Dev version, uh, everything is, uh, the authentication is all working, so you can log in with your Gmail account. 
+
+
+I have sort of a white list of users. 
+
+
+The main the main modules I'm working on is the project manager, so you can build projects, add new projects and task management, And one of the the main reasons I'm basically building this app for myself. 
+
+
+I want to be able to manage my own projects, and you know, basically, use this product to build its own product. 
+
+
+But I know that there was a couple other. 
+
+
+There's a couple other small, like AI run companies that had just they were just doing project management, like this sort of like task management. 
+
+
+But agentic task management where you could have a chat bot on the side. 
+
+
+Who can the chat bot can sort of help you organize your tasks and then complete them. 
+
+
+And again, then the the two companies I was watching one of them sold for two million, another one sold for three, and that was like in the last two months. 
+
+
+So, just that, one function you know has value there, uh, and then I'm also working. 
+
+
+I'm building out the nutrition and fitness so that I can have, you know, graphs and charts about Orient take. 
+
+
+And you know, because you know everybody's, you know, people are very interested in health and health management as well. 
+
+
+Oh yeah, um, yeah, that's always a big thing for young people, old people like it's super popular. 
+
+
+So, yeah, building out this version. 
+
+
+This, uh, this module that where I can track my fitness, take pictures of your food, read your Macros, uh, you know, exercise all that stuff. 
+
+
+And then, yeah, I suppose, the the other parts that I'm working on are Here. 
+
+
+Uh, yeah. 
+
+
+So, so eventually, assistant PhD should do project corn project management, social, and collaboration. 
+
+
+So, I want to be able to for, uh, members of the of the website to basically connect to each other sort of in a friend group sort of way, But also you'll have your own specific agent and potentially you could have your agent communicate with another person's agent, right? 
+
+
+So I could say, oh, uh, I asked my agent. 
+
+
+Can you speak to this other purchase agent and put my appointment on their calendar or speak to this other person's agent and say, hey, we want to, you know, have a communication. 
+
+
+That way you can have communication or potentially even work with somebody when they're not even available, you know. 
+
+
+So, there'll be a lot of social collaboration, health, and fitness, Uh, travel, Um, growth, entertainment. 
+
+
+All those sort of things. 
+
+
+Um, yeah, so I've got touched up my photo. 
+
+
+Yeah, travel travel could be a huge opportunity. 
+
+
+That's, uh, absolutely. 
+
+
+Yeah, yeah, I mean, of course. 
+
+
+Yeah, yeah, that's what I have. 
+
+
+I do have a Expedition in environments. 
+
+
+Yeah, because you know, you know how it is traveling to different places you've never been there before. 
+
+
+There's a lot of research that goes involved, you know, not only just buying and selling, you know? 
+
+
+Uh, airline tickets and hotels, but just just general research. 
+
+
+Like, what should I do while I'm here? 
+
+
+And that's something I'm I'm going to. 
+
+
+I'm going to Google Gemini or or chat gbt a lot and just just asking questions about certain areas, or like, even when I'm in a museum, I'll be just talking to chat gbt and be, like, oh, tell me about this. 
+
+
+Tell me about that. 
+
+
+Take a picture of a painting. 
+
+
+It's it's. 
+
+
+It's so much better than even the audio tours or the, you know, sometimes it's even better than talking to a local just because it has access to web search like, so, yeah, yeah. 
+
+
+Travel would be fantastic, for sure, to be able to have that agent. 
+
+
+Follow along with you and help you, uh, do travel, but also like, get the most of things. 
+
+
+When you're a certain environments, It's interesting, just just a little kind of a side here. 
+
+
+My, uh, my wife and I, I guess it's about three or four years from now. 
+
+
+Uh, ago, we went to Iceland. 
+
+
+Yeah, and we have some friends going to Iceland. 
+
+
+Yeah. 
+
+
+And so, you know, We sent them some data, but they said, oh, we're we want to. 
+
+
+We want to pick your brain. 
+
+
+We have a Google meet. 
+
+
+Yeah, so, and I know how much effort we spent in, you know, spent planning that trip in the first place, and so, yeah, there's a huge opportunity. 
+
+
+I mean, you think the sites you want to see? 
+
+
+How do you get there. 
+
+
+Places you want might want to stay along the way, Etc, you know. 
+
+
+I mean, just, you know restaurants. 
+
+
+You want to go to, you know? 
+
+
+Yeah, yeah, you think you're just gonna do a trip for, like, a week or a few days or something, but it can become a huge research project. 
+
+
+Absolutely. 
+
+
+Absolutely. 
+
+
+Because we went all the way around the island, so yeah, yeah. 
+
+
+Different. 
+
+
+Different place every night. 
+
+
+So, yeah, and the longer you stay. 
+
+
+Yeah, it's like that with every country you've never been to these places before, so there's so much to learn. 
+
+
+So, yeah, it's for sure. 
+
+
+But yeah, so then the touch up the whole touch of my photo. 
+
+
+I have touched on my photo right now, but I need to build landing pages for the rest of these touch up. 
+
+
+My video, my music, I mean, I have sort of concepts for a lot of these things, but it's going to be basically landing pages and and sign up, uh, waitlists at this point. 
+
+
+And then, for the for these guys for the genius stack, I registered the domains. 
+
+
+And yeah, so I have these, like, You know, I'm starting building the landing page. 
+
+
+That'll basically give you an idea of what these products will entail, but I'm not really working on these yet. 
+
+
+Just because I don't, I don't have that problem yet myself. 
+
+
+So when I get to that point, then I'll be building them out. 
+
+
+But yeah, I think they look decently good, and they sort of the themes, the themes, uh, the web. 
+
+
+The site themes sort of match each other and stuff, so I think it's decent enough probably to pitch as, Uh, you know? 
+
+
+That's something that, uh, investors could potentially jump in, on, and something I could build quite quickly. 
+
+
+Like, I say, because Because of the AI agents can build a lot of this themselves these days, it's great, right, right? 
+
+
+So your your vision here is your vision here. 
+
+
+You know you've got these kind of three silos? 
+
+
+Is your vision to Sell them all together? 
+
+
+Sell them eventually individually to, You know, I mean, Yeah, potentially. 
+
+
+I mean, I suppose, these are all for specific users, right? 
+
+
+So, each each website will have its own sort of login and subscription. 
+
+
+It'll basically be a subscription model. 
+
+
+And you know, some of them will be cheaper than others, depending on, Uh, what the functionality is. 
+
+
+Some of them, like the, the creatives, the creative stuff, the touch-up stuff is probably going to be sort of credit based, potentially maybe service based. 
+
+
+But if you go to a lot of these, like, uh AI, photo editing websites. 
+
+
+They give you a certain number of credits, and then every time you modify a photo, you use a certain number of credits, uh, but you can also sometimes. 
+
+
+You can also pay for a subscription and gets like a sort of like unlimited access. 
+
+
+Um, but yeah, it's the same thing with, like chat gbt, you pay 20 a month or 200 a month, depending on what you want. 
+
+
+And, and I imagine that the assistant PhD will probably be like that too. 
+
+
+Uh, open claw right now is totally open source, but it's just a whole nightmare to set it up and install it and scary honestly to install it because of how it controls your computer. 
+
+
+
+
+
+
+1:40 PM
+Um, open Claw right now is totally open source, but it's just a whole nightmare to set it up and install it and scary honestly to install it because of because of how it controls your computer. 
+
+
+
+
+
+
+1:40 PM
+But yeah, I, I imagine there's going to be, uh, other services that are going to be based on Nemo claw, which is the Nvidia version of openclaw that'll sort of be this eggetic sort of system, but none of them have, like, a decently nice looking interface that actually looks like it's going to be an assistant and help you out. 
+
+
+They're all sort of just generic, A computer management Systems, which is like, I don't think that's not what users are looking for, like normal, Even knowledge workers like somebody. 
+
+
+Eventually, I feel like you need a sort of a website that you can manage these things on. 
+
+
+You don't just want An agent that's running in the background on your computer. 
+
+
+I mean, there's some benefit to that, but, Uh, yeah, yeah, Well, well, yeah, yeah. 
+
+
+But anyway, it's kind of fun. 
+
+
+Like, I say, I will build it out, regardless. 
+
+
+Even if I don't get the funding, I'm going to build it up for myself, Uh, but I feel like I could. 
+
+
+I'd love to do it a lot faster, just so I can get into the market and potentially like Valley. 
+
+
+Get some value out of it, Right, right? 
+
+
+And I saw you. 
+
+
+I saw your some of your later Pages, I think, um, you had in there the stuff you've already done versus the things you need to do. 
+
+
+So, Yes, oh, you're talking about the end of the slide deck. 
+
+
+Yeah, I put some screenshots in the slide deck here. 
+
+
+But yeah, I need to. 
+
+
+I was sort of warned against having too many pages in the slide deck. 
+
+
+You only want to have 12 pages or something, and I'm already up to 26 pages. 
+
+
+But yeah, eventually I'm gonna have to do more screenshots, but I'll probably just include them as a separate. 
+
+
+I basically have a pitch deck, which is exactly 12 slides, and it's the exact weld slides that Tech investors want to see, you know, they're all exactly the same. 
+
+
+They ask the the capitalization table. 
+
+
+There's like a formula for these first 12 slides. 
+
+
+All right, that actually, I can add more at the end. 
+
+
+Yeah, you can always include those things as an appendix here, or something like that, yeah, yeah, yep, exactly, exactly. 
+
+
+So, yeah, I'll be. 
+
+
+I'll be adding more of those. 
+
+
+And then, as I sort of build out the functions in the site, I'll probably have an appendix, uh, with more slides at the end. 
+
+
+More screenshots at the end, Uh. 
+
+
+But, but these, these websites are basically they're kind of publicly available right now, and they don't really limit the number of users, but I do have, uh, authentication. 
+
+
+So, if a user, if anybody wants to use them, I'm not I, I think, the waiting list generally works. 
+
+
+Um, but I'm building out a function where I can quickly go from the waiting list to the white list. 
+
+
+So, somebody who joins the waiting list, I'll get an oh, I'm trying to get a slack and email notification right away, and then, depending on who it is or what they want. 
+
+
+They don't sound like a bot then. 
+
+
+I can just add them to the white list, and then they can log in and start using the sort of beta version Cool. 
+
+
+Yeah, yeah, Yeah, so anyway, it's kind of interesting, I don't know. 
+
+
+It's kind of fun to set up. 
+
+
+I really enjoy doing it if I could actually get paid to do it. 
+
+
+It'd be even better if you know what I mean, well, you know it. 
+
+
+It, it almost seems like, you know, you could do a couple of these things a couple of the smaller things almost sell them off and use that as your funding, potentially rather than necessarily going to the VC. 
+
+
+Yeah, it's possible. 
+
+
+Yeah, if I could make a small. 
+
+
+Yeah, but but either way, if I if I was to make a small like if I was to take a couple of these endpoints and then build a, uh, something out of them. 
+
+
+I would have to go public with that specific thing and try to get the sort of social Social media sort of aspect and and sell it out, you know, and sort of part. 
+
+
+Parse it out, then get a wait list for the one item, and then potentially sell it. 
+
+
+It's, it's possible. 
+
+
+It's true, it's possible, but then it's like the domain kind of matches the group, but I mean, I can basically sell any one of these domains and then and then I could. 
+
+
+Or, I can even sell the group of domains, and then I can just pick another domain name and just buy a whole another series of domains and and pivot to that and just make small changes to it. 
+
+
+But yeah, that's possible. 
+
+
+Yeah, potentially, funding it sort of self-funding. 
+
+
+It as things kind of come out piecemeal. 
+
+
+Yeah, it's possible, but yeah, I think the first step is, I need members to join the wait list, and then I need sort of. 
+
+
+Uh, the next step is paying customers, and then it's going to be super super obvious that, so you know, worth, right? 
+
+
+And remember, there's two things with VCS. 
+
+
+VCS can be very helpful, but they also can be, you know, they're the watchful eye, and so they'll You know, yep, they will, uh, definitely want some level of control. 
+
+
+So, yes, depending. 
+
+
+Yeah, absolutely. 
+
+
+Depends on who you're working with. 
+
+
+I've definitely read that, too. 
+
+
+Like, for example, like an angel investor or some, or maybe like a family that has like a family fund, they probably aren't gonna be too involved because they might not even be in the technical space, right? 
+
+
+I think of BBC is going to be very potentially be very involved, depending on what they want. 
+
+
+Yeah, yeah, but you're right, you're right. 
+
+
+The Angels tend to be a little bit more hands off. 
+
+
+You know, you do your presentation to them, You know, uh, once a quarter, or, you know, a couple times a year, and you know, let them know. 
+
+
+As long as you're making good progress, you know they're usually good. 
+
+
+So, yeah, true. 
+
+
+But, yeah, a lot of the VCS. 
+
+
+I think they have a certain, uh, they have a certain sort of narrow aspect of what exactly do they want, what Milestones they want to hit? 
+
+
+How exactly do they want it to pitch, and then they can move it into the direction that they'd like to go. 
+
+
+But yeah, I mean, like, I say, it just kind of depends on, uh, depends on who Who I'm getting the, you know, potentially getting the the financial, right? 
+
+
+Yeah, the attention from? 
+
+
+Yep, exactly. 
+
+
+Yeah, exactly. 
+
+
+Yeah, Well, this is, this is really interesting. 
+
+
+Yeah, it's super. 
+
+
+Yeah, yeah, thanks. 
+
+
+Yeah, I don't know. 
+
+
+We'll see how it goes. 
+
+
+Like, I say, I'm pretty fresh on it. 
+
+
+I've only been working on this sort of pitching, basically pitching to, Uh, you know, not really VCS yet. 
+
+
+But, Uh, you know, other parties that can help me get in front of VCS. 
+
+
+So, probably, I'm hoping that in the next, like, couple weeks, maybe I'll be cleaning up the slide deck, making it a little bit more, Uh, specific picking. 
+
+
+I've got some feedback where it's like, things like, pick a specific ideal customer profile, and then it mention that in the slide deck, and in that case I would we were. 
+
+
+I'm thinking, like, probably like knowledge workers, probably knowledge workers, for for this product. 
+
+
+This assistant product probably knowledge workers would be a great Pro, uh, Customer profile, but not necessarily like coders and software developers because they already have a whole bunch of tools and tool sets Cloud code Gemini CLI codex. 
+
+
+Those tools are already working great for the software developer, But there's a lot of knowledge workers that are not software developers. 
+
+
+And they're not even in the tech space. 
+
+
+They could be, like, uh, you know, assistants or researchers, or, You know, people working in the corporations and other different kind of ways HR and other in other ways. 
+
+
+Those guys would be great for a simple profile. 
+
+
+A simple website that can help and assist them without having to have a lot of software technical background. 
+
+
+So, yeah, building out things like that and making some more changes to the pitch deck. 
+
+
+And then, yeah, pitching it some VCS and see what happens. 
+
+
+Interesting, interesting. 
+
+
+Yeah, so you know you? 
+
+
+Would you were thinking about, uh, agents in certain areas. 
+
+
+Any agents, uh, you plan to look at Financial products and make those kind of recommendations, not yeah. 
+
+
+I, as I do more research in how to, you know, contact VCS, of course. 
+
+
+Yeah, like that, all the whole financial industry is another great way to assist people, because especially if they're getting more successful if they're getting assistant from if they're getting assistance from a sort of PhD, and they're coming up with great ideas, and they want to start running their own businesses. 
+
+
+Yeah, I mean, the financial side would be fantastic, too. 
+
+
+And, and of course, I'm just. 
+
+
+I'm leveraging Gemini, mostly Google gem, and I quite a lot for how to build the company, how to build the slide deck, You know what? 
+
+
+What should investors be interested in where I should even incorporate like it told me how to go to clerky.com and clerky. 
+
+
+Will they follow you through the whole step of building the incorporation inside of Delaware? 
+
+
+Make sure that you know it's it's registered in Florida, because that's where I live, but then the the corporation that started from Delaware, and then what kind of banks should I work with and what kind of files do I need to send to the IRS? 
+
+
+Like, Gemini knows all knows all of those things. 
+
+
+All I gotta do is ask. 
+
+
+So, yeah, any. 
+
+
+A lot of these AI agents, they're going to become so much more useful for everybody to do. 
+
+
+Things like build companies, uh, build products and services. 
+
+
+Yeah, I'm leveraging it all myself, too. 
+
+
+So it's a huge market, and it's really like starting to really take off as is. 
+
+
+Yeah, absolutely! 
+
+
+Yeah, that's with the, uh, one of the tech companies I was involved in that, uh, Um, I mean, we, we set it up. 
+
+
+As a Delaware Corporation, We ran it in Massachusetts. 
+
+
+But yeah, it was a Delaware Corporation, and it just, you know, it's? 
+
+
+
+
+
+
+1:49 PM
+I mean, at this point. 
+
+
+
+
+
+
+1:49 PM
+To follow. 
+
+
+The advice from these from from, you know, chat GPT or or Gemini sea light's heart, like that advice is really great. 
+
+
+And I mean, I, I even got questions in the past. 
+
+
+Like, do you have a lawyer? 
+
+
+Are you working with any legal team or anything. 
+
+
+I'm like, well, not really. 
+
+
+I mean, I didn't find any forms that were so that the legalese was so complex that I felt like I wasn't understanding what I was signing, but you know eventually I'll get to the point where I need to start hiring employees and negotiating with employees and negotiating with investors who are going to take a, you know, a certain percentage of the company, and at that point, probably some legal advice would be good. 
+
+
+But but, yeah, at this point, since everything is just kind of getting set up. 
+
+
+Seems like I'm getting the advice I need from from the AI agent, which is crazy, but it's working so far. 
+
+
+There is a lot of good, uh, good advice, uh, you know, on, You know, within, within the, uh Gemini, and chat GPT and, well, Claude, too. 
+
+
+Um, one of the things you know I was doing was advising one of my clients about that. 
+
+
+He's going. 
+
+
+How should I set up my corporation? 
+
+
+I was. 
+
+
+I started typing, right? 
+
+
+Yeah, and I'm typing and going. 
+
+
+Here's a little bit. 
+
+
+I'm going. 
+
+
+Wait a second. 
+
+
+I'm gonna put this into, you know, uh, Gemini, and I did, and it, you know, it's essentially wrote the summary for me that I was going to give to him, yeah, and fraction of the time. 
+
+
+Yeah, and you have to check it. 
+
+
+I mean, obviously, it could make up some weird stuff, and things can get wrong. 
+
+
+But just to get you like 90 of the way there, and you're just like scanning through interview, and that's exactly the way the code and the applications are working, too. 
+
+
+It's writing all the functions out, and I'm like, yeah, it looks pretty good. 
+
+
+I'm looking at it like, I don't really have much. 
+
+
+Maybe this might this? 
+
+
+This module might want to go here like you might want to do some slight organized reorganization, but the fact that it's getting you that that there that far that quickly. 
+
+
+Yeah, for sure. 
+
+
+Yeah, and it's actually a whole new mindset too, because you're you're totally right. 
+
+
+When, as soon as I sit down on the laptop and I'm, like, okay, I'm gonna work out this document. 
+
+
+I'm going to really pl Time. 
+
+
+I have to think to myself, wait. 
+
+
+Should I even be doing this? 
+
+
+This is not the best place to start the best place to start is to ask Gemini. 
+
+
+Am I doing this the right way? 
+
+
+Can, you know, it's really like. 
+
+
+Leveraging this AI agent is sort of the best path in almost all circumstances these days. 
+
+
+Yeah, it's a good place to start. 
+
+
+It just gets you so much further down the path and, and you know, gets rid of a lot of, uh, sort of mundane tasks that you don't have to worry about, so it's great, sure. 
+
+
+Yep, sure enough. 
+
+
+Cool. 
+
+
+Well, Um, I, I don't know. 
+
+
+I don't know where you want to go from here if you, you're probably talking to a lot of people, I'm assuming, right? 
+
+
+Yeah, I've got a few, but I, I pretty much tried to book an interview every day for the next two weeks, which I thought was kind of interesting. 
+
+
+I wasn't expecting you to get that level of interest, but the pitch deck does look pretty good, and the ideas are seem reasonable. 
+
+
+So, yeah, I'll basically be talking to a few different people every day, but like I say, I guess I'm not really looking for a sort of full-time help at this point. 
+
+
+Probably going to be looking for, you know, um, Building up an advisory Board and trying to get people involved that can help with that funding round. 
+
+
+That's the main thing I mean, none. 
+
+
+All of this is just sort of an interesting thing until I get the funding, But once they get the funding involved, then I'll probably be looking for more people that can part-time, potentially full-time and breaking out some of this company at a variety of our projects and leveraging a few different people. 
+
+
+And, you know, building out basically like an org chart, but that's probably going to be Not weeks, probably months out by the time I actually get the funding I need to do that part. 
+
+
+But yeah, if I can get any help from anybody in the meantime, that's, you know, things like, you know, warm and warm invites or good advice for how to speak to investors and that sort of stuff that that stuff can be really helpful. 
+
+
+Okay, yeah, for sure. 
+
+
+Well, you know, feel free to reach out to me. 
+
+
+I, I'm happy to help you if I have some ideas. 
+
+
+I'll shoot them your way too. 
+
+
+Yeah, absolutely. 
+
+
+Yeah, and if you like I say, if there's anybody in your network who might be interested in this sort of thing, uh, you know From the investment side or just interested in the technology? 
+
+
+I'm super happy to talk about it, or you know, help anybody on your network or do whatever I can. 
+
+
+Like, I say, I'm not funded yet, so I don't have any. 
+
+
+I can't spend a lot of, uh, you know, I don't have any way to like, financially help a lot of people, but I'm I'm totally definitely, uh, interested in helping people out and especially are interested in this area for sure? 
+
+
+Yeah, yeah, yeah, okay, awesome, awesome! 
+
+
+Yeah, thanks! 
+
+
+Thanks for chatting with me, though. 
+
+
+Jeff, that was a good talk. 
+
+
+Yeah, yeah, yeah, it's. 
+
+
+It's a pleasure. 
+
+
+And, uh, yeah, you've. 
+
+
+You've got the, I think you've got some good stuff going on here, so it looks. 
+
+
+It looks very interesting for sure. 
+
+
+Yeah, and I'll keep in touch and I'll let you know how I go and and what kind of, uh, decisions I'm making coming up. 
+
+
+So, yeah, yeah, pretty good, All right, awesome. 
+
+
+Yeah, Thank you. 
+
+
+Yes, thank you very much good to meet you. 
+
+
+Nice meeting you. 
+
+
+Yes, have a good day.

@@ -1,0 +1,63 @@
+https://gemini.google.com/app/d0644820b5ad036a
+
+
+Based on your notes from the call with Thad, here is a summary of the main points discussed:
+
+Thad's Background and Approach
+
+Thad described himself as a non-technical "business guy" who focuses on operations, finance, and marketing, allowing founders to be the visionaries.
++1
+
+He has extensive experience in startups, incubators, and working with investment groups.
++1
+
+He typically works with around six companies at various stages, ranging from pre-revenue/pre-seed to companies with $100-$200 million valuations, and one recent Series A raise at a $1 billion valuation.
+
+His primary goal is to align with and protect the founder, taking on day-to-day operations so the founder can focus on creating and building the vision.
++1
+
+Your Vision for OpenWorldTech
+
+You explained that you are building the infrastructure from scratch using AI tools like Gemini CLI and Cloud Code, automating the creation of Kubernetes clusters and backend apps.
+
+You are building the "Genius Suite" and "Assistant PhD," focusing on creating a user-friendly interface that regular people can understand and use for daily tasks like project management or health tracking.
++2
+
+You plan to use lightweight consumer media tools as a "hook" to drive initial user acquisition, similar to how Cal AI acquired users before selling to MyFitnessPal.
+
+Your strategy involves initially remaining stealthy, building landing pages with waitlists to gauge user interest and guide feature development before a full launch.
++1
+
+You intend to focus heavily on social media and YouTube tutorials for marketing and community building.
+
+Fundraising Strategy and Feedback
+
+Thad expressed concern that your current $1 million pre-seed target ($500k + $500k) is too low. He suggested that a standard raise in the AI space is a minimum of $3 million, which would provide 12 to 18 months of runway.
++2
+
+He advised raising your valuation caps. He suggested that your current 12.5% equity offer is too high for early seed investors and recommended aiming for a $15-$20 million cap at a 15-20% discount. This protects you from being "washed out" during a Series A round, where investors want the founder to maintain at least 51% control.
++2
+
+Thad strongly advised revising the revenue projections in your pitch deck. He stated that the projected $700,000 in year two is too low to attract venture capital, which typically looks for potential 10x to 100x returns. He suggested projecting closer to $1 million in year one and $5 million in year two to show you can reach a $100 million valuation by Series A.
++3
+
+Pitch Deck Refinement
+
+Thad recommended narrowing the focus of the pitch deck. He felt the current version is too broad and suggested focusing on exactly what problem OpenWorldTech solves and why it is unique, rather than claiming to "serve the whole world".
++3
+
+He emphasized the need to show how you will acquire users and why they will stay, especially given the competition from major tech companies.
++2
+
+He also suggested adding a clear product roadmap detailing what has been done and what the investment will be used for (e.g., hiring a dev team, reaching Alpha/Beta, and launching).
+
+Role and Next Steps
+
+Thad indicated that, at this early stage, you likely only need a COO for 5 to 10 hours a week to handle administrative tasks and fundraising, rather than a full-time role.
++1
+
+You discussed the value of having Thad on the Advisory Board, where he could use his network to connect you with smaller, AI-focused VCs and Angels, and help refine your pitch deck and strategy.
++2
+
+You both agreed to review the materials further and work on tightening the pitch deck for a more targeted audience.
++2

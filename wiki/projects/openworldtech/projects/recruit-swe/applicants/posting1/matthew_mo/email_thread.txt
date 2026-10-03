@@ -1,0 +1,79 @@
+
+Matt Pursley <mpursley@gmail.com>
+Apr 1, 2026, 10:40 AM (7 days ago)
+to mangyinm
+
+Hi Matthew,
+
+Thank you for your interest in the AI-First Fullstack Software Engineer role at OpenWorldTech. I've reviewed your application, and your open-source contributions to autonomous frameworks like SuperAGI, along with your experience fine-tuning models and building RAG applications, really stood out to me.
+
+I would love to schedule an introductory video call to discuss your agentic workflow experience, our vision for the AI ecosystem, and how we might work together to build our core platform.
+
+I will be available to take calls starting next week. Please let me know what your general availability looks like during that time.
+
+Additionally, because we will be diving into unreleased product details, our proprietary AI architecture, and our technical roadmap during this call, I prefer if candidates sign a Mutual Non-Disclosure Agreement (MNDA) beforehand. I will send that over separately for your review.
+
+Once the NDA is squared away, we can lock in a specific day and time for our chat, and I will send over some read-ahead materials before we speak.
+
+
+
+Looking forward to connecting!
+
+
+
+Best regards,
+
+Matt Pursley
+
+___
+Matt Pursley, 
+Founder - Open World Tech Inc. https://openworldtech.io 
+email: mpursley@gmail.com
+www: https://mattpursley.com
+cell: (772) 226-0559
+
+Mang Yin Mo
+Apr 2, 2026, 2:05 PM (6 days ago)
+to me
+
+Hi Matt,
+
+  Sorry for the late follow-up but look forward to connecting as well. Very excited when I learnt about Open World Tech especially the observability part (it's definitely become a key bottleneck!)
+
+Matthew
+From: Matt Pursley <mpursley@gmail.com>
+Sent: Wednesday, April 1, 2026 7:40 AM
+To: mangyinm@alumni.cmu.edu <mangyinm@alumni.cmu.edu>
+Subject: AI-First Fullstack Software Engineer at OpenWorldTech.io
+
+Matt Pursley <mpursley@gmail.com>
+Apr 6, 2026, 10:17 AM (2 days ago)
+to Mang
+
+Hi Matthew,
+
+Thanks for reaching out! I'm glad the observability and reliability
+bottleneck resonated with you. As, that's one of the main problems
+we're tackling right now.
+
+I just sent our MNDA to your email via Dropbox Sign. You can review
+and sign it whenever you have a minute. And, let me know what your
+schedule looks like over the next week or so, so we can book in a time
+for a video call.
+
+Once the NDA is signed, I'll send over some read-ahead materials on
+our architecture and technical roadmap so you can look them over
+before we talk.
+
+Best,
+Matt Pursley
+
+Mang Yin Mo
+Apr 6, 2026, 11:49 AM (2 days ago)
+to me
+
+Thanks Matt,
+
+  Signed & look forward to learning / working with you
+
+Matthew 

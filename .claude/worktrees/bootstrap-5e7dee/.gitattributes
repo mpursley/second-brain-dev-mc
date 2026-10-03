@@ -1,0 +1,10 @@
+# Markdown is the whole repo — normalize line endings and diff it as text.
+* text=auto eol=lf
+*.md text diff=markdown
+
+# Keep binaries out of textual diffs
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary

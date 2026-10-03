@@ -1,0 +1,34 @@
+# Meeting Notes - Intro Call with Rakesh Pullabhatla
+
+## Technical Discussion: Gemini Supervised Fine-Tuning (SFT)
+* **Process:** Workflow for Gemini 1.5 (Pro/Flash) on Vertex AI using JSONL data in Cloud Storage.
+* **Best Practices:** Use distinct training and validation sets to prevent overfitting.
+* **Hyperparameters:** Control over epochs, adapter size, and learning rate.
+* **Costs:** Estimated at ~$5 per 1 million training tokens. A 1,000-example dataset (~1M tokens) with 3-5 epochs costs roughly $15-$30.
+* **Optimization:** Recommended to turn off the "thinking budget" for SFT models to reduce latency and output token costs without sacrificing accuracy.
+
+## Rakesh Pullabhatla's Background
+* **Expertise:** CPA, CFA, MBA with a strong focus on finance, capital markets, and fundraising.
+* **Experience:** 
+    * **EdHouse:** Co-founder, blockchain-powered real estate tokenization.
+    * **Planet:** Led financial forecasting for IPO; raised $400M+ equity.
+    * **Spoken:** Led Global Finance operations through IPO; raised $80M+ VC.
+
+## Matt’s Vision (Open World Tech)
+* **Role:** Technical Architect (SRE/DevOps background).
+* **Products:** 
+    * **Assistant PhD:** Agentic assistant for knowledge workers.
+    * **Infrastructure Agent ("Archie"):** Fine-tuned expert for deploying and managing Kubernetes/DevOps stacks.
+    * **Fitness App:** Prototype built autonomously over a weekend using Gemini to reverse-engineer features from Google/Samsung Fit.
+
+## Strategic Investment Advice from Rakesh
+* **Market Sentiment:** Investors are currently "throwing money" at anything involving "Agents" and "Context."
+* **Team Structure:**
+    * Solo founders are a risk ("bus factor").
+    * Investors prioritize a strong engineering team (2-3 core people) over executive roles (CEO/CFO) at the seed stage.
+    * Suggestion: Partner with a known contact from previous work rather than a cold LinkedIn hire.
+* **Enterprise Strategy:** Focus on high-value B2B use cases. AI models are evolving so fast that simple wrappers are easily disrupted; focus on data, context, and specialized agents.
+
+## Next Steps
+* Matt to reach out to his network for a potential co-founder.
+* Schedule a more technical deep dive/follow-up call with Rakesh next week.

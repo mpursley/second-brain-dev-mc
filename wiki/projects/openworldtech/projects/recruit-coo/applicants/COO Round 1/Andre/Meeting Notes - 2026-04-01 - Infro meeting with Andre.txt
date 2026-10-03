@@ -1,0 +1,794 @@
+
+Good, Am I Audible? 
+
+You can hear me. 
+
+Yeah, yeah, okay here. 
+
+Yeah, good. 
+
+Cool, yeah. 
+
+Thanks for. 
+
+Thanks for jumping on. 
+
+Good to meet you. 
+
+Um, I did. 
+
+I did take a look at your resume, the projects you've been working on recently. 
+
+It's pretty good. 
+
+Chaos search is actually pretty awesome. 
+
+I, I feel like I might have done an eval at one of the companies I worked at. 
+
+But yeah, you know, searching through data Lake has always been a huge problem everywhere I ever worked. 
+
+It's like, uh, big queries are so slow and expensive because the indexing is always wrong, and yeah, interesting product, uh, giving, you know, my background has been a lot of like infrastructure, for, you know, SAS companies doing a very variety of things. 
+
+But yeah, yeah, that's a good product. 
+
+And then I see you did some Ventures, and you did some sort of, uh, Consulting and stuff before that, which is also super useful for me, too. 
+
+You know, with the the space that I'm in. 
+
+I'll give you a little background of me, though. 
+
+I mean, I've been doing sort of. 
+
+I guess my my big jump was in PlayStation where I worked PlayStation for eight years doing like SRE and infrastructure and observability and built out a whole. 
+
+We built a brand new product for them, so when I started, it was a very, uh, Pro type, sort of system. 
+
+We were building the cloud streaming platform and then just go to scaled it out and became very like a global, worldwide product. 
+
+I think we had 30 data centers all over the world 15 in the U.S, so yeah. 
+
+Like millions of customers, so I've been doing that kind of infrastructure stuff for visual effects companies. 
+
+And, You know, recently, like cyber security and game development, game servers, and all that sort of thing, and then just recently just started working on my own sort of side project, which, Um, you know, have sort of scaled in my mind into a way where I've sort of had my own consulting company at open world Tech, and I'm like, well, I should probably start building my own product and start selling my own product, so that's kind of what I've been doing. 
+
+It's just about thinking about that in my mind. 
+
+But yeah, yeah, That way. 
+
+That makes sense, and I know I didn't sign your NDA. 
+
+So, Because I thought it would be cool to have like a high level conversation first, and also because, like, I'm just recruiting in a bunch of different places, and I don't want you to feel like any any kind of, uh, A contention with that. 
+
+And so, like, I said, this would be cool. 
+
+It's super common, especially when you like people like yourself are working with different Venture and different companies like a lot of venture companies can't really sign ndas because they don't want to accidentally compete with something else they're working on, so no worries at all. 
+
+I'm happy to share my screen, though, just so we can, like, go over stuff. 
+
+Um, yeah, yeah, as long as, uh, yeah, that that's easy enough. 
+
+Okay, so let me just do a screen share And then tell me if you can see this. 
+
+Um, Okay, so this goes here. 
+
+Uh, yeah, there's your like, yeah, so, Uh, uh, Yeah. 
+
+So, I guess, the the things that I'm working on, uh, so let me start at the beginning. 
+
+I think I, oh, I actually, I do have slides. 
+
+Okay, so, yeah, so the the place that I'm starting is basically basically open world. 
+
+This is the this is just a company that I set up a long time ago to do, uh, Consulting, for, you know, a variety of different, like, mostly like, uh, game studios and independent game companies that I wanted to work with, so I sped up this company and then I, and then I ended up. 
+
+I ended up like buying a few domains, uh, touch up my world or touch up my photo touch on my video. 
+
+So, I bought a bunch of these domains, Uh, you know, with the concept that I could build a company around it, and that I could like hire people, or I could send, you know, photo editing off to different firms or even hire, like, have local, uh, Have, um, you know, uh, Partners that I can work with or do the photography myself and this sort of thing. 
+
+And then, of course. 
+
+Now. 
+
+Since then, the whole agentic AI system has taken over, and that's kind of It's sort of now. 
+
+The whole thing is transformed, because now I can take these photos and I can send them to an agent. 
+
+An agent can make the modifications that I would have recommended, or even the modifications of the user was requested. 
+
+And then, so I said, okay, well, that's good. 
+
+I can, uh, so that I actually just built out touch up myphoto.com, Uh, which is here. 
+
+And you know, it's basically just the classic, you know, send a photo in, make a modification. 
+
+Um, I'm setting it up, Uh, hold on. 
+
+Let me just redraw it. 
+
+I feel like I, so let me just send a picture. 
+
+Can you do it? 
+
+Okay, yeah, Um, you know, the usual, like, uh, make the drink green or something. 
+
+And then, uh, you know, Masking, you know these kind of things, and this, you know, basically building, uh, Building this with Claude code, or or Gemini CLI or something like that? 
+
+Totally possible, you know? 
+
+Same thing with video, touch up my video, and then I went and bought a few more domains. 
+
+Because now that I realized that Gemini CLI and Cloud code. 
+
+And, you know, codex can sort of build these apps out. 
+
+It's now you know, taking things from idea to functional website. 
+
+It's something that could be done with an individual person. 
+
+I don't really need the whole team of, you know, workers that were building on different functionality, or even like software developers like, it's amazing how much I can build by myself. 
+
+So, yeah, that's kind of the the. 
+
+The Genesis of it is, you know, building out these websites and then, after working on this website for a while, realizing, yeah, I mean, this is probably something that I could, uh, post online. 
+
+And, Uh, you know, do the usual thing. 
+
+I guess these days where you sell tokens, you sell tokens to us to your users, and as users upload photos, they can use tokens to make photo edits, and those tokens can get sent off to Nano, banana, or some other photo editing app, and then you use an API and the tokens can be spent on the API, and it can come back, and so you know that's all very possible to do. 
+
+Um, and then I started, uh, thinking, like, well, the what's another? 
+
+What is another function that people probably need, and it's these sort of agentic AI systems, and then you know, Um, Uh, open claw and nanoclaw, and all of these, uh, Nemo claw, you know, all these systems come out. 
+
+So, I'm installing open Claw, and I'm thinking, of course. 
+
+Everybody is going to need this, probably even potentially even more than doing the touch-ups for the things they want to do. 
+
+Everyone is going to need an agent. 
+
+So then I started building out an agent and I'm working with gemiini or I'm working with with clock code or or open Claw and building an agent. 
+
+So now I have a website which is, like, pretty functional. 
+
+It has a lot of the features that I would want to have in an agentic system. 
+
+Um, but not as the the but easier to set up. 
+
+You know, the the friction with open claw, the friction, even with claw code. 
+
+The friction is so high, and the return is quite low. 
+
+So, yeah, so I'm building. 
+
+I'm basically I'm starting with project management. 
+
+
+
+5:05 PM
+I mean, I guess I have a slide for this. 
+
+Uh, probably here, so I'm building with. 
+
+I'm basically trying to design a system that's sort of like life management, sort of life, coach sort of system that has a variety of different functions, and it's things like project management helping you deal with, you know, random projects you're working on in your life or your house, or whatever Health and Wellness you know, entertainment, travel. 
+
+You know, these kind of these kind of things are the directions I'm thinking. 
+
+So, currently, I have a my task manager set up so I can set up tasks build, um, build out projects, build out tasks, and then you know, have the Agentic sort of chat model where I can make queries inside of the chat model against any of the data that exists, so I sort of have my own sort of private private data set inside of here. 
+
+And yeah, so I'm basically working on project management and working on nutrition and fitness. 
+
+So, in this area, I can, uh, I can, you know, take pictures of food. 
+
+Get data about macros about what the food is. 
+
+Track the food that I'm eating, track the health, track the steps, track the exercise. 
+
+All of this can be all stored in one place. 
+
+Um, and then you know, get Telemetry and log data. 
+
+Store it, you know, graphs and charts all of this stuff, you know, as like an SRE. 
+
+This is the kind of thing that I want. 
+
+I want data. 
+
+I want to just load this thing up with data about my life, get it to visualize the data in a way that I would expect it to see is like an SRE or some kind of professional, but then you know, the the, uh, the killer is have being able to have this chat agent along the side where I can ask it about the things that are that I'm visualizing and get those useful insights that you know, I would get from a high-end llm model, but in a way that you can't really get from from, uh, you know, open Ai and Cloud code because they don't really have the data organized in a way that you can get the insights you're looking for. 
+
+You see what I'm saying, Yeah? 
+
+So that's kind of the idea that I'm building out. 
+
+Um, it's. 
+
+It's pretty early on, Um, and I, but I and I, I don't want to continue working on it, and I feel like I have a lot of insights about a lot more functions and features that I can add, even on top of the sort of sprawling Vision. 
+
+Honestly, uh, I probably should be focusing on a specific area. 
+
+But yeah, I, I feel like I want to continue working on it. 
+
+I feel like there's a lot of value. 
+
+It could. 
+
+Probably it's sort of, uh, stealth. 
+
+At this point, it's not really open to the public. 
+
+I haven't even attached all these websites to my to my, uh, Uh, my open Tech open World Tech site yet, but eventually I'll just attach it all together. 
+
+Start posting videos and start, uh, you know? 
+
+Getting more information. 
+
+Information out to the public and trying to hook up everything with uh White waiting lists so that people can who are interested in this kind of service can join the waiting list and whitelist and all that sort of stuff. 
+
+Yeah, so I don't know. 
+
+It's a bit sprawling right now, but that's kind of. 
+
+That's where I'm going right now, and I'm I've already set up a pitch deck for it. 
+
+I've already Incorporated the company so that I could get started on it, uh, and just working on the pitch deck and thinking, like if I could get investors, that would be useful, because then I could actually work on the product and not just sort of. 
+
+Have to drop it and go work for somebody else. 
+
+Yeah, that may, that makes sense. 
+
+Um, that makes sense. 
+
+And it's an interesting, um, Vision for what you're for, what you're trying to to, In. 
+
+In my mind, you haven't asked. 
+
+But although in my mind, um, You have like two, you talked about two different things that kind of Get financed and productize a little bit in two different ways, at least in my head, right? 
+
+Um, and so, like, the the stuff around, um, That touch up my exercise, Um, assuming that that's, like, You know, more or less with what you showed me right, like That's almost like A pseudo, um, Self-Fundable thing, right? 
+
+Like, so I've got a higher level. 
+
+The problem with consumer applications is that people are very fleeting. 
+
+That's at the end, yes, and so, like, it's a problem with attention acquisition and then getting them to not just go away, right? 
+
+And so, like, that's the the key thing, why? 
+
+Raising money From b2c investors. 
+
+It's a very It's almost like fashion. 
+
+It's a very clingy kind of a thing. 
+
+Um, and so, um, You're a little bit in the middle on both, just in different ways like the the touch touch of my whatever you don't, you shouldn't need investors for that. 
+
+Yeah, that can launch. 
+
+Yeah, because I grow it with straightforward, you need to have some kind of gate for monetization, uh, and, and then it's a matter of like trying to figure out how you game the whole like digital marketing kind of thing. 
+
+Try to see people in the Philippines who use this stuff which they love to use stuff, no one knows why. 
+
+Yeah, uh, and then gradually get into like more. 
+
+This side of the world, and you can see, like some Mindy, kind of like developers, I think, like levels, IO, and stuff like that. 
+
+He has one of those, but those are like these tools exist. 
+
+It's a matter of, like, how can you gain digital Market acquisition right at the end? 
+
+That's, that's The game. 
+
+The name of the game? 
+
+Yep, do not lose money for that. 
+
+Okay, that's my advice, at least. 
+
+Yeah, for the other one, the other one could be, Uh, money, reasonable thing, but I don't think in its current form. 
+
+What does that mean? 
+
+What do you need to raise money in b2c? 
+
+You need Cool demo that the person on the other side can empathize with. 
+
+Project management is a very useful thing, uh, But it's a thing that people that's not exciting. 
+
+It's like we all know we need it, But I have no, like, emotional reaction to produce management. 
+
+I have the reaction of yes, I know I need it. 
+
+It's kind of yeah, uh, and so, like, your health thing, your like, nutrition, and stuff like that, That one, I know, there's a bunch of those. 
+
+So, like, that would be like, like, not in this format, more in, um, iOS app. 
+
+So, like native mobile thing, yes, uh, But on NATO mobile, there's a bunch of those for that specific use case. 
+
+So, if you wanted to go that route. 
+
+You can start Hindi, and then if you get some traction, you can go raise money. 
+
+That's one route, and that's like a vertical route. 
+
+If you want a more like macro route like you were saying, like the ideal one that teaches the whole system for my stuff Across the face. 
+
+Yeah, then my key thing is, You need to think about a demo That shows that in a way that the first the two things happen, one they don't go at all. 
+
+And two, they don't go. 
+
+Yes, I know that the llms don't have the data model, but they could build the data model and they're moving in a direction that, like, he's trying to have memory and include your data and all that stuff like, then instead of going there, they go. 
+
+Ah, cool Like that, that it's the it's that cool thing that you need to to get to right, right, and and that is, like, I don't know. 
+
+It can be multiple things, and Uh, it's just, um. 
+
+But sorry, this was like a stream of Consciousness just to say the first one is Ross illustrator for gate, some kind of gate plus digital marketing, this one trickier potentially more Venture fundable. 
+
+But like with The use case needs to pop. 
+
+Yeah, I know I enjoy that I can explain it. 
+
+Yeah, absolutely. 
+
+I guess it needs to be like a sort of a demo, a demo in a way that makes it super obvious. 
+
+I mean, it's just super tricky and like doing any kind of sort of SAS related system in this Market is just hard right now. 
+
+Because The market is flipping so quickly that it's very hard to build a product that kids guaranteed to not. 
+
+Have, You know, be flooded in a matter of months, or, you know, so, It's Tricky. 
+
+But to be honest, that's also why, In some of these routes, the self-funded route is better than the DC router. 
+
+Yes, because it's like, if you're like, I want to be my own person, Financial Independence, and have like to build my thing. 
+
+And I don't know. 
+
+Think about having a job. 
+
+I just want to have my own thing. 
+
+Yeah, right now. 
+
+Self-funding is a route that didn't exist before, like before. 
+
+Like, you need people to get people to build this stuff, right? 
+
+Like, now you can build this stuff and you can test it relatively. 
+
+The problem is Personally. 
+
+You need to be okay with, like, okay, I'm gonna take two or three months to test this thing. 
+
+Figure out digital marketing thing. 
+
+Does it work or not, and if it does, then I'm gonna go to the next project, right? 
+
+Yeah, exactly, or or flip it as an app and put it into the app store and then see what kind of sales come through. 
+
+That's probably my next. 
+
+Yeah, that's probably my next thing is trying to build it through as an app and then getting in an app store and getting customers. 
+
+But yeah, yeah, that makes sense. 
+
+That's kind of. 
+
+My plan is basically, you know, once it goes, public is sort of just push it out live. 
+
+I just wanted to. 
+
+I was curious if it made sense to sort of keep it stealth, uh, ahead of time, and see if there was any interest in the market, but, And so, yeah, like, I said, it's called With all these things like, there may be a way for you to raise money right now That that can happen. 
+
+I wouldn't do it right for the reason that you were talking about because, like, if you're like, no, this isn't my life's passion. 
+
+I'm gonna pour everything I have into this. 
+
+I'm gonna bang my head against the wall and I'm gonna have these guys stuff and I don't care. 
+
+And this is my life. 
+
+Whatever Sure figure out a way to make a good demo, go at it. 
+
+You seem to be more like, I like this stuff. 
+
+I see what I can build now. 
+
+This is like I can build all these things that are useful to me. 
+
+I'm sure that's useful to other people. 
+
+Like, there's something here. 
+
+Yeah, that I would go more the self-funded, right? 
+
+Just because, like, once you have investors. 
+
+You have expectations of investors. 
+
+
+
+5:15 PM
+You have them being a pain in the ass. 
+
+And, like, sometimes not worth the money you deal with their restrictions. 
+
+Yeah, absolutely. 
+
+Dealing with the restrictions and everything, yeah, I mean, I guess it's just tricky right now, because I'm seeing a lot of these sort of AI based and AI genetic based apps that are just selling. 
+
+Companies are selling for, like, you know, a million dollars for this five million. 
+
+For that, you know, Calais, I just sold for 50 million dollars, and that's exactly the fuck. 
+
+You know, an all deal, and I, I've already built that function into my app in like a couple hours, so you know, it seems like there's huge opportunities here to for this product to catch on and flip and be valuable, But it's much better. 
+
+Yeah, I thought, I think, was the adventure funded. 
+
+I don't think so. 
+
+I don't know who funded it, but it was purchased by The MyFitnessPal or something. 
+
+I think my friend is owned by Nike or some other sports company. 
+
+Yeah, yeah, these guys, right here. 
+
+That's kind of. 
+
+Yeah, it's fairly simple, and you know, anyway. 
+
+Yeah, but there's so many examples there's like 100 examples of these apps that have just sold for billions 100, and this is why, even like a guy like you like, you can even just like, take your resume, you say, like, you want to go to my combinator, sell them with some kind of story. 
+
+You get money, you you have that You can't? 
+
+I'm just trying to say you can't. 
+
+Yeah, there's a way. 
+
+It's much better like the key thing for all these guys is not the functionality. 
+
+It's getting the consumers to adopt it. 
+
+Yes, all right. 
+
+So, it's the digital marketing thing is a much Better path. 
+
+Yes, and it's the difficult problem to solve, and if you can solve it then. 
+
+Yeah, I suppose you get a whole nother level of interest, too. 
+
+Once you've bypassed that digital 100 problem, yeah, so, like the thing about is like, if instead of focusing on raising money if you focus on, uh, shipping and like shipping as what you already have, but you have a functional, uh, I'm like putting some kind of like paywall thing. 
+
+Yeah, make money and get people to like use the product. 
+
+Yep, like gives you optionality. 
+
+Let me feel like that. 
+
+Yeah, no, it makes sense. 
+
+Like, I'm I'm kind of like talking about a position that you are creating to like, go raise money, like my position makes no sense in this world, right? 
+
+And that's not about that. 
+
+It's about, like, uh, you've already built a bunch of stuff that is, like, pretty cool. 
+
+So, like, how can you then monetize it, right? 
+
+No, I totally agree. 
+
+I appreciate the Candor. 
+
+This is exactly why I set up a few meetings with a couple people that you know to try to get some different perspectives. 
+
+And I think this is a super valuable perspective as sort of piecemail it out out Out to the market. 
+
+It's kind of helped quite a bit. 
+
+Yeah, like I say, I just don't know. 
+
+I mean, that you guys like you and other execs that I've been talking about. 
+
+You have more of a feel of what the market is, like, uh, who's investing at this point? 
+
+How? 
+
+What kind of, what are they looking for? 
+
+So, yeah, this is the super useful feedback I was. 
+
+I was hoping to get so, yeah, and but like, I say, I'm still working on it. 
+
+It's still sort of an interesting project, and I'll continue working on it. 
+
+Absolutely. 
+
+Um, but yeah, the path where, like, we see money, like the two paths for you, where I think easy money makes more sense. 
+
+This one is when like this consumer thing becomes a thing that you really enthralled with from, like an end-to-end thing that you can demo in a way that you think like consumers. 
+
+You shoot people on the street, and like, oh, cool, that's kind of like the consumer test. 
+
+Yeah, you build an Enterprise thing. 
+
+So, like, if you're like, oh, I have an SRE. 
+
+I'm I'm an SRE. 
+
+Here are models, either because, like, I can use models to better troubleshoot, or I can better troubleshoot models because of blah, blah, blah, that I can package further. 
+
+Yeah, than that. 
+
+Yes, that takes longer to build. 
+
+Has all sort of like Enterprise requirements that you know better than me because you've actually bought this product. 
+
+Yes, and so, like, uh, that requires funding this is, you're gonna get funding and expectations in a way that is like. 
+
+You can make a lot of more freedom and petition, make more money without the investors without less headaches, right? 
+
+That's right, So that's, that's an excellent segue, because I do, you know, as part of this whole process, I, I imagine, at some point. 
+
+I'm going to get to the point where building out my back end infrastructure if the product scales. 
+
+And it's not just an app on the App Store, even if it is an app in the App Store. 
+
+The backend infrastructure is going to be large enough that I'm going to need an automated back-end infrastructure management tool, which actually nln can do these days, too. 
+
+You know, I can go to Gemini CLI or Cloud code and say, build me a backend infrastructure. 
+
+Here's what I want. 
+
+I want kubernetes. 
+
+I want grafana. 
+
+I want graphs, I want Prometheus, and I want, you know, Argo, CD, and it's really going to build all of that. 
+
+So, eventually, all of that gets solved. 
+
+But, and there's also, you know, a lot of sort of agentic devops, you know, AI based SRE. 
+
+That market seems amazing, but also like amazingly flooded, but I yeah, and I can definitely like build out Software in that direction and start working on it, but it seems a lot easier to do once you have a product that's at scale, but you know, but but I see, but but so what you're telling me is. 
+
+If I was thinking for more like Venture backed, or I wanted to start a company that had some funding involved. 
+
+The b2c Market is probably not the best option, and the B2B Market is kind of required. 
+
+It's, it's more a matter of, like, what proof points do you need for either Right? 
+
+So in the b2c Market because it's so easy to build. 
+
+The thing that people are looking for the question is always. 
+
+Why isn't this in the market? 
+
+Why aren't the people using or like, show me what it is at least get me excited? 
+
+Yeah, right. 
+
+Like, all right. 
+
+So, so the proof point there is, like, get me excited as a consumer because anyone can be a consumer. 
+
+Yeah, okay, uh, on the B2B side, because people know that things in B2B take longer, right? 
+
+Like, it's not like people go on the App Store download use. 
+
+You can have developers adopting open source, but other than that, you're gonna have to sell something. 
+
+Yeah, and this is something you're gonna need time, right? 
+
+There's a certain amount of time that's gonna need to have a product to convince someone to actually buy it to then have it. 
+
+So, like the proof point cannot be people using it. 
+
+Yeah, you have some other proof points, and there the proof point that you have is like, I have been working in this kind of like domain, my whole life here, or the pain points that I've seen. 
+
+And here's the demo that is like a shorter video thing. 
+
+This is not like a full end-to-end app. 
+
+It says like this is the I am. 
+
+This is the problem that I see. 
+
+This is what I want to build because I have experience in the market, so you raise more on your background. 
+
+That's why it's within the SRE world and less on traction because the argument is it's going to take time. 
+
+Yeah, absolutely. 
+
+Yeah, no, that that absolutely makes a lot of sense. 
+
+And honestly, I could absolutely build that out as well, you know. 
+
+Like I say, I have the background. 
+
+I have the experience I can build out the back end infrastructure agentically, but then that's always the piece that's been missing. 
+
+It's like, you know, you have a company with, you know, 10 engineers and everybody's inside of a slack Channel. 
+
+The one thing you don't have is that chat bot? 
+
+That's actually useful enough to be able to go in there, and uh, you know, help troubleshoot problems resolve incidents. 
+
+Roll back deployments. 
+
+I mean, there is chat Bots for it, but they're not, as they're never been as good as they need to be. 
+
+And nowadays, I mean, in this day and age, you could probably build out this More, you know, a chain of thought driven in back-end chat app, that could help a whole engineering team resolve issues more quickly and all you know. 
+
+Build out graphs, do all of that, and that's probably something I could build out as well. 
+
+If that was, uh, yeah, that would that make sense? 
+
+Actually, yeah, and they're kind of like two levels to this. 
+
+Like, one level is the fundraising level. 
+
+The fundraising level is this, like, you have your background figure out the problem, set the problem how you frame it, the solution, have some kind of meat behind the bond isn't, like, some kind of prototype about it, and you're going to raise primarily on yourself. 
+
+That's what you're getting. 
+
+Then there's a productization of it there in competition. 
+
+All that stuff, there are aisre things in the market. 
+
+They all have the same problem, which is the robustness of the chatbot. 
+
+It is true that you go to a chatbot if you have, like your local Dev or your small deployment or whatever, uh, and you ask your stuff, and it does something That is very different from what you do in your job. 
+
+When you're managing these large deployments in production when shit hits the fan where you cannot cannot really miss and like, roll back to that thing and downtime. 
+
+You don't have any of that stuff, right? 
+
+So when you, when you actually productize it, that is the thing that you're gonna have to like, as in like the journey that you're signing up for the journey that you're signing up for, is like you're getting money. 
+
+So, then go figure out this problem that today is not really solved, and that has all these Kings. 
+
+So that's at the end of the day. 
+
+The trade-off versus like the touch, my photo. 
+
+I'm not signing up for anything. 
+
+I'm putting it out there. 
+
+I'm putting a payroll. 
+
+I'm getting paying for some digital marketing. 
+
+See if people pay it and using as conversion, right? 
+
+Yeah, it's just two different worlds. 
+
+Yeah, it makes sense. 
+
+No, it makes sense. 
+
+Yeah, and I suppose I probably should just build an entirely different pitch deck for the the whole agentic background. 
+
+And, and then you're right, I could. 
+
+
+
+5:24 PM
+I could absolutely build a video that shows, uh, you know, the the oh, I'm agent with, that's, that's. 
+
+Devops Trained set could just build all the infrastructure, then show all the visualization, then deploy an application, then monitor the application. 
+
+Then, you know, break the application in sort of a chaos engine sort of way. 
+
+Go back through all the logs you know. 
+
+Spend all the logs back into the chat to the chat in environment, and like troubleshoot its own environment and basically like fully. 
+
+I can imagine that I could probably build it an infrastructure where Cloud code could build out a whole set of infrastructure, observe it, monitor it, break it, fix it like that would be an amazing demo. 
+
+And it could probably run the whole demo in, like 30 minutes or five minutes, and it would be like, yeah, this is a sort of automated robot that can build out Africa, uh, you know, infrastructure for SAT, any kind of SAS product. 
+
+How crazy would that be? 
+
+And it's like hands off. 
+
+That is definitely like, um, your story is better in that world because you say, I have this background. 
+
+You can, actually, the demo, like, right? 
+
+Basically, what you did with an llm in the middle. 
+
+So, like the problem, there is not. 
+
+The story is that making it actually work in production in actual workloads in the world because the demo works, but then in reality, it's much harder than that. 
+
+So, like there, the challenge is less about raising money. 
+
+It's more about once you have the money. 
+
+Yeah, now you gotta like, go get revenue and the product actually needs to work robustly and stuff like that. 
+
+Yeah, and that's, like, that's a journey. 
+
+You're signing up for, absolutely. 
+
+Yeah, and then and then, you're taking this model that you've probably built in a very Sandboxy sort of environment in a specific way, and then you're dropping into the real world. 
+
+And now the model has to do the opposite. 
+
+It has to learn, ingest, understand, and still be functional and useful, and maybe even potentially agentic with permission. 
+
+And yeah, yeah, yeah, Like all these things that you can doing at that moment, like it can't really do that in real world. 
+
+Yeah, can it do it? 
+
+Can it do it in real life? 
+
+Can it do it in a real company? 
+
+Yeah, absolutely. 
+
+But you're right, that was a lot that's a longer, a longer turnaround. 
+
+But with the demo set up, I mean, and some potentially some funding. 
+
+I mean, a product like that is obviously going to sell in the market because everybody knows that these systems are able to do this, but are they able to actually do it in the real world for a real customer? 
+
+Use cases yep, yep, yes, yeah, that's the. 
+
+That's the challenge. 
+
+But, but you know, that's how I see it. 
+
+Yeah, no, that's super helpful. 
+
+No, you're right, and I'm loving having these conversations with different people that I'm talking them about, you know, operations, or funding. 
+
+And all of these things. 
+
+This is all throwing amazing ideas at me, and now I have to sort of figure out exactly how I'm going to focus, what am I going to do next week in the next few days, and how am I going to focus on it. 
+
+Because, like I say, I mean, if I'm self-funding, I only have a very limited time window to actually get get. 
+
+That's sellable, it's available. 
+
+So, yeah, yeah, that's great. 
+
+Um, yeah, that's awesome. 
+
+So, think about that, uh, Depending on what you pick. 
+
+If we can never be helpful in the future, you let me know. 
+
+And, Uh, and you know, yeah, absolutely. 
+
+Yeah, yeah, thanks for the insights. 
+
+Um, I'm looking to see if I had more questions. 
+
+But, no, I mean, yeah, that's great. 
+
+That's super good insights. 
+
+I'm happy to meet. 
+
+And yeah, I can. 
+
+I'll ping you back if I have more questions, and I want to do like, you know, take a look at something or a new pitch deck or something I wouldn't mind throwing it out your way. 
+
+It'd be great. 
+
+100% yeah, and it is helpful and good luck figuring out. 
+
+Like, have the the challenge of the riches. 
+
+You have a lot of options, exactly? 
+
+Yes, exact challenge of the riches. 
+
+It's true, cool. 
+
+Okay, yeah, thanks very much, Andre. 
+
+It's really good to meet you. 
+
+Yeah, thank you. 
+

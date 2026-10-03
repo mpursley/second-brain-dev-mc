@@ -1,0 +1,36 @@
+https://www.connectrn.com
+
+Backend:
+- MongoDB
+- API Gateway
+- Serverless/Lambda, Websockets
+- Golang, Typescript
+
+Web FrontEnd: 
+- React
+
+Mobile FrontEnd:
+- React Native
+
+
+Prototype:
+
+- I'd like to jump right in with setting up a simple website that's publicly available and could scale to thousands of users. 
+
+DONE: let's start with a simple Tic-Tac-Toe game where the user plays the computer.
+
+
+DONE: 3 let's add checkers and chess with Stockfish.
+
+DONE: Let's get the code and check this into GitHub in a private repo that requires pull requests for updates and code owners.
+
+
+- let's at a contact screen so the user can provide feedback
+
+ 
+- let's add Google authentication, so only users that have Google logins can log in and play
+- let's add a white list so that we can control which Gmail addresses are allowed to log in and play
+
+
+- let's add local Dev test and production releases each with their own white list so that we can add game testers to the Dev and test releases
+

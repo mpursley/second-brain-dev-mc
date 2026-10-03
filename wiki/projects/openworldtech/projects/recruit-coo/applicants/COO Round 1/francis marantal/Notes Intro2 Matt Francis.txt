@@ -1,0 +1,1198 @@
+1:06 PM
+Which is most commercially viable, which allows us to broaden right to go deep, broad, And how to essentially attack that space through a variety of different types of distribution channels. 
+
+Yes, yeah, that's exactly what I was going to get at in a later question is sort of like the go to market strategy. 
+
+Um, Yeah, that's exactly what I'm looking for. 
+
+I'm looking for, like, a solid sort of go to market strategy, something that I can obviously leverage myself, uh, if I can build funding, then you know I can get more engineering on the team and do the go to market strategy, but yeah, that's kind of the. 
+
+That's the exact direction that I'm kind of figuring out, and I'm going to need, you know? 
+
+I, uh, you know, get a bunch of good ideas for the best way to go about it. 
+
+I mean, it feels like if it's if it's a, b, to c if it's if it's an app that I can deploy the app store or a website that I can put behind a paywall. 
+
+I can pretty much manage all of that myself. 
+
+I don't, probably. 
+
+I don't need any funding for that, but if I can, you know, while I'm working on that strategy while I'm well and getting customers and getting interest and getting even Revenue coming into the company if I can also be putting together a pitch deck and potentially getting investors to sort of see the vision as it's laid out, but also see the growth that's already happening and sort of want to take advantage of it as an opportunity. 
+
+That's probably you know worth doing both strategies because I can move like, like Much faster, if I had some funding for it. 
+
+Yeah, pivoting is is one of the underlying secret sauces here in the valley, right? 
+
+A lot of people don't realize like a lot of companies started out doing something completely different than what they ended up, you know, yeah, doing. 
+
+I mean, I mean, you can even look at Like, I don't, know, like, snap, or slack, right? 
+
+I don't think like doing adult entertainment at one point, and they switched over probably. 
+
+Yeah, Sandberg, which is my former company, actually started out as a social media platform, so stenberg was actually founded in Seoul, Korea. 
+
+I think, like, 10 years ago now. 
+
+Um, and when they first started, That was our first U.S employee or one of the first U.S employees, But they were actually social media app, or like the founders wives because they were all pregnant and stuff like that, and they wanted plates and stuff. 
+
+And then they realized that when they were on the social media app, they ended up spending more time on the chat and then the actual app itself, and they made a pivot. 
+
+So, yeah, I mean, I think pivot is something. 
+
+It's a fine line, right? 
+
+I mean, you have to go with your Norse star, but in early stage companies that Northstar is highly probable, it's going to change just because things kind of more of, um, I've been working with this early stage startup that is initially trying to do marketplaces and marketplaces is a big space, right? 
+
+Um, and there's a lot of players in that space and, and in my mind, I can see us pivoting more to a project management tool, sort of similar to what, yeah, your company is trying to do, right going from what, but we'll see. 
+
+I mean, I think it's worth exploring that Journey because you don't want to keep on. 
+
+Just like coffee, you know, it's not Baskin-Robbins 31 flavors. 
+
+It's not Labor every month because you need to give some time to see if it sticks or not, but certainly Keeping your eyes open and looking and being aware of pivots. 
+
+Would it make sense to do so? 
+
+I mean, that's just smart business, right? 
+
+Yeah, exactly, and I think it's, you know, I kind of. 
+
+I want to keep this sort of data driven, so I have data driven results, and then, uh, yeah, so the and this is something I guess we looked at last time. 
+
+Okay, so here's my my assistant PhD site and the main the main parts that I was working on was, Uh, or has been project management, which is something you just mentioned, which is something I'm really going to go forward with. 
+
+Because I'm not using this module for my own project yet, but I want to stop using all these other, you know, spreadsheets and slide decks and all these and start working on it. 
+
+But the so, so the nutrition and fitness model Um, oh, I, I probably just need to reload it. 
+
+Um, yeah, this is the model. 
+
+When I was talking with, you know, I'm working with this with Gemini and some other software agents. 
+
+And this is the one that they recommended is sort of Manageable as something I can deploy quickly. 
+
+So I'm Pro. 
+
+So, yeah, so I basically went from this module, which was pretty functional. 
+
+The only problem with it is because it's not, it's on a website it's not operating on the phone. 
+
+You kind of need the phone in order to track activity, you know. 
+
+Basically, a fitness app is going to be a phone and a watch sort of app. 
+
+Uh, so then, I, you know, I basically just left this agent. 
+
+I, I basically said, okay, take the the ideas that we have for the health of the fitness and and just bust it out into a an independent Android app. 
+
+So now I, and then it started working. 
+
+So I just bought assistantfitness.com, and now I have this functional Android app, Um, the app. 
+
+It's, it's totally scalable, you know, so I can run on the website. 
+
+It has all of the functions that I wanted food tracking, activity tracking Vitamins and supplements, and this is the main thing that you don't get in. 
+
+A normal fitness app is, it actually has a chat app, and you can Talk to an agent and the, you know, the a, the, the ala, the llm agent, in this case, is kind of like a personal fitness person, and it has access to all the data that you've already ingested so I can say, you know, tell me, tell me about, you know. 
+
+Compare the food that I ate last week. 
+
+All these things, and, and it's able to look back through your data, it looks through your settings. 
+
+It can Give you warnings about things that don't look right. 
+
+It can give you suggestions about things that do. 
+
+Yeah, it's like, I say, this is kind of exactly like the This is the best parts of the Samsung or Google fit apps that I've been using, and it's put into an app. 
+
+Yeah, yeah. 
+
+And then, I, you know. 
+
+And then I. 
+
+And then I, I Pushed everything into Android studio and I can deploy. 
+
+I can. 
+
+
+
+1:12 PM
+A dual prong AI ecosystem to design the complexity of Modern Life and Enterprise infrastructure, right? 
+
+Yeah, obviously, that very Broad and most mission statements or most introductory sentences are very Broad in nature. 
+
+Um, I would suggest. 
+
+So, Um, and this is sort of my style and, and I think this is a good proxy on potentially how we could work together. 
+
+Yeah, is, You know, if you want to be the obviously, you're the idea guy where I could help is. 
+
+Try to Reign that in, and be more precise, right? 
+
+And it's not just because that's my style, because actually, I, I like going off tangents, right? 
+
+I don't mind doing that, but I do know when you're looking at it from a commercialization standpoint. 
+
+If you have something too broad, because everything at the 30,050,000 foot level kind of sounds the same or better or faster cheaper than everybody else, right? 
+
+It's kind of the same storyline, right, right? 
+
+But we do need to be more precise in what we're trying to get. 
+
+So, for example, if if the if the job if the if opening eyes really open Tech is really focused on openstream, open world Tech is really focused on the assistant, PhD, right piece. 
+
+We need to make sure We're using that as the primary Artemis, right? 
+
+This is the this is what we're trying to circle around, and we're using The fitness app as an example of what it could create, right, right? 
+
+And I think that's really important. 
+
+Because if we start going down the fitness app and don't worry, don't, you'll get me wrong. 
+
+Fitness apps are cool. 
+
+I, I'm a member of Equinox. 
+
+I've been a member since I don't know decades now. 
+
+Yeah, it's really cool. 
+
+They have, like, really cool Fitness apps, and I, I love working out and all that stuff. 
+
+Yeah, but it's it's not What we're trying to do. 
+
+Yeah, right, it's more of a proof of concept. 
+
+Yeah, I totally agree. 
+
+And to be able to pitch the basically. 
+
+The assisted PhD system was able to build this Android app and then deploy it to the to the App Store. 
+
+This is an example of where this egenetic system is taking autonomy, building an app, and sending it to the store to generate Revenue independently. 
+
+That's, and that's. 
+
+You're absolutely right. 
+
+And, and yeah, and then basically, I'm building the app as sort of that proof of concept. 
+
+I totally agree, and that seems like a really compelling argument, like a really compelling, uh situation to be like, you know, not only is this thing going to assist you in your life, but you want to build apps and deploy them. 
+
+You want to generate your own Revenue streams. 
+
+This. 
+
+This platform can do that. 
+
+Yeah, I mean, I think, at the end of the day, you gotta pick a path, right? 
+
+I mean, it's not to say that you have to decide between front end and back end, because obviously from a commercialization standpoint, you want to be able to own the entire deck? 
+
+Yeah, but I'm seeing as an early stage startup you want to pick one and do that really well. 
+
+Yeah, before you go to and try to do other things too, for sure, just because from, like, a, you know, from a financial standpoint from, uh, from a resourcing standpoint, like, people, Etc, it's really difficult, right? 
+
+You're trying to blow the ocean, and that's never gonna work. 
+
+There's just too many apps out there, And it's just, you're just gonna add to the noise versus differentiating differentiating yourself from the noise, right? 
+
+That means, no, it makes sense. 
+
+Yeah, that's. 
+
+And that's the thing. 
+
+I'm trying to figure out what's the pivot. 
+
+It just feels like having, um, apps that have revenue is a great use case having apps that were egenically built. 
+
+That sounds like a great use case, but I mean the business. 
+
+The business model is also an amazing use case, and I sort of have a plan set up for it. 
+
+So, this is my slide deck where I'm starting to build out the plan for the assist. 
+
+The, uh, I haven't really built anything out for this yet, but for the genius, I I've sort of marketed it. 
+
+Okay, so I, so I have a landing pages for the genius Suite, but I do, and I'm just sort of building it out, like a concept, but my goal is basically to operate it in basically the same way as a citon, PhD, although it's it operates sort of. 
+
+Just as you know, back-end Focus. 
+
+The idea is that, um, I can already build my assistant PhD or my agentic agent is already able to build out all the back-end infrastructure, so kubernetes, you know, monitoring and alerting. 
+
+So, the idea is to build out an agent that'll sort of build its own back-end infrastructure build its own observability on top of it and then add and then add like a chaos, uh, model, so that it can start, um, you know, breaking things and making problems with the infrastructure that had built. 
+
+And then, once it's found when it's found issues, then start deploying, uh, you know, alerts and dashboards and starting incidents and then resolving incidents. 
+
+It feels like all of that end to end is all very manageable, and it's something that can be managed sort of by an AI agent as itself. 
+
+Um, Yeah, and I feel like I can basically start working on that. 
+
+But yeah, that's going to take a little bit more time than um, building the front end and building, you know, apps on the App Store. 
+
+It seems like, but yeah, something worth working on. 
+
+Yeah, yeah, I mean, at the end of the day, I think you have to figure out what it is. 
+
+I mean to oversupply what? 
+
+What's your your near-term outcome that you want to have? 
+
+Yeah, right. 
+
+Are you looking to generate Revenue and if you're looking to generate Revenue? 
+
+Yeah, I mean, the easiest way to use this Pathway is to create an applicant on the app store, right? 
+
+I mean, you're gonna, you know, for lack, for better, for worse. 
+
+You're going to generate at least some amount of Revenue may not be allowed, right? 
+
+Yeah, Revenue, right? 
+
+Cuz people like to try different things, and they'll do it for like a penny or two pennies, a dollar or whatever. 
+
+Yeah, exactly dollars. 
+
+They're not going to care, right? 
+
+But the question is, what? 
+
+What's the thing that's most interesting to you, right, and, and I think again, going back to if we decide to join courses and we decide to work together. 
+
+I can help with that piece because I've been working with a lot of early stage companies and and what you're seeing is very similar. 
+
+There's a lot of really good ideas out there, but you also have to kind of pick and choose or at least prioritize the ideas, right, sure. 
+
+But like, for example, that Marketplace company that, you know, it's like project management could really be interesting. 
+
+Bi business intelligent tools could be interesting, but let's see the market. 
+
+Let's see how much Runway we have with this. 
+
+See, let's see if you get some blending, right? 
+
+Yeah, let's see what our what our early metrics looks like, right? 
+
+And before, we paid. 
+
+Yeah, it's worth a try, right? 
+
+And so, yeah, So I get what you're trying to do. 
+
+I mean, I think, at a very high level, Um, I understand, You know, what open world Tech is is trying to do, and, and, yeah, your the issues that you're trying to solve. 
+
+Yeah, exactly. 
+
+And I think it makes sense. 
+
+Also to let the sort of interested parties, the investors, and those who are interested in, you know, joining, you know, sort of partners of the system to be able to decide A somewhat. 
+
+You know, we basically have to drive to the market if the if they're more interested in a B2B system, and it's more of like an energetic B2B system. 
+
+There's there's plenty of, uh, AI driven SRE systems out there that we can use as examples and drive a very similar setup. 
+
+Or you know if they want to see revenue and paying customers. 
+
+That's also an option, too, you know. 
+
+It just depends on if there's. 
+
+If we're driving towards getting investment and getting partners and getting, you know, uh, people that are interested in investing, We can sort of build, Uh, build pitch decks that describe the scenarios and situations that they're looking for. 
+
+You see what I'm saying? 
+
+Yeah, yeah, walk me through the stick start from the beginning, So that's how I get some ideas of get a sense of what your, what your flow is? 
+
+Yeah, okay. 
+
+So, so, like, like I mentioned last time, I mean, I've basically started out with this, um, Sort of customer facing ideas these touch-up applications. 
+
+Just because I already have already bought these domains, so I started working on touch up my photo and touch up my video, which I think I should already be running. 
+
+Yeah, no, no, I mean, the the deck that you just showed. 
+
+Oh, uh, Uh, okay, so, so that this is the this is the deck I'm working on for the genius Suite. 
+
+It's all pretty draft right now, uh, but the idea is basically describe the B to B model, Got it, and come out, uh, I haven't really gone through it too much yet, but basically trying to describe how the b2c and the B2B model. 
+
+But the idea is basically laid out best on this, Uh, on this slide. 
+
+Okay, so genius weed is sort of an energetic layer. 
+
+And then, Uh, you know, the agentic layer is working with backend infrastructure, and this is something that I'm, you know, obviously familiar with, because I've been building back-end infrastructure for different SAS companies and a lot of different environments. 
+
+So, I'm kind of familiar with exactly what is set up? 
+
+What sort of Industry standard how companies normally work with their back end and then also work with monitoring and observability. 
+
+So, all of this is sort of a quick layout of what that back sort of industry standard. 
+
+Back-end infrastructure looks like, And then the idea is basically to just train an agentic agent or use an existing llm agent. 
+
+This is probably Clock code or Gemini CLI. 
+
+They basically can already build and manage and maintain this infrastructure on basically automatically. 
+
+Um, the difference is that the the layer on top they need is a little bit more observability and a little bit more permission control so that they can Suggest Corrections, um, and then require Permission to make changes. 
+
+But beyond that, I mean, generally, their suggestions are pretty much right on. 
+
+
+
+1:23 PM
+So, it so the the egentic layer? 
+
+This headless agentic layer is basically lives inside of the cloud of a structure, because I mean, let's face it, everybody's building on AWS or gcp or Azure. 
+
+So, it's. 
+
+It's basically an agent that lives inside of that account and is building Infrastructure inside of the account, letting the, you know, building observability building best practices within the account, and then you know, helping with incidents and Incident Management. 
+
+And all of this can be run inside of a loop within an AWS account, and I've done some reading about a couple different options, and it seems like that's a pretty standard way to do it. 
+
+You're basically deploying an agent inside of the customer's account that lets them build infrastructure, but also monitor Incident Management all of that stuff. 
+
+So, yeah, so, like, I said, this is kind of a plan so far, but this is probably Of the main setup. 
+
+Okay, okay, yeah. 
+
+So, it just goes back to the original point that I was trying to make. 
+
+So, these are two different conversations, right. 
+
+When you're looking at the fitness app, right? 
+
+It's a different pitch, right? 
+
+Yeah, when you're looking at infrastructure app, that's a different pitch, right? 
+
+So, at some point, if we were to work together, we do need to say to say, what are we gonna bet on, right, at least initially. 
+
+Yeah, right. 
+
+Which one are we going to see? 
+
+It's going to be. 
+
+It's gonna give us a little bit more Runway because we can't kind of toggle back and forth because it's just too difficult, right? 
+
+Because we started going and also too. 
+
+When you're looking at Venture capitals in early stage investors, they kind of have their own little swim lanes, right, certain ones will focus on B2B. 
+
+Certain ones will focus on b2c, and so on and so forth, so we'll do small meeting business, and actually, it helps, right? 
+
+Because it allows you to kind of customize your pitch deck and what your ass is, depending on what they're looking to do exactly. 
+
+And that's. 
+
+That's the point I was trying to make was Be able to customize the pitch deck, be able to customize the infrastructure plans and layouts in the way that makes it most interesting to a certain investors or certain people that want to partner with it. 
+
+Yeah, and I feel like I could probably, you know, I have the I have the tooling to basically, you know, modularly make make changes on the pitch deck, even make changes in the roadmap, depending on where the investment or where the interest is coming from. 
+
+Um, yeah, and just drive toward that direction, and people also don't realize right. 
+
+It doesn't mean that you can't do that at certain points, right? 
+
+I mean, if you look back at, like, say, for example, Amazon, right, Amazon started out as you're trying to go after Barnes Noble. 
+
+They're trying to sell books. 
+
+Yeah, right. 
+
+That was actually the proof case to see the infrastructure piece then, which. 
+
+And then infrastructure piece became AWS, and now you have Amazon, right. 
+
+But people don't realize when it first started. 
+
+It was about selling books, right? 
+
+Yeah, space there that they thought that they could disrupt right, And I think that that's important to realize, right. 
+
+It's understanding how you're going to prioritize things. 
+
+It's great to have a lot of ideas, right? 
+
+But if you just pitch it, just a bunch of ideas, quite honestly, at least in Silicon Valley. 
+
+Yeah, where are you located? 
+
+Oh, I'm in Florida right now. 
+
+I'm in Florida, yeah, yeah, so I can't speak to four. 
+
+I mean, we were just there in Orlando, uh, for Disney World, uh, last year, right? 
+
+But I can't speak to the to the startup ecosystem, but here in the valley, everybody has a bunch of ideas, you know. 
+
+It's a great way to turn off investors. 
+
+Tell them about a million ideas because they're just gonna say it. 
+
+Yeah, of course. 
+
+It's great. 
+
+It's probably better to look at the investor first. 
+
+Figure out what they've invested in the past and build something that's more custom to them. 
+
+If you have enough time to customize per and per investor, if it even makes sense, yeah, I would suggest even even bathing. 
+
+What is it that you do well, right? 
+
+Yeah, because a lot of people will just Chase investment dollars, and that's actually not how it works, right, right? 
+
+You should have Chasing you. 
+
+What is it that you think that you can do very well? 
+
+Yep, the other way around, because honestly, there's just a gazillion types of investors out there investing a lot of different things and what you're going to do is, if you're just like, okay, this investor did this, and you're going to chase that there's going to be a pivot or their fun is going to be saturated. 
+
+There's going to be duplicate companies, and it's never. 
+
+You're always going to be behind, right? 
+
+It's about true trying to figure out what your strengths are for sure, Right? 
+
+And if it's B2B great, and if it's B to C grade. 
+
+Honestly, you can make money on both errors. 
+
+The money will be there as long as you're good at what it is that you do, yeah, right? 
+
+Yeah, we have an 11 year old daughter if I just dropped the options or spring break. 
+
+I just dropped her off at tennis, right, and the one thing I always tell her is, you got to play your game, right, that you, she, her primary support, is soccer. 
+
+She's pretty good at it, but I was telling her, you know, Your style of play needs to be unique unto yourself. 
+
+I mean, not to say that you can't take like different techniques or moves from other people right or other players and have role models and stuff like that, because that's obviously equally important, but you got to play your game, because if if you're playing somebody else's game. 
+
+It's just never gonna work, right? 
+
+You're never going to be the best at something playing somebody else's game. 
+
+The only way you can be good at something is playing your own game. 
+
+Yeah, for sure. 
+
+Yeah, but I agree, I totally agree. 
+
+I think it makes sense in this case to actually provide we need, like, we need to provide some kind of proof or some kind of evidence that things are working some kind of prototypes and proof of Concepts I think would be really helpful too. 
+
+Otherwise, you just have a slide deck, so that's kind of the ideas. 
+
+Like, what can we actually build? 
+
+What do we want to build that can be a long-term solution. 
+
+But what can we actually build today? 
+
+That's a different situation, sometimes, right? 
+
+Yeah, I mean, you're talking about completely different economies. 
+
+The scale, you know, this is day zero, right? 
+
+I mean, you're talking about two people who are talking. 
+
+You're talking about Resources really zero Capital. 
+
+I mean, obviously, there's going to be some investments involved in terms of like AWS costs and token costs, etc, etc, but it's going to be if the company becomes successful. 
+
+It's completely different scale, right? 
+
+It's, what can we do Really realistically today, right? 
+
+Um, Okay, cool, I. 
+
+I got a sense of your your product, so I get that in terms of role specifics. 
+
+So, what are you looking for? 
+
+Yes, it's. 
+
+It's obviously this is things that are probably going to change quite a bit, too. 
+
+But in this sort of pre-pre-investing environment, I guess my, my main thing is trying to get to a place where I can either generate Revenue in in some way, you know, by, you know? 
+
+Like, I say, apps on the App Store generating Revenue if it's a small amount of Revenue, something that can actually be reinvested back into it. 
+
+But if I can get, um, you know, pitch decks, but in front of investors or or actual investors who want to invest a larger sum that I can build out of, like a larger engineering team and actually start moving at a faster Pace. 
+
+That's probably you know, worth going for, right, you know, right from the beginning, as long as I can build this. 
+
+This the pitch decks I can build the concepts that ideas, and I can actually pitch it. 
+
+Like, it's a of, you know, a valuable investment. 
+
+You see what I'm saying, yeah, yeah. 
+
+So what do you, but what are you looking for for me? 
+
+Like, like, if we're join forces, what in your, uh, ideal deal? 
+
+Good idea. 
+
+So, then I guess at that point and basically what I all I would feel like I would need would be someone to sort of. 
+
+Review the pitch decks and then, um, you know, helps start help setting up Pitch. 
+
+Start out setting up investors that can actually like receive the pitch deck and review it and figure out if there's a match with, uh, what we've built already against the things that they're already investing in, you know, and just basically working with different investment options to see if anybody's interested. 
+
+That's the idea. 
+
+Okay, okay, that's fair. 
+
+I mean, that's that's. 
+
+That's a standard rule for any early stage company, right? 
+
+Right? 
+
+Funding level, yeah, management. 
+
+Yep, right? 
+
+And then, um. 
+
+So, like a CEO type of role, right? 
+
+Yeah, I mean, initially, it's obviously going to be focused on funding and generating funding and generating investment, uh, opportunities. 
+
+I guess you'd say, uh. 
+
+But, but then, as things scale out. 
+
+If once investment comes in and the CEO's role is going to change quite a bit to be sort of like more management vendors. 
+
+Legal employees hiring, you know? 
+
+All these sort of things definitely in line with a lot of the other companies that I've worked with, right? 
+
+So, I played, uh, I'm not sure if you remember that essential follow-up email as well? 
+
+By the way, thank you for your follow-up email. 
+
+Yeah, uh, so I played a role of Co. 
+
+I mean, focus on business formation, like incorporation, but obviously you've done that have also helped within my go to market quit. 
+
+Being typical, advising fundraising strategy, General strategy. 
+
+That's something I can do. 
+
+And then you're looking at potentially adding a third co-founder as well more of a possible co-founder. 
+
+Yeah, it's possible, I don't know. 
+
+I mean, I I generally Envision these kind of Corporations as a three three parties, but it doesn't necessarily need to be. 
+
+I mean, I guess, in this day and age, honestly, one one sort of CEO at this level with all this, uh, you know, AI managed agents running up. 
+
+It's probably not even necessary to have more than one. 
+
+I could probably get away with two to be honest. 
+
+
+
+1:32 PM
+It just depends on the the funding level and what's? 
+
+Needs how, how's how thin you know? 
+
+The the existing people can be spread. 
+
+You know, you just, you know, it just depends. 
+
+It just depends, but for now, I mean, it's. 
+
+It's basically funding driven. 
+
+I obviously can't hire somebody as a full-time until the funding is there? 
+
+So, the first step is trying to get the funding raised. 
+
+I guess I suppose would say, Right. 
+
+I mean, I would definitely advise trying to get somebody who's more and more technical just because I think that always helps. 
+
+Yeah, um, Equity only driven. 
+
+They would come in, he or she would come in as a co-founder born on the technical side, so I would be on the more business side. 
+
+Yeah, this other person would be more on the technical side, you would be kind of in the middle business / technical, right? 
+
+I mean, just kind of those planes, and those overlaps actually help, because I think when you have different viewpoints, as long as everybody's, you know, rowing in the same direction and has the same ignore star, then it works. 
+
+If people don't then, yeah, it's going to be a question. 
+
+Okay, everybody's running the same direction. 
+
+Everybody understands what the mission is, what the North Star is, then it definitely works, and also from a practical perspective. 
+
+This is going to cost money and so you can. 
+
+You can spread out The contributions amongst three versus two versus one right. 
+
+Yeah, um, okay. 
+
+And, and that helps because you know, there's there's there's administrative costs, right? 
+
+There's engineering costs, not a lot, because it's not a real quote-unquote company yet, but there's still going to be costs associated with it. 
+
+Things like your Gmail account, right? 
+
+There's Google workspace. 
+
+There's a cost associated with something like that taxes, for example. 
+
+Yeah, I'm working with a couple companies who have, you know, been further down the road, and you got a file, and I don't know how it works in Florida. 
+
+But in California, you have to. 
+
+You also have to pay a certain amount for the California franchise tax, etc, etc, right, right? 
+
+So the equal distribute that over three people it becomes more palatable than just doing it because you know everything adds up, right, especially Creasy, you know, pre-funding? 
+
+Okay, cool, um, um? 
+
+So if this is equity only right, what I can do is, I can work part-time 10 to 15 hours per week on deliverables. 
+
+I'm happy to join full time once we get, you know, legitimate funding. 
+
+I think with the seed rounds, probably not. 
+
+Most people, can't, you know, usually don't join with even if they get seed funded, but series a definitely right? 
+
+People full time, right? 
+
+But, you know, precede sea grounds usually, yeah, right? 
+
+Yeah, that's what I was expecting, too. 
+
+Like a couple hours of a week, maybe even a couple hours a month depending on the kind of, Uh, you know if there. 
+
+If you already have investors that are potentially be interested or already have, um, options that we can sort of move towards then the the time frame, I mean, like I say, I've already got all the incorporation and sort of business side set up. 
+
+The time frame is mostly pitch deck review and then actually trying to find, uh, you know, doing, searching, and finding investors, or or Venture, or whatever's we can find to, uh, to start getting the funding driven. 
+
+Yeah, yeah. 
+
+So, yeah. 
+
+So 10 to 15 hours per week. 
+
+Um, You know, I work more. 
+
+I've worked less, really depends. 
+
+You know, depends on how much time is, you know, sometimes the calls. 
+
+So usually I have like weekly college or bi-weekly calls, depending on how far along the projects are. 
+
+Yeah, some of those calls are strictly like fundraising Focus. 
+
+Some of those calls are strictly technical development focused. 
+
+I mean, it really depends. 
+
+But yeah, but yeah, I mean, I'm happy to join full time once we get sufficient amount of funding, but it sounds like 10 to 15 hours per week is, is okay with you. 
+
+Yeah, for sure. 
+
+That's that. 
+
+That seems like, you know, that should be totally sufficient. 
+
+Um, like, I say, until we get the pitch decks up and running. 
+
+That's kind of the main focus building pitch decks that can, actually, you know, uh, you know, solve the problem and get the funding that's that's potentially available. 
+
+That would be great. 
+
+Yep, yep. 
+
+Yep, so cool. 
+
+I think we're on the same page. 
+
+So, one of the things as a co-founder, I mean, definitely. 
+
+Hopefully you're, you're good with it. 
+
+That means I have a seat at the table, right? 
+
+Yeah, I mean, all the information, right? 
+
+Which means I'll have to look at your cap tables, your incorporation documents, and all that stuff. 
+
+Yeah, but before I go into that in terms of the equity percentages, so I think you sent a deck and you were looking at, I sent the deck right with the equity ranges. 
+
+Yes, I don't know that it had a lot of numbers on it, but oh, oh, this one. 
+
+I don't think this one has Specifics, or it's more like a breakdown about. 
+
+So it's the one that you sent here. 
+
+It's that docs, and uh yeah, yeah, yes, You see. 
+
+Here, it should be the same the same as the slides on here. 
+
+So, yeah, I think it was on slide. 
+
+Oh, okay, so I think it was Slide 17 capitalization table. 
+
+Yes, here it is, I got it. 
+
+Yep, and you said, co-founder, Yeah. 
+
+This one's set up for oic investors, co-founder investors, yeah. 
+
+So you're like eight percent, and you would take 56. 
+
+So, just to level set if that's the number that you're looking for. 
+
+I'm not the right guy. 
+
+I wouldn't join an early stage company for, like, eight. 
+
+Yeah, yeah, so that's. 
+
+And that's the thing I'm trying to figure out is, what is the level amount? 
+
+So the reason why I put this in here. 
+
+I, I talked to a couple others who are interested and some of the some of the suggestion or some of the feedback was, Um, not to, uh, allow the co-founder to get too diluted at the precede or even series a stage because there's this risk of losing control of the company. 
+
+Investors potentially can get Nervous about that if you know what I'm saying, Yeah, but then I would come in as a co-founder too. 
+
+Yeah, yeah, so then, I don't know, yeah, exactly? 
+
+And if there was, Yeah, and I don't know if there was like an even split between the like. 
+
+Imagine there was three co-founders or two, like it doesn't make sense to have an even split. 
+
+And then, I mean, between two, I suppose it doesn't matter as much, but if there's three co-founders and then there, the equity is split between them. 
+
+Then the equity is so sort of diluted between three people. 
+
+I, I don't know if investors are going to be nervous that there isn't like a single. 
+
+There isn't, uh, you know, like, a, a single party who can control the company or things get split, but I, I mean, all of this is like, pre-cliff, uh, you know, pre-uh vesting and everything, so it sort of gets all the equity gets built up over time, so that's I think that's kind of the safety measure that the investors are looking for so that there's not, you know, multiple co-founders that can grab a bunch of equity and then leave the company and leave the company in a weird state like that, So there's a lot of different ways. 
+
+I mean, I mean, that's a. 
+
+It's a good thought process and a lot of investors will look at cap tables, right? 
+
+So, I was talking to one early stage company had, like 14 co-founders, like, that's crazy. 
+
+No investor is going to invest in that is just too complicated. 
+
+And there it's, not gonna, it won't work out, right? 
+
+I mean, I think the most you can have is like three or four. 
+
+Um, There's trade-offs, right? 
+
+But again, as long as you guys have the same magnetic nor star everybody's growing the same direction, I think the pros outweigh the cons, I think so. 
+
+The concept that Has seemed to work well for other companies that I work with is the concept of. 
+
+Since you came up with the idea, you should have more shares than everybody else, and I don't disagree with that because you came up with the idea right? 
+
+And you obviously put in work already on it right now. 
+
+Does that mean you get 56 percent? 
+
+No, that's not gonna, yeah, that math is not gonna be mapping, because yeah, you're looking at yourself. 
+
+Two other co-founders, plus your investor, right? 
+
+The number that that we came up with when we set up companies through stripe Atlas and clerky and Doula is 10 million shares. 
+
+Yeah, so 10 chairs, You allocate 30% to the primary co-founder, which would be you right if you want to write this down. 
+
+I can. 
+
+Also, I'm going to take. 
+
+I'm going to take notes, but yeah, yeah, please. 
+
+Yeah, yeah. 
+
+So 10 million is just a nice number today. 
+
+Yeah, I already it's already set up with 10 million shares. 
+
+Yeah, right, yeah, oh, it's actually laid out here, too. 
+
+Yep, yep, so you get 20 assuming you get 30. 
+
+You get the majority right, right? 
+
+The next co-founder gets 20. 
+
+The next co-founder gets 20, And then you have 30% that can either be investors or early stage employees. 
+
+So it depends on when you're looking at Angels, right? 
+
+It really depends on what he or she's looking to at best, right? 
+
+Because sometimes you want to. 
+
+Sometimes their Angels want to be just investors, which is fine, right. 
+
+Sometimes Angels want to be investors, and Um advisors, which is fine as well. 
+
+And then CERN Angels want to be investors, Advisors, and board members, potentially if the company, right? 
+
+So that 30% kind of gives you wiggle room on what your early investors want, so you still get 30% of majority of shares, right? 
+
+I would get 20 whoever gets the technical piece we get 20 and then that 30 is sort of like a Room to maneuver. 
+
+Depending on What the market says, the company's worth right, right, at least at this stage, right? 
+
+And I guess my thing is, that's kind of my expectations. 
+
+Yeah, um. 
+
+And if it's not something, but if you want 50, I mean, I, I don't want to waste your time because some, no, I appreciate it. 
+
+Uh, some co-founders really want a certain number. 
+
+That's their thing, right, which is completely. 
+
+I completely respect that. 
+
+This is your idea, and this is your gig, you know. 
+
+Do it with what you want, but I couldn't go into a situation where somebody's going to give me like eight percent. 
+
+That's not doable. 
+
+Okay, yeah, no, that makes sense. 
+
+That makes sense and, and like, I totally appreciate the the feedback. 
+
+And, like, I say, I mean, if it depends on if there's two. 
+
+So, what if they're? 
+
+What if we were sort of? 
+
+I suppose we probably would want a plan to have two co-founders to begin with and then and then the opportunity to bring on. 
+
+A third co-founder at some point, if that's feasible, you see what I'm saying. 
+
+
+
+1:43 PM
+So, what if there was only two co-founders would, and because this this As a three-way? 
+
+Mean, yeah. 
+
+But, but then, does it make sense to like reduce the equity for the existing co-founders if a third one wants to come on, I suppose. 
+
+It's sort of again. 
+
+It's kind of like investor driven, right? 
+
+I mean, if we we potentially pitch this against multiple investors, and they're like, well, we feel like you, you have a big hole in this specific area. 
+
+You know, you need a product officer, or you need a technical officer, or you need someone else to help out, and if it's sort of the feedback is, let's add a third person. 
+
+Then, we can sort of scale at that point, right? 
+
+So, so I would say this. 
+
+This is sort of the layout for three co-founders, and then if we were going to start with two co-founders, it would make more sense to have a different number set in that case, right? 
+
+But still, we could change the values a little bit exactly. 
+
+You can. 
+
+You can adjust it proportionally, right? 
+
+Yeah, don't think that, I would say, is the co-founder means you helped found the company, right? 
+
+Yeah, if you're, if you're there a year into it with seed funding, you're not a co-founder, true, right? 
+
+Yeah, a lot of we'll kind of look at Founders as basically a Chief way of hiring people, right? 
+
+Because that's equity, Right? 
+
+Like, I'm, I've talked to people. 
+
+I was like, how many people do you have then? 
+
+Why are you looking at talking to me could be a co-founder. 
+
+I'm not a co-founder and I'm an early employee. 
+
+Yeah, completely fine, right? 
+
+Yeah, but, but for me, I'm looking. 
+
+So, I mean, I think that's one of the conversations that we would have and something that you need to think about as the primary co-founder is, who are you looking to hire? 
+
+Because if that's the case, then we would adjust those numbers based on two people and then still allocate my, uh, percentages. 
+
+But here. 
+
+Here's the thing that I would say, You know, yeah. 
+
+3 million shares is a lot, but 3 million shares time zero is still zero. 
+
+That's right, electric will get kind of fixated on the, what is it the numerator denominator, right? 
+
+But it's still zero at the end of the day, I mean, it's speculative, right? 
+
+Yes, so, so you can have more. 
+
+You can say, like, like, if you do the math, you got like 40% right, and there's your other person that's 30% and then 30%, but it's still you're still multiplying it by zero, right? 
+
+So I wouldn't be. 
+
+Yeah, the question will be, is that technical person is he or she gonna be a value add that it will change that math, And if it, if it is, then you know, let's not quibble off of zero. 
+
+Yeah, that's still zero, right? 
+
+Let's quit will. 
+
+Let's make sure we're bringing on board the right person who believes in the mission and that's going to add value into the situation, right? 
+
+Not somebody who's just, cuz we're just trying to, you know, figure out what the percentages are, because at the end of the day. 
+
+It's still zero. 
+
+Yeah, right. 
+
+That makes sense. 
+
+Yeah, no. 
+
+Yeah, we can do that. 
+
+We can. 
+
+We can certainly do that, but I just want to make sure you're aware, like, this is where I would be coming from, right? 
+
+Obviously was, I'm still gonna get my arms around. 
+
+There's gonna be a ramp up for me, try to get around like, exactly. 
+
+All the different nuances to the product and and what your expectations are, but I wouldn't be coming in at. 
+
+I'm not I'm interested in being a co-founder for a cool company? 
+
+I'm not interested in becoming an employee. 
+
+Yeah, Yeah, I've done that. 
+
+I mean, I could do that, right? 
+
+Yes, that's not hard for me to do, right? 
+
+But I, I'm looking specifically for a seat at the table at the founder sea level. 
+
+Yeah, um, It's not something that you're interested in. 
+
+That's completely fine. 
+
+No, no, I totally agree. 
+
+I totally agree. 
+
+What you're saying makes perfect sense. 
+
+Um, okay, so that, so that describes the first 70, right, which is Founders, basically the founders. 
+
+I mean, it's driven out here. 
+
+It's kind of like for 70, and then we do like, you know, if there's two co-founders, there's a certain value if there's three co-founders. 
+
+We can split it again, but the idea is, everything goes 70, and then the remaining 30 is Equity incentive plan, and then that's pretty much it like investors. 
+
+Then investors come on. 
+
+As you know, gaining a percentage of the company, but it's sort of diluted at that point, right? 
+
+They're not given the original, uh, they're not generally given the original, um, the percentage they get the. 
+
+The whole company gets diluted and then investors, so that's the cool thing about this setup, right? 
+
+Because you already earmarked 30, and that 30 is then assigned to anything, right? 
+
+So you actually don't need to add any more and, and that's actually, really cool, because it's true. 
+
+Yeah, if you do that, right? 
+
+So, I've seen it. 
+
+It becomes a turf war, right? 
+
+If you have like 100, you know, whatever the percentage is and every founder is allocated, it's really hard to give that up the conversations because and it gets to be honest with you. 
+
+It's kind of sad, but it kind of gets personal. 
+
+I'm just like, wow, this has gone personal, like, really fast. 
+
+Yeah, so the advantage of allocating that 30 off the bat is that it's not accounted for by It's already there for the investors predefined, right? 
+
+Yeah, right? 
+
+And then, once it's already for the investors, then there's no, at least there will be a turf wars. 
+
+Don't worry, turquoise will always happen, right, right? 
+
+But at least it won't happen during the first round. 
+
+Yeah, exactly. 
+
+At least it's not gonna happen during the seed round because it's already allocated, right? 
+
+So, that's the thing that I would suggest, is, is to have that that 30, But you know, here's, here's the thing, right? 
+
+I mean, I think I've given you a lot of things and what the expectations are. 
+
+Yeah, uh, I I, I'm looking at more like 30, 30, versus 25, but anyway, that's that's near. 
+
+That's for two Founders. 
+
+Yeah, I could see it. 
+
+Yeah, but but but, but but ultimately, and, and you know, all all joking around the side, you got to feel comfortable with it. 
+
+Some yeah, some people, especially the person who comes with the idea, You know, this is your baby, right? 
+
+This is your thing, right? 
+
+I'm hopping on board, hopefully become my baby. 
+
+And I think, but it's not there yet, because I don't know you, right? 
+
+I've only been eating right, so this is something you need to be comfortable with. 
+
+So I would suggest is before we proceed right and start hammering out because I need to see your incorporation documents your cap tables. 
+
+All that stuff, right? 
+
+You're okay with this. 
+
+Yeah, right, exactly, and it's something you should, you know, take some time because it's a big deal, right? 
+
+Because this is you again. 
+
+This is your baby, and you don't know me. 
+
+I mean, this is, we've talked all of a couple times. 
+
+Yeah, exactly. 
+
+They're like I, I could be crazy, right? 
+
+I'm not. 
+
+I don't think I am no at all. 
+
+I've seen your background, though. 
+
+I've seen the kind of things you're working on. 
+
+I'm not. 
+
+I'm not feeling that in a way, but yeah, I totally agree. 
+
+I totally agree, and like, I say, I have a couple more phone calls with a couple others who are sort of interested in the same sort of way. 
+
+But yeah, I totally appreciate your candor, and I think that you know what you're talking about. 
+
+Makes sense, I mean, as long as the the founders should have a little bit more control, but either way, I mean, it also comes down to investors and what investors are laid out to normally invest in as well. 
+
+So, but yeah, I totally agree, yeah. 
+
+So what did you think about it and then maybe get back to me in the next few days or so and see if you're on board with this concept of multiple co-founders and the percentages and whatnot. 
+
+Yeah, and if you're good with that, then we can start going over the finer details. 
+
+I would say, looking at your incorporation documents. 
+
+Yeah, looking at your existing cap table, all the business formation stuff. 
+
+Yeah, that actually was predated, right? 
+
+Yep, and we can Trying to be Transparent as possible. 
+
+I don't want to waste. 
+
+Yeah, no, it all makes sense, you know. 
+
+And, you know, Like, I said, I've talked to a lot of different people. 
+
+I don't think there's there's a right way or wrong way to do stuff, but yes, you know, people have their thing, right? 
+
+And, yeah, and especially when it comes to equity positions, right? 
+
+That's the thing simple and rightly so, right? 
+
+It's the thing for me, like I, I, I'll tell you I, I wouldn't. 
+
+I would enjoy an a founding team at 10? 
+
+Yeah, yeah, it's gonna be if there's only a couple Founders, then there's going to be a lot of work to jump into. 
+
+Yep, yeah, it makes sense. 
+
+No, but it makes sense to sort of finalize the agreement for co-founders ahead of time. 
+
+And then, like, I say, the next. 
+
+The next step is probably like, you know, hammering right into the pitch deck and dealing with Could particularly get drive some investment into the company and get go forward from there, right? 
+
+Okay, yeah, sounds good. 
+
+Yep, so let me know. 
+
+In the next couple days, if just something that you that you know that you feel comfortable with and again, you know, it's up to you. 
+
+You're like I, I will look at you as the CEO as the as the ID, you know, the idea guys, the primary co-founder, right? 
+
+I mean, obviously, come there as a co-founder level, but you, in my mind, you know, Matt's, the CEO, Matt's, the idea, guy Matt's, the primary co-founder, right? 
+
+I, I can't jump in and help out. 
+
+Yeah, yeah, absolutely. 
+
+It has to be worthwhile for me, too. 
+
+Yeah, absolutely. 
+
+No, it makes sense. 
+
+No, I appreciate. 
+
+I appreciate your Candor. 
+
+That's been really great. 
+
+Yeah, um, awesome. 
+
+I'll take all the numbers back. 
+
+I'll think over it. 
+
+I got a few other people to talk to, but yeah, it's been. 
+
+It's been really good. 
+
+
+
+1:52 PM
+Yeah. 
+

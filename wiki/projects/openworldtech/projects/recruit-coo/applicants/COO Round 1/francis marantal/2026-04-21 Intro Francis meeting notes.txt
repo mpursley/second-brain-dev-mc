@@ -1,0 +1,1277 @@
+1:02 PM
+Right. 
+
+I mean, you should. 
+
+I will. 
+
+So here, here's the thing, right? 
+
+Like, if you got a W-2 and it meets your requirements, I don't know your requirements. 
+
+I mean, obviously, we haven't really talked for very long, right? 
+
+Yeah, I would do that, and I would just use this as a side hustle until you get enough traction, yeah, where it can become your W-2 exactly, right? 
+
+It doesn't make sense to do something because everything's like, Equity right now, and it's speculative, right? 
+
+I mean, we're talking, like, millions of shares, right. 
+
+But, you know, Is it still zero, right? 
+
+Like, what is that? 
+
+The numerator? 
+
+I think Up, so it's somewhat autonomous and then take the W-2 So that this thing can be building. 
+
+You know, I'm spending a little bit of that, so I'm basically like, you know, I'm splitting my time. 
+
+I'm doing 50 of this and 20 of that and 25 of that. 
+
+But yeah, my goal is like, I want this company to to this, uh, sort of agent, to be autonomous and be able to work for itself during the day. 
+
+I'm working on a W-2, and this thing is working on its own functions and applications, and it'll be an autonomous in a way that it has the apps the apps are on the App Store, Uh, it's monitoring the app store for things like comments and people that are putting in like bad reviews, like if it gets a bunch of one stars on the App Store, or if the users drop, I wanted to build autonomously, take action, and be like, oh, no, the website is down. 
+
+I need to check the infrastructure and rebuild like I want it to become its own company. 
+
+Like its own business management system and it's autonomous on its side, and if I have to jump in and do a few things like, I, you know, maybe I take like five or ten minutes, and I do some corrections, and then it goes off and does its thing, and it doesn't interrupt my W-2. 
+
+That's what, that's what I'm hoping. 
+
+Yeah, yeah, yeah, yeah, I mean, I think with side hustles, what I, what I tell people I think I've shared this with you. 
+
+I can commit 10 to 15 hours per week depending on what the deliverables are. 
+
+Yeah, obviously, there's Ebbs and flows with any startup. 
+
+Sometimes you're doing more development. 
+
+Sometimes you're doing their business off. 
+
+Sometimes you're more doing more go to market, and it changes and stuff like that, but 10 to 15 hours per week, especially if it's just Equity only. 
+
+Yeah, I mean, that's all I, I can commit to. 
+
+Yeah, I always suggest to people you guys might want to look at it. 
+
+That way, because you got a W-2, yeah, even that, for me, is too much like, I'm thinking, like one hour a week. 
+
+It should be all that I need to give to this system, and it's autonomous beyond that. 
+
+Yeah, I mean, he. 
+
+So, here's the thing, right? 
+
+Uh, and, and we might want to go into your agenda. 
+
+I don't want to kind of commandeer this, but if you're relying on something to do most of the heavy lifting, right, what is your differentiator then? 
+
+Yeah, who's to say somebody can't do the same thing. 
+
+Yeah, right, so you know it doesn't need to. 
+
+There doesn't need to be a answer, and that that can involve over time. 
+
+Yeah, but I think one of the things that I've seen with early stage startups is differentiation is really important. 
+
+Just because at the 30 000 foot high level, everybody kind of sounds the same, right? 
+
+Yeah, and if you don't are aren't able to identify a differentiator right away. 
+
+You're going to lose a lot of people investors in particular because I've invested, right? 
+
+You're gonna lose a lot of interest. 
+
+Just yeah, just just a heads up on that. 
+
+Yeah, yeah. 
+
+So the differentiator and I already have it set up the differentiate. Basically, this thing is building apps that have the AI built in in a way that it the app is intelligent in a way that doesn't exist on the App Store, and I'll give you a quick example. 
+
+So this is the app, right? 
+
+This is the app you go to the app and you now, and I basically set it up so you can talk to it. 
+
+So, yeah, imagine an app on your phone like the your favorite app on your phone, except you don't have to touch the screen. 
+
+There's no clicky, clicky. 
+
+There's no, like, entering data, or like looking at stuff. 
+
+No, you just talk to it, so I've set this up app so that you just talk to it, it knows. 
+
+It knows, uh, this is probably a better example. 
+
+It's because it knows about your life like you're automatically adding stuff into it, but you're just talking to it. 
+
+So there's a lot of app development systems like, apify, and appiepie, and all these app systems, but the apps they make are just super simple static Pages. 
+
+They're just static Pages. 
+
+This thing is not a static page. 
+
+This is an AI driven agentic, uh, like assistive. 
+
+This is an assistant, so I built this one, so it kind of built this one. 
+
+And then I'm already building the next one, and this is a sort of AI driven goals, projects, and tasks. 
+
+And again. 
+
+I don't have a set of quite yet, but the the chat system will be on the side, so you don't actually have to drive anything in this, You just talk to it, like it's a person. 
+
+And it does all the driving for you. 
+
+That's the differentiator. 
+
+These don't exist on the App Store, and I already have this one posted on the App Store right here, and I'm just waiting for approval, and I should be able to get it released, and this is the traction. 
+
+This is the traction, because it's like, okay, I have an app on the app store. 
+
+It has customers. 
+
+It does something that no other apps on the App Store do do currently. 
+
+I mean, hell, these apps on the App Store might start doing this, and two weeks from now, I don't know, but they don't today. 
+
+They don't today. 
+
+And why don't they do it today? 
+
+They all have the same tools that I do, but they don't do it today. 
+
+I don't know. 
+
+This app does the next app does, so I've got this one. 
+
+I've got another one, and I've got like basically five more that are sitting in a queue, and this agent is going through and building these apps and autonomously deploying it in the store. 
+
+And these are, and I already know that the apps on the App Store don't do this. 
+
+So okay, um, can I ask you a question about your background? 
+
+So, you've written code, right? 
+
+Oh, yeah, is that right, right? 
+
+I mean, you come from a devops background. 
+
+Yeah, I remember, yeah, yeah, right, yeah, so I usually build the interest, the back end code, not the front end. 
+
+All this front end stuff I'd never done any of this front end before, and this this is the thing that. 
+
+So this is basically my front-end developer, and I'm the back-end developer, but it's kind of also the back-end developer because it builds the back end better than I do. 
+
+Okay, okay, okay, and then you. 
+
+This is sitting on top of open AI, Uh, it's great. 
+
+So the the agent is sort of agnostic. 
+
+It's like open Claw you can put in any kind of LM in the background, but right now it's mostly Gemini, but I could put in openai codex. 
+
+I could put in, uh, openthropic Opus. 
+
+I could put in any back end, and mostly it's Gemini now. 
+
+Because Gemini is really good at building front ends. 
+
+And I, that's what I need God. 
+
+Although Claude Opus just came out with Claude Claude design, maybe it's better. 
+
+I don't think it's better, but Gemini's the best at it right now. 
+
+So, but yeah, it's Gemini. 
+
+Basically the best way Gemini is the best at building a front end, for, for, for an app Just like the the, you know, the good looking front-end design. 
+
+Yep, yep, you know, okay, and they have themes and stuff. 
+
+So, yeah. 
+
+So the my agent mostly speaks with Gemini just because Gemini is better at that. 
+
+Um, but yeah, It's pretty Gnostic, um, but, but, anyway, so yeah, that's kind of like, my goal right now. 
+
+The agent itself, like, I'm talking to the agent about funding, and it's like, don't do funding. 
+
+Just, let's build these apps and put them on the App Store and then get customers. 
+
+Once we get customers, then we can do funding and I'm, like, well, I don't disagree. 
+
+It's a good idea, But when I was building the pitch deck, the agent was, like, yeah, we could get funding. 
+
+I mean, it's an AI company. 
+
+There's AIS everywhere. 
+
+Like, let's just let's try to get funding, but now that I'm building the it's sort of, it's become biased now because these apps are going on the App Store, and it's like, well, we're building apps. 
+
+Let's just build apps, so I'm like, hey, let's then build the apps. 
+
+I don't know, I'm trying not to get too. 
+
+I'm trying not to get too opinionated. 
+
+I'm letting it run the business and make the money. 
+
+It's like how you you tell me you, you think you can make the money. 
+
+Let's do it. 
+
+Let's make the money And which, uh, which AI? 
+
+Are you asking all these questions to? 
+
+Are you still? 
+
+Are you asking a Gemini as well. 
+
+Are you asking other AIS this? 
+
+Like, I say, the agent that I build. 
+
+I have my own chat interface for it, and it can. 
+
+It can hook to any back end, but usually it's a Gemini. 
+
+Gemini 3.1 can answer these questions. 
+
+I mean, Claude Opus is better, but it's more expensive, and I don't like openai. 
+
+The the the Chachi PT Is too weird. 
+
+There's something wrong with it. 
+
+It's not right, but Gemini is very business focused on writing the code. 
+
+I know what I'm doing. 
+
+I'm gonna finish the job, and Claude can get a little bit, Uh, interested in unrelated things. 
+
+And openai is just like off the rail. 
+
+So, yeah, Gemini is very business focused, and I trust it. 
+
+It's working okay, but like I say, I can swap it to something else. 
+
+If it depends on what yeah, you know, you know, you know, one of the things that I, I was reading, and this was like when when's AI started like getting kind of off the ground was what's his name? 
+
+Jensen Huang, who's the CEO of Nvidia, right? 
+
+Yeah, he actually said, you know, I actually crossed reference. 
+
+A lot of my questions across the major platforms, right? 
+
+So a little asked different questions. 
+
+The same question to to all five, the different players. 
+
+Yeah, and actually, you know, trying to come up with like a consensus based off of that. 
+
+Yeah, actually, it's not a bad idea. 
+
+No, absolutely. 
+
+And you can send them back. 
+
+So, so what I'm doing so, just to show you how it works. 
+
+
+
+1:12 PM
+I'm basically. 
+
+Sending screenshots for the app, and I'm telling it. 
+
+Hey, fix this, fix that, you know, add changes, and then it's reply. 
+
+I'm trying to do it all in temp in in tap Telegram or Whatsapp. 
+
+Because this, I could sell to another person once I have the the bot running in telegram. 
+
+I could hook up any person to this, and they could just be having the same conversations, sending screenshots. 
+
+I mean, eventually, it'll build its own app so that it can see the app. 
+
+It's building it, automatically modify it, but for now, I'm trying to keep it all separated in telegram. 
+
+But anyway, that's kind of the question. 
+
+Yeah, I mean, if you have a lot of conviction on the differentiation, please? 
+
+And you're obviously a lot more technical than I am. 
+
+And so, you know, the nuances, uh, to this? 
+
+Um, then, yeah, I mean, then. 
+
+I think it's worth giving it a try and seeing if this is, you know, this can be monetized to scale all those different business Benefits or business consequences that we want to have, You know. 
+
+Just remember, though, if you don't control the back end, right? 
+
+Yeah, it's easier to get commoditized, Right? 
+
+A lot of people will throughout, and I've been in technology business for gosh. 
+
+20, some odd years now. 
+
+Yeah. 
+
+And whether it was client server or SAS, they're now AI. 
+
+There is. 
+
+There is a need for something Downstream, but you also need to be Cognizant of what's happening on the back end. 
+
+Since you don't control that piece. 
+
+Yeah, it's vendor, it's vendor. 
+
+Lock-in this in my industry. 
+
+Vendor lock-in is horrible, and I, because I always generally work with open source software, so there's no vendor lock-in if I can avoid vendor lock-in. 
+
+And right now, I'm not locked into Gemini, I could swap it and what I'll probably do is on the next versions of the apps. 
+
+I'll swap the I'll get one. 
+
+I'll get like, probably Claude to build one app, while Gemini is building another, and that way I can verify that the the eight, you know, the interface that I built is totally agnostic. 
+
+And Emily, I'm not vendor locked in, yep, yep, or even use both in kind of sequence. 
+
+It right, have yeah, and I pulled one piece and then run it by Claude or the other way around could do. 
+
+Yeah, yeah, there's quite a bit of memory, though. 
+
+Once it gets started on a feature, it uses a lot of memory to make sure that it's gonna follow through if you swapped in another agent, then it would The memory. 
+
+Yeah, I mean, it's probably better to have one app like finish a project and then build another project with another one, and then compare the projects and be like, are they as useful as each other? 
+
+Yeah, something like that, but no, no, it's a good point. 
+
+Yeah, swap them back and forth. 
+
+Yeah, yeah, so that actually brings up a good question. 
+
+It. 
+
+It definitely will get expensive If you duplicate the effort. 
+
+Correct? 
+
+Yep, correct. 
+
+But then again, because I, I mean, I looked at your resume. 
+
+I looked at your background, but I wanted to ask you about the the, you know, the customer, the companies that you've been working with in the for the past little while, like, what kind of what industries have they been in, like, what's the normal sort of flow that you've been working through. 
+
+Yeah, yeah. 
+
+So, just to recap, so I started out my career in Enterprise software, right? 
+
+Microsoft Oracle Oracle in financial Services after I got my MBA? 
+
+Did JP Morgan Chase and E-Trades of the world? 
+
+And I came back to Tech. 
+
+Uh, did two y combinator companies? Yeah, um, but I've been working with the number of stealth mode companies, so it ranges. 
+
+So, I've done cryptocurrency. 
+
+Actually, I've got a few marketplaces as well. 
+
+Um, Web 2.0, Usually fintech. 
+
+It's usually kind of a, a, b to B to C type of it's either B to B or B to B to C. 
+
+Um has been most of the stealth mode companies, the early stage companies that I've been working for. 
+
+Yeah, uh, and again. 
+
+My background is Enterprise software, but I kind of look at it as a really good Proving Ground because it allows me to be able to be adaptable to a lot of different areas, because I think you know Enterprise software is sort of like the highest peak And it allows and the things that I've learned and the skill sets that I've developed in Enterprise software has allowed me to transition to a lot of different areas. 
+
+Yeah, With regards to open world Tech. 
+
+I mean, the thing that was really interesting to me was the fact that you're looking to build tools, which I think is a really interesting Because of the slacks of the world. 
+
+For example, I think that there's business to be. 
+
+I think it's kind of overlooked. 
+
+Everybody wants to build the the platform. 
+
+Um, and I think a lot of people kind of pay attention to that much later, and so that I think that provides itself with an opportunity. 
+
+Yeah, for sure. 
+
+Yeah, it makes sense, and then and then, like, uh, I guess I'd ask you just generally like when, when did you get started with these come with these, uh, startups that you're working with where they, like, pretty much from the very beginning, like just one or two Founders. 
+
+Or, had they already like gone through places from the beginning. 
+
+Yeah, yeah, one or two. 
+
+Yeah, I'm usually the Ops guy, sort of like the CEO cro type of guy. 
+
+Yeah, I work with a lot of people with some ideas, and I've had my own ideas as well, uh, but I don't write code, so I always tell people that's my limiting factor. 
+
+I mean, I, I've done right, and Co, and I'm sure I can Vibe code if I really put my head to it. 
+
+But really, my most my background has done the operational Revenue, so I go to market side. 
+
+Yeah, it makes sense. 
+
+Yeah, it makes sense. 
+
+It makes sense. 
+
+And then, I guess, okay. 
+
+So, then you know, given that, um, I guess the other thing that I wanted to talk about was probably this, uh, You know, the the cap table that we talked about here. 
+
+Oh, I didn't actually change this. 
+
+Yeah, pitch deck plans because I think that was next. 
+
+Yeah, plans. 
+
+Okay, yeah, Yeah, so I, I do need to like re- rebuild this. 
+
+I, probably, I mean, since I should probably build in the fact that these apps are going on the App Store and build it out as more like an agentic system that's building apps on the App Store. 
+
+That's, I mean, it feels like that's the main hook at this point because I don't feel like anybody's using websites anymore. 
+
+Like, like, I mean, I can build this out as a website, right? 
+
+But it just doesn't seem like, like it, just. 
+
+I just can't be convinced that people are going to use websites anymore if it's not an app on a phone. 
+
+I can't imagine anyone's going to use that in the next three months. 
+
+If it's not an app on the phone that you can sort of talk to like, it's a person that's going to be where things are moving very soon. 
+
+Yeah, so I'm kind of. 
+
+That's what that's the basically the pitch deck change is basically Focus it away from all these websites and focus it towards apps that are sold in the app store, and then background, uh, back end engineering. 
+
+That's sort of an agentic system, but I'm still going to keep the b2c as apps in the App Store and then B2B as the backend infrastructure system. 
+
+And though, that's how the pitch deck is going to get modified And and, but, and like, I say, get rid of probably the websites. 
+
+It feels like it has to be. 
+
+I'm gonna basically like give the age AI agents names because it seems like that's very common. 
+
+So, you know, like, um, I don't know, P. 
+
+P1, you know they? 
+
+I think they call their agent Archie. 
+
+So, for example, like these guys, I mean, our first product is Archie. 
+
+I think a lot of the a lot of companies are building AI agents. 
+
+They're naming the agent, so I'm probably going to name the back-end agent. 
+
+I'm going to basically come up with two agent names, one is building the apps autonomously, and one is building off it app back in infrastructure autonomously. 
+
+Give those names and then use those in the pitch deck that's going to look better. 
+
+I think I think you know, just to give you my, uh, viewpoint, on the website. 
+
+So, uh, yeah, I mean people are not really looking For websites as, Or, like, yeah, interaction, right? 
+
+You're not. 
+
+Yeah, yeah, it's going to have limited functionality for it. 
+
+However, it does serve as a navigation point, so I wouldn't discount the need to have a website, you should have a website. 
+
+I mean, yeah, of course. 
+
+Enter business operating procedure. 
+
+Yeah, but certainly, you're not gonna include the functionality and something like that, where? 
+
+Yeah, it just doesn't make sense. 
+
+Yeah, your point. 
+
+Um, yeah, but you do need to have that. 
+
+Yeah. 
+
+So, so I, I totally agree. 
+
+And so, for example, like this app I built. 
+
+I basically built it so that there's a website and it scales into a mobile app so that it looks exactly the same on the phone and the website, and I've I feel like that should probably be the case for everything that way. 
+
+It's like, it's imagine the website. 
+
+You can just take it on the go with you. 
+
+It's fully functional website, but you can just pick up your phone and walk away, and you have all the features are there. 
+
+I think if you're going to webify an app, right? 
+
+If you're going to use that, I think that's good for like, your, Your MVP. 
+
+It's something like that, or if you're trying to look for funding, but now you have to have a fully operational Android or or apple or iOS app to play in this world. 
+
+Yeah, we live in currently. 
+
+Yeah, it's just web is just too. 
+
+It's just not. 
+
+It's limiting, right? 
+
+Yeah, it's not as much functionality as you can get with a native with Native apps. 
+
+Exactly, yeah, exactly? 
+
+And the the IOS and Android app are basically going to be the main drive, and then the website is going to be sort of more like a sales page, or like a front-end page. 
+
+Yeah, navigational Pages is what I like to all call it right because people still will look and just say, hey, you know, let me do a search on open world, right? 
+
+Yes, and exactly. 
+
+And when you come to the landing page, then you know you'll get the login screen, and then you also get you know the sort of marketing which I haven't completely fixed, yes. 
+
+But yeah, you get started. 
+
+The marketing stuff underneath it. 
+
+
+
+1:23 PM
+So, yeah, that's kind of the main platform, but but yeah, I mean, like, I say, the the the the, Because it's bigger. 
+
+Um, and then the mobile device is better because it's more interactive. 
+
+I think it's great anyway, so that's the change for the pitch deck is, like, basically focus on those things the web, the the apps and then the back end or for your particular product and just kind of thinking out loud is. 
+
+It's better because of the form factor, right? 
+
+When you're looking at iOS or Android, you're going to look at your smartphone right In. 
+
+The analytics may not come across. 
+
+It depends what kind of analytics you're trying to do, too. 
+
+It depends on the market. 
+
+It's B2B, b2c, blah, blah, blah, right, but the analytics shows better on a MacBook right and graphing charts and stuff, yeah, correct. 
+
+Yeah, yeah, exactly true, so that stuff will show better just because of the surface area, right, Right? 
+
+And so, I wouldn't necessarily discount the website, but I just think that it's more for navigation. 
+
+It's more for like reporting type features. 
+
+I agree, right? 
+
+Like, my, my daughter plays soccer and so she uses. 
+
+We use a app called City play that measures her movement during practices during matches. 
+
+And that's pretty cool, right? 
+
+But then, if you really want to look at like, for example, longitudinally, it's difficult, right? 
+
+Just because this footprint, the surface area of a phone is different, right? 
+
+And then, I know, that I and I don't use it because I'm just a dad, but I think there's some coaches that use it, and they have to measure against like 10 to 15 other kids. 
+
+You're not going to be able to see that on the phone. 
+
+I mean, yeah, that's true, a lot right comparing. 
+
+Compare. 
+
+Yeah, if there's not enough screen real estate comparing, yeah, absolutely. 
+
+Yeah, generally, the stuff on the phone kind of like scales down, you know horizontally, and then when you get onto the onto a wide screen, you can put stuff side by side. 
+
+Very nice. 
+
+Yes, That's why you just have to have you have to when you're building any type of business nowadays. 
+
+Again, it depends on the type of business that you have, but if you have analytics, you're gonna have to be able to do this on multiple platforms. 
+
+Yeah, just because you're going to be able to see it better. 
+
+Yeah, you depend on what it is that you're doing. 
+
+The phone becomes more the operational piece. 
+
+The The MacBook or whatever, uh, laptop you're using. 
+
+Because more of that, the the reporting analytics analytic side no, yeah, yeah, it makes sense. 
+
+Yeah, absolutely. 
+
+And I'll be. 
+
+I'll be able to make sure that, Yeah, I'll be. 
+
+I'll definitely be able to have functions and features that exist on the website that don't necessarily work on the phone. 
+
+And yeah, it'll be should be easily easy to be able to transition back and forth between them. 
+
+I don't really have any graphs and charts now, but that's something I can definitely add, but it's a good point. 
+
+Yeah, yep, okay. 
+
+And then, you want to talk about cap tables. 
+
+Yeah, so okay, that's a little updates. 
+
+A pinch deck plan. 
+
+Yeah, so I was curious. 
+
+Like, because we talked about the cap table like percentage-wise, but I was curious. 
+
+Like, if you were going to be able to do around like a fundraising round. 
+
+If this makes sense to do, how much would be, how much would we be looking at raising at that point? 
+
+Well, to me, I like things relatively straightforward, sorry. 
+
+Am I working pest control guy? 
+
+That's okay. 
+
+Cody, Um, I think so. 
+
+I like Simplicity. 
+
+I don't think that things are simple, but I think that it's easier to make things complicated than it's to make things simple, right? 
+
+Yeah, and especially when you're looking at seed rounds, right? 
+
+So, I'm talking seed drums. 
+
+I'm not talking series A or B or C, and that's going to get really complicated really fast. 
+
+Yeah, right, of course, but I'm thinking, when you're looking at like a seed round, I mean, Michael Target has always been a million. 
+
+Yeah, right. 
+
+Try to raise at least a million doesn't mean you're gonna get it, but I think that's a good Target to have, right? 
+
+And that's why, if you look at the breakdown of the cat kale that I propose right with the different shares, yeah, you know, basically, you have. 
+
+You can do that in simple math, hundred thousand dollar increments for a million shares each right. 
+
+If you're looking at 10 million shares right each each, uh, Uh, each hundred hundred thousand shares is basically equivalent to Because it will get complex. 
+
+Yeah, exactly, exactly. 
+
+Yeah, it makes sense. 
+
+It makes sense. 
+
+Yeah, and like, I say, that's. 
+
+That sounds about right. 
+
+I mean, it sounds like a million is probably about right, because that should be enough to Probably have a couple Sort of A few, like, like full-time engineers and a couple like c-level people for a year, and that's enough to definitely get customers and traction within. 
+
+So, let me preface this, so a million is the valuation. 
+
+It's not necessarily what you're we're going to get right in a seat ground, right? 
+
+So, yes, you can make a lot more than that, but if you're looking at 10 million shares, right? 
+
+And then it's me. 
+
+It's you, me, and another co-founder, which maybe he's Account for about 70%, right, 7 million of those shares, right. 
+
+That means you have 3 million to play with for investors, right, right? 
+
+So, you know, each of those billion could be like 100,000 each year, probably going. 
+
+I mean, you're targeting, you know? 
+
+300, 000. 
+
+So I don't know if you can hire people at that stage yet. 
+
+Or, I don't know if it's wise to hire people at that stage, but you know, it really depends on the company and depends on the traction. 
+
+It depends on how it's going, but when you're looking at seed round, right, Angel Investing, right, You know, I think you have to level set expectations? 
+
+Yeah, Um, accordingly. 
+
+Yeah, it makes sense. 
+
+And I mean, I wouldn't necessarily expect to have to have somebody full time contractors to come in for like a few weeks to crank out, Say the goal was. 
+
+We want to have 10 apps on the App Store that all have. 
+
+I don't know hundreds of thousands of customers something like that, and then how many contractors do we need? 
+
+Do we need like one contractor per app, and how much time do they need given how this system is set up? 
+
+Yeah, you know, do they need a month and then, with a month per app, and then you just do the math about how many customers there are, how much you're charging them say. 
+
+Say your chart. 
+
+Each app is like $2 a month, and then you're just doing the matter based on that, and then and then saying, okay, well, the at the end of the year, if we have this many customers and this dollars a month, then we can basically like, you know, pay off the investment or go back and reinvest for more. 
+
+Yeah, I mean, if you, if we go with this, right, let's just choose this as the sort of like a template, right? 
+
+The valuation is a million precede Angel round, right? 
+
+Yeah, let's say you get a hundred thousand from an investor, right, that hundred thousand can go into, like administrative costs, right? 
+
+You might need contracts, maybe some. 
+
+Obviously, the back end costs, right? 
+
+Um, Maybe some marketing, Uh, if you want to, you know, do some design stuff that things can typically get paid out for that hundred thousand. 
+
+Obviously, if you can get three hundred thousand, you have more wiggle room. 
+
+Also, you have more of a Runway too, right, right? 
+
+As in small time, yeah, and as an investor, everybody wants to be obviously super aggressive, um, in terms of their timelines, but in my experience, it takes a lot longer than you think it's going to take, right? 
+
+Yeah, uh, especially when you add the human element to it in terms of like hiring another co founder, making sure he or she's properly vetted right, making sure the contract's in place because they're going to have to talk to some law firms, uh, maybe have some marketing, etc, etc that elongates the process, right? 
+
+So, you do need to account for that Runway. 
+
+But yeah, simple math hundred thousand, you know, Or 10% 200,000 for, uh, for 20, you know, 300, 000, for 30 percent from an investor standpoint, yeah, makes sense anymore. 
+
+I mean, like, I said, I think a million is a nice round number. 
+
+Sometimes it goes up, and sometimes it goes down. 
+
+Yeah, it's close to that. 
+
+Yeah, it makes sense. 
+
+Okay, cool. 
+
+Um, I, I kind of hit the main beats that I wanted to. 
+
+Do you have any more questions? 
+
+I wanted to set up another meeting after, but I wanted to see if you had any questions or anything you wanted to know before. 
+
+We talk about another meeting if possible. 
+
+Yeah, I mean, the biggest thing for me is because you're not. 
+
+You know, if we join forces. 
+
+We're not, you know, anthropic or not, you know, open AI, right? 
+
+Chadgbd, like, we're gonna build on top of that right or Google, right? 
+
+We're gonna build on top of that. 
+
+What is that differentiator? 
+
+And I think that that's part of the evolution of the company. 
+
+Yeah, right, because everybody says, AI, everybody wants to. 
+
+Then, you know, people are also want to see what's underdeep. 
+
+The hood. 
+
+Yeah, yeah, of course, of course. 
+
+And if there's no differentiator there, then there's no. 
+
+But honestly, I don't think that you'll find anybody that can compete with those guys. 
+
+I mean, you could build you could build your own language model. 
+
+You could build your own coding agent. 
+
+You're never going to get to that level and honestly in the future. 
+
+It feels like, just don't try your differentiator is, how do you wrap and communicate and crop and extract the knowledge from these they'll the Frontier llms? 
+
+The Frontiers are way, Then people are using them, for they can Shit when I look at this. 
+
+How much of the stuff this thing built automatically just by, you know me, giving it a sentence every hour. 
+
+These things are way smarter than anybody's even got gotten it far of, and the next one is going to be even better. 
+
+So, yeah, you can't compete with you, I mean. 
+
+But yeah, it has to be. 
+
+You're basically like you're a layer on top of this brain you're using their brain. 
+
+
+
+1:33 PM
+You're building that layer, but that layer makes all the difference. 
+
+Yeah, I mean, there's no way you're gonna go against a Chachi BTH Gemini Cloud perplexity co-pilot. 
+
+You're gonna build another one of those. 
+
+Yeah, yeah, I mean, it's, I mean, it's not a game that anybody wants to play. 
+
+However, you have to be cognizant of the fact that people are aware of those things that are building on top of that, so to differentiator has to be there. 
+
+So again, that's something that will will. 
+
+If we join forces, it's it's an ongoing question that we're going to have to answer for sure. 
+
+As a team, right? 
+
+Because I mean, that's really important for the business. 
+
+Because if we don't create that differentiator, yeah, we're just gonna be like, everybody else. 
+
+Yeah, yeah, and the differentiator has to be really clear in the pitch deck, like on the freaking first page, probably right. 
+
+Yeah, yeah, then the picture. 
+
+I'm pretty good at that. 
+
+I I, I've created way too many picture decks over the course of my career, so I'm happy to, you know, if we join forces, I'm happy that, you know, take point, or certainly augment my with my thoughts on the pitch deck. 
+
+Yes, the cap table. 
+
+It seems like you're in agreement. 
+
+Uh, yeah, yeah, generally. 
+
+That's definitely in the right direction. 
+
+The spread of the of the 70 percent I mean, obviously, as as the primary co-founder as the lead co-founder, you're going to get a majority of the shares. 
+
+Yeah, it's still going to be distributed. 
+
+Are you okay, I would? 
+
+Yeah, I'm definitely. 
+
+That's what I was expecting. 
+
+Like, when I think of a company. 
+
+As I mentioned, like I mentioned before, I'm usually thinking of three people like a CEO, a CTO, and and, like, a CPO or something, or in this case, like a CEO or cro, someone that's going to help generate the the funds and then, a CEO that's sort of like the Run runs the company and then probably a CPO or CTO, depending on if we want to Folk like, depending on if the technology, I mean, I can basically run all the CTL stuff because I'm building all the technology already. 
+
+We might want to have one more person you can do with product and helping to figure out what's the best market. 
+
+For this, you know these. 
+
+These autonomous agent apps, and you know the the the language models have their own opinions about what apps to, But having someone who's been in that market a lot and and knows what people are going to pay for? 
+
+That's probably your third person. 
+
+So, yeah, that's three people. 
+
+And, yeah, as long as though reasonably even split between all of those, it depends on, like, like I say, if the investors kind of care how it's split or what the ownership levels look like. 
+
+But Mike, my guess, is, they probably don't care as long as it's Safe and reasonable, you know. 
+
+There's also the sort of the whole bus Factor thing, too, right? 
+
+And then, I've been getting this a lot where it's like, well, if you only have one person or there's one engineer you need to have a couple because of what if that one person leaves they don't want that risk. 
+
+So you're spreading the load across three different people if one of them leaves. 
+
+The other two can find someone else to fill the shoes, and it's a very safe organization. 
+
+Yep, yep, yeah, I mean, I would agree. 
+
+I think it's, it's helpful. 
+
+You want the. 
+
+So, if you take the CEO role, I take the CEO role, which is completely fine. 
+
+Um, and then you get a CPO or CTO. 
+
+I think that makes sense. 
+
+One things that I would also suggest is, um, your vesting schedule, so this is actually something that's really important to me because there's no compensation outside of equity. 
+
+What I would suggest is no Cliff. 
+
+I know the standard compensation for at least here in the valley is always a one-year clip, but that's because you get a salary, and you get a bonus. 
+
+Yeah, right, yeah, exactly, right? 
+
+We nobody gets a salary and a bonus. 
+
+For for, Uh, for an angel round, right? 
+
+It's, it's all Equity driven so, but I do agree to be fair and to protect, You know, all those involved in the company that there needs to be investing schedule. 
+
+We don't want someone who's kind of loosey-goosey. 
+
+I'll try this for like three months in bail, right? 
+
+Yeah, right? 
+
+And so, I jumped on, and it doesn't really provide any input that's exactly possible. 
+
+Exactly, yeah. 
+
+So, I would suggest like a 48-month vesting schedule for every month you're with the company, and you're contributing. 
+
+You get 148th or whatever that number is right, and then 248s and 348s four and that, yeah, and it's, it's Equitable. 
+
+Obviously, you're going to stick around, you know? 
+
+If I join, I'm more than likely going to stick around right, and hopefully the third person, he or she, shares that same mentality, but we do need to protect the company and we need to protect, you know, each other as co-founders, right? 
+
+Because you don't want it to be, like, well, this isn't fair and right, but but, but you also need to be fair to the person, like if they come in for six months, and they did six months away, the great work. 
+
+They should probably get that six months worth of equity, and you know if they're under the one-year Cliff, but they did six months worth of work. 
+
+You mean you need to attract people and you're not going to attract them if the cliff is gives them an opportunity to get put in work and then not get, uh, any kind of equity at the end. 
+
+Yeah, I mean, I've turned down really interesting companies because they they were really adamant about a cliff. 
+
+And I said, you know, I get your point. 
+
+I'm an investor. 
+
+I'm a co-founder. 
+
+I get that if there's no Salary or bonus, yeah than the corner. 
+
+Yeah, but I mean, you're still, you're basically still offering a clip. 
+
+The cliff is just a month instead of a year. 
+
+Exactly, exactly. 
+
+Yeah, no, exactly. 
+
+That's a great way of looking at it, reasonable. 
+
+I mean, it seems like, if you know, if you're gonna put in a work, and then you know if two months go by and you're not able to actually work on this company. 
+
+Then you know, then we can, you know, would basically just have to, you know, renegotiate, and find somebody else, and that person gets cut off during that month, and then they move on and we can fill the role with somebody else perfect. 
+
+Yeah, you're on the same page. 
+
+I mean, I think you know. 
+
+One thing I've only talked to you again for a couple meetings. 
+
+Now you seem like a reasonable guy. 
+
+I like the fact that you bring a heavy. 
+
+It sounds to me, you know, that technical background, I mean, I'm technical, too, but I don't write code, and so I think my skill set is going to be complementary to what you're doing. 
+
+Yeah, um, Yeah, Yeah, yeah, makes sense. 
+
+No, I definitely want to keep talking. 
+
+I feel like I, I feel bad talking to somebody when I'm at this very early stage, though, because there is nothing, but if if I, if I'm right, and I can get this app on the App Store and start representing real traction. 
+
+And actually, so my goal is to put the app on the App Store for probably like a, maybe a, a month or a few weeks, and let customers try it and give me the feedback, like, are they're gonna use it? 
+
+And then, after the month, I'm going to start adding the pay tiers, right? 
+
+So the free tier, and then the pro tier, and then the max tier. 
+
+And when I put the tears in, it's going to be like, pretty cheap couple dollars a month, something like that, and then see if the customers stay or see if the customers leave. 
+
+Yep, and once I come back after a few weeks or a month, and I can say, okay, I've got Revenue. 
+
+It's a whole different conversation, because then the conversation isn't. 
+
+Can you generate Revenue? 
+
+The conversation is, can you scale the existing Revenue if I drop in another app and another app and another app, and they all have the same amount of Revenue. 
+
+Multiply that by the year, and what do we get at the end of the year right now? 
+
+Like, you said, it's kind of zero, divided by zero, is nothing. 
+
+But yeah, I'm thinking, like, in a couple weeks, uh, or you know, month or so, I should know absolutely what the revenue will look like with this process. 
+
+By having these prototypes released. 
+
+So, Yeah, I mean, I think I think that's a good place to start, and it's also producing something that's tangible, right? 
+
+Yeah, a lot of the early stage startups is too conceptual in nature, right, and those days of great writing. 
+
+A great idea behind, you know, on a paper napkin, there's unless you've had four exits. 
+
+And yeah, you should have an MVP like, even before you get any funding. 
+
+You should have an MPP or something that's basic, uh, but in this case, I actually have a deployed app to an app store that has customers purchasing it, and I haven't received a penny of funding, and it's mostly autonomous like that. 
+
+Sounds pretty good. 
+
+But, Uh, you know, the other thing, too. 
+
+And That's helpful when you have multiple co-founders, right, is? 
+
+You actually can split the expenses proportionally. 
+
+Yeah, right. 
+
+So, like, if let's say, you got 30 percent of the shares. 
+
+I get 20, the other person gets 20. 
+
+If the back end cost is like a thousand dollars. 
+
+You're not absorbing all thousand dollars, right? 
+
+You're just. 
+
+And that puts skin in the game, too. 
+
+So hopefully it matters to all the co-founders. 
+
+It's not just me, what equity for, you know, X, number of shares? 
+
+It's also, you're putting skin again. 
+
+Obviously, you're not putting like millions of dollars in, right? 
+
+Yeah, I wouldn't expect anybody to do that, right? 
+
+But now, you're putting skin into the game, and I think that helps, and hopefully it helps to unify the team, because I've also seen, you know, people who are not necessarily, you know, it's not directionally correct. 
+
+They don't have the North Star and everybody just really fragmented. 
+
+They want to do their own thing. 
+
+And it's like, dude, there's three of us, right? 
+
+If we don't, can't agree to something. 
+
+Yeah, this is gonna work. 
+
+Yeah, it's an excellent point. 
+
+
+
+1:42 PM
+I mean, my cost right now are very low, basically, so that's great. 
+
+If I actually have enough traction to get thousands of customers, and I want to keep the tier free. 
+
+And even if it's costing me like, you know, 10 cents per user per per month or per year. 
+
+The cost could go quite High, so I'm going to be limiting the the deployment on the App Store. 
+
+Obviously, I'm not going to let it just go Whole Hog and have thousands of people using it because there is the there is an agent. 
+
+There is like an llm cost token cost at the back end. 
+
+It's really small. 
+
+It's really small right now, but if it's really small and you scale it 10 000 times or 100, 000 times. 
+
+It's not small anymore. 
+
+So, yeah, I'll be very. 
+
+I'll be very controlled about the release, but you're right, I might have some point. 
+
+Be like, okay, the cost is too high. 
+
+I want to get to paying customers, but I have to spend some money up front. 
+
+So, yeah, that's an option. 
+
+It's an option. 
+
+Yeah, well, it sounds cool. 
+
+I mean, one of the challenges. 
+
+Sometimes, when I have talked to other co-founders is, it sounds like you're looking for Partnerships, which I appreciate right is because if I'm going to join with you, I'm looking to come in as a co-founder sometimes. 
+
+Yeah, when you talk to focus Employees, which is fine. 
+
+I mean, that's their choice, right? 
+
+If you're looking for employee, you know, but don't advertise it as a co-founder or something, like, But sometimes people advertise the co-founder or position, and it's really it's like a quasi employee position. 
+
+Yeah, it's like I already have everything laid out. 
+
+All you need to do, is like, do your XYZ? 
+
+No, at this point. 
+
+Yeah, the thing is pretty flexible, and I definitely want some some feedback and some ownership Good. 
+
+So, that's what I'm looking for. 
+
+I can go ahead and schedule it. 
+
+You send me your accountly link, I think, yeah, yeah, I'm going to reschedule another one. 
+
+Yeah, yeah, I do. 
+
+Yeah, that sounds good. 
+
+I do, like, I say, I'm, like, I'm literally like, days away from getting Google to approve this app. 
+
+So, I'm like, have a few things that I want to check ahead of time. 
+
+But yeah, I think the next meeting, I'll You know, is the does. 
+
+This does, like, I have the MVP and the proof of concept up, and that gives me a lot more solidity in my mind, and then we have the next meeting. 
+
+We can talk about. 
+
+Okay, what should we now, though? 
+
+This proof of concept is not. 
+
+It's not hypothetical anymore. 
+
+This has all become real. 
+
+So, now we can talk about the real paperwork and what we're going to do. 
+
+Yeah, yeah, and remember, too. 
+
+The one thing that I also say is, you know, when you throw it out into the wild, right? 
+
+It's good to have accounts, but it counts in and of itself is not the end game, right? 
+
+You want those accounts to pay something, right? 
+
+So a lot of people will get this like, ooh, I got a lot of counts, right? 
+
+But yeah, YouTube itself is, uh, us, yeah, until they pay something? 
+
+Yep, right to offset that cost, right? 
+
+And yeah, I just want always level set that with folks, especially when you're looking at consumer, right? 
+
+Yeah, because the apps that you're building are not necessarily B2B, they're B to B to C, right. 
+
+Yeah, and when you have that consumer thing, people have a lot of time in their hands. 
+
+So, sign up for whatever it is that they want to sign up. 
+
+Yeah, and what it is it? 
+
+It just sucks up your time and also your money, right? 
+
+Because they're not generating anything for you. 
+
+Yeah, I know. 
+
+Yeah, it's true, and I probably at the point. 
+
+I don't know how much time I want to spend in the sort of like free testing, But I'm thinking probably like a couple weeks at least, but then I basically flipped to the tears, and when the tears comes in, All of the existing customers are probably be probably just be grandfathered in, and then new customers will start paying for the tiers, and then we'll see what happens when the payment comes in because you're absolutely right. 
+
+I mean, having customers and having accounts is one thing, but having paid customers a different story. 
+
+So, yeah, I'll. 
+
+Yeah, I gotta get a lot. 
+
+I want to get to that point as soon as possible. 
+
+I do have to spend a little bit of time, Uh, to get there. 
+
+I can't really rush through it, but yes, I totally agree. 
+
+That's critical. 
+
+You don't want to. 
+
+You don't want to have. 
+
+I mean, it is hard, right? 
+
+It's a catch-22, right? 
+
+Because you're always gonna get empty accounts and and empty users, right? 
+
+But you don't want a large because it also affects your branding and the quality of things and and all that stuff. 
+
+And so, if the majority of your users are just emptying, that's not gonna go very far, either. 
+
+But anyway, there's some things that we can do around that. 
+
+And some ideas that I've used with the other companies that I've worked with, that I've found success. 
+
+Yeah, uh, I'm happy to share that with you, you know, when the time comes. 
+
+But yeah, I mean, what I'll do is, I will, um, I think I think you send me a calendar link. 
+
+I'll go ahead and schedule another time. 
+
+Yeah, uh. 
+
+And if you want to formalize it at that point in time, um, you know, yeah, I'm happy to give it a try. 
+
+I mean, like, I said, you sound like, you're, you have the right perspective on things, and sometimes people don't have the right perspective. 
+
+Trying to get into this particular business. 
+
+They're kind of. 
+
+Yeah, exactly. 
+
+Spoken Valley and blah, blah, blah, and like, yeah, it's really hard man or everybody else. 
+
+A lot more people would be doing this. 
+
+Yeah, I know, I know, I get it like, you need to. 
+
+You need to prove the point it needs to be super obvious. 
+
+Numbers have to be there like everything else do exist, and that's a lot of work to get to that point, and I totally get that. 
+
+But yeah, yeah, let's. 
+
+Let's set up another one. 
+
+Let's give me, like, another week to get this thing actually deployed. 
+
+I'm going to learn a lot more in the next few days from this. 
+
+And then, yeah, we can talk it again and would like to say if we're ready to if we're ready to go forward. 
+
+If there's more changes that we want to think about ahead of time. 
+
+We can do it, but yeah, let's stay in touch, for sure. 
+
+And I'll definitely, uh, set up another meeting. 
+
+We can talk more about it. 
+
+Yep, I think it's calendly right, so I can do search. 
+
+I'll set it up for next week. 
+
+Sure, yeah, sounds good. 
+
+Yeah, yeah, and I'll let you know how this goes, and we can chat more. 
+
+That's perfect. 
+
+Yeah, and I'll send you some more notes ahead stuff ahead of time, so that'd be great. 
+
+Sounds good, awesome. 
+
+Okay, thank you. 
+
+Thanks! 
+

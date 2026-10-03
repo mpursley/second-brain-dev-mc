@@ -1,0 +1,179 @@
+﻿PRE-INCORPORATION FOUNDERS AGREEMENT 
+AMONG THE UNDERSIGNED PARTIES, EFFECTIVE 5/25/26
+WHEREAS the undersigned individuals (each a “Founder”, and collectively, the “Founders”) are collaborating as a team with a view to developing a business concept and related product or service substantially as described at Schedule A attached hereto (the “Product or Service” or the “Startup”). 
+AND WHEREAS it is the intention of the Founders that once the Product or Service is developed, or substantially developed to their satisfaction, the Founders shall form a corporation (the “Corporation”) and will and shall as of incorporation forthwith transfer all interest, rights, claims, property (whether proprietary, tangible, intangible or otherwise), as well as waive any and all moral rights the Founders have now, have had in the past or may have in the future in the Product or Service such that the Corporation will carry on the Product or Service as of and following the date of incorporation and own any and all of the foregoing rights and interests.
+NOW THEREFORE in consideration of the covenants contained herein, and for other good and valuable consideration, the receipt and sufficiency of which is acknowledged, the Founders hereby agree as follows:
+DEFINITIONS
+“Agreement” means this Pre-incorporation Founders Agreement and all attached schedules and all instruments supplemental to or in amendment or confirmation of this Agreement, as the same may be amended or amended and restated from time to time.
+“Board of Directors” means the board of directors of the Corporation, as constituted from time to time.
+“Change of Control” means:
+1. the acquisition of the Corporation by another entity by means of any transaction or series of related transactions (including any reorganization, amalgamation, arrangement, merger or consolidation or share transfer, but excluding any such transaction effected primarily for the purpose of changing the domicile of the Corporation), unless the Corporation’s shareholders of record immediately prior to such transaction or series of related transactions hold, immediately after such transaction or series of related transactions, at least 50% of the voting power of the surviving or acquiring entity (provided that the sale by the Corporation of its securities for the purposes of raising additional funds shall not constitute a Change of Control hereunder); 
+2. the sale, transfer or other disposition of all or substantially all of the property and assets of the Corporation to any person (other than a person that was, prior to such sale, transfer or other disposition, a Founder); or 
+3. the dissolution or liquidation of the Corporation (except in connection with the distribution of assets of the Corporation to one or more persons that were Founders prior to such event). 
+“Cliff Expiry Date” means the day immediately after the date of the first anniversary of the Incorporation Date.
+“Common Voting Shares” means Shares of the same series and class of the Corporation that carry the right to vote.
+“Constructive Dismissal” shall be deemed to have occurred if there exists any material adverse change without the consent of a Founder in the title, status, position, Role and Responsibility of such Founder from those set out in this Agreement as determined by a court or other tribunal of competent jurisdiction.
+“Effective Date” means:
+1. in the event of the death of a Founder, the date of death;
+2. in the event of Permanent Disability, the date that the determination of Permanent Disability is made by a court of competent jurisdiction or as otherwise determined pursuant to the definition of Permanent Disability below;
+3. if a Founder’s employment, services or Board of Directors position is terminated by reason of retirement by a Founder (“Retiring Founder”), the date which is designated by the Retiring Founder as the effective date of retirement which date shall be no later than the last day that such Retiring Founder is employed by or provides services to the Corporation on a full-time basis;
+4. if a Founder’s employment, services or Board of Directors position is terminated by reason of resignation by a Founder, the date which is designated by the Corporation as the effective date of resignation;
+5. if a Founder’s employment or services is terminated by the Corporation without cause, the date which is designated by the Corporation as the effective date of such termination; or
+6. if a Founder’s employment or services is terminated by the Corporation for cause, the date which is designated by the Corporation as the effective date of such termination.
+“Incorporation Date” means the date affixed to the Corporation’s certificate of incorporation. 
+“Role and Responsibility” means the roles and responsibilities of each Founder as described at Schedule B attached hereto.
+“Shareholder” means any person holding Shares in the capital of the Corporation on or after the Incorporation Date.
+“Shares” means all authorized shares in the Corporation, as set forth in the Corporation’s articles of incorporation on and after the Incorporation Date, as amended.
+“Simple Majority” means more than fifty percent of the Founders. 
+“Trigger Event” means, with respect to a Founder, the:
+1. death;
+2. Permanent Disability;
+3. retirement;
+4. resignation other than a resignation following Constructive Dismissal; or
+5. termination of employment of such Founder, with cause, by the Corporation, provided that such Founder is not thereafter employed by the Corporation;
+“Parties” means, collectively, the Founders and any other person that becomes a party to this Agreement. 
+“Permanent Disability” and “Permanently Disabled” means a Founder who is declared mentally incompetent or incapable of managing his or her affairs by a court of competent jurisdiction or, if no application is brought for such a declaration, who is certified by statutory declaration of two duly qualified medical practitioners to be mentally incompetent.
+“Monthly Vest Day” means the last day of each calendar month following the Incorporation Date.
+SCHEDULES
+The following schedules are attached hereto and form part of this Agreement:
+Schedule A – Description of the Product or Service
+Schedule B – Description of Founders Roles and Responsibilities 
+ARTICLE 1 – CAPITAL CONTRIBUTIONS AND EXPENSES
+1. Reimbursement. Each Founder shall reimburse any Founder that incurs an expense related to the Startup proportionately to such Founder’s Equity Distribution pursuant to Section 5. 
+ARTICLE 2 – ROLES AND RESPONSIBILITIES
+2. Founder’s Contribution. The Founders shall, using best efforts, contribute to the development of the Product or Service pursuant to each Founder’s “Role and Responsibility” description as set-out at Schedule B attached hereto.
+ARTICLE 4 – INCORPORATION AND FORMATION OF CORPORATION
+3. Actions Required. Once it is determined by a Simple Majority that the Corporation will be incorporated and formed, each Founder shall grant and assign to the Corporation immediately upon its incorporation all of his or her right, title, and interest in and to the Product or Service (including all right, title and interest to intellectual property and all applications thereto), including waiving all moral rights, and assigning all patents, designs, industrial designs, trade-marks, copyrights, trade secrets, ideas (however formed or unformed) and labor and/or work product that results from any task or work performed by the Founder that relates to the Product or Service for the full term of such rights (the “Transfer”). Such Transfer shall be made pursuant to a customary confidentiality and intellectual property assignment agreement in favour of the Corporation. Each Founder shall effect such Transfer without claim for compensation in any manner or form whatsoever both at the time of the Transfer or at any time in the future thereafter. Each Founder shall also perform any and all acts and execute all documents and instruments as may be required by the Corporation at its sole discretion to perfect title in the Transfer to the Product or Service, and any related intellectual property (the “Required Actions”). 
+4. Transfer to Corporation.  The Founders acknowledge and agree that any discovery, invention, secret process or improvement in procedure made or discovered by any of the Founders in connection with or in any way affecting or relating to the Product or Service or capable of being used or adapted for use in the Product or Service shall immediately be disclosed to the Corporation and shall belong to and be the absolute property of the Corporation immediately as of and following the Incorporation Date. 
+
+
+ARTICLE 5 – EQUITY DISTRIBUTION & VESTING
+5. Equity Distribution. Subject to this Article 5, on the Incorporation Date, the Shares of the Corporation shall be issued to the Founders according to the distribution chart below (the “Founder Equity”):
+Name
+	Equity Distribution (%)
+	Matt Pursley
+	40
+	Josh Morris
+	30
+	Thad Hoffmaster
+	30
+	
+
+
+
+
+
+
+
+
+6. Vesting. The Founder Equity to be issued pursuant to Section 6 shall vest to each Founder over three (3) years, and each Founder shall enter into a customary stock restriction agreement on the Incorporation Date outlining such vesting: 
+
+
+
+
+ARTICLE 6 – TRANSFER RESTRICTIONS 
+7. Restrictions. The Founders may not transfer, pledge or otherwise encumber any Shares or any ownership or entitlement to ownership of the Corporation or of the Product or Service described herein without the unanimous written consent of the Founders. 
+ARTICLE 7 – CONFIDENTIALITY AND NON-COMPETE 
+8. Confidentiality. The Founders agree to keep the Product or Service confidential; disclosure of the Product or Service will occur only on an as-needed basis and only upon consent of all Founders. Notwithstanding such unanimous consensual disclosures, the Founders shall take all necessary steps to keep the Product or Service confidential until the formation of the Corporation, at which time the Founders shall further detail and define any confidentiality obligations.
+9. Non-Competition. Immediately following the incorporation of the Corporation, the Founders shall not at any time while being a Founder and for a period of 12 months after he/she ceases (i) to be a Founder; (ii) to provide any services to the Corporation, whether as partner, employee, contractor, officer, director or otherwise; or (iii) to hold Shares, whichever is latest, either alone or jointly or in any capacity whatsoever directly or indirectly, in the state of California.
+9. carry on, participate, assist, be engaged, concerned or interested in any business which competes with the Product or Service;
+(ii)        interfere or seek to interfere or take such steps as may interfere with the continuance of supplies to the Startup (or the terms relating to such supplies) from any suppliers who have been supplying materials, components, products, goods or services to the Startup;
+(iii)        solicit or entice away or offer employment to or endeavour to solicit or entice away or offer employment to any person who has at any time been a Founder, employee, officer or manager of the Corporation without the express prior written consent of the Founders; or
+(iv)        use or adopt or purport to use or adopt the name or any trade or business name of the Corporation for any purpose.
+ARTICLE 8 – EXTENSION OF AGREEMENT 
+10. Shareholder Agreement. Upon the formation of the Corporation, the Founders will enter into a Unanimous Shareholder Agreement to formalize all terms of this Agreement, unless otherwise agreed to by all the Shareholders.  
+11. New Founders. Written consent of all Founders is required to approve any additional party to this Agreement. If a person not named as a Founder hereto joins the Founders in the Startup prior to formation of the Corporation on the basis that such person shall hold an equity interest in the Corporation when formed (a “New Founder”), the Founders shall require such New Founder to execute a counterpart signature page and acknowledgement substantially in the form set out at Schedule C attached hereto so that such person is a party to and bound by this Agreement and shall appropriately amend this Agreement.  
+ARTICLE 9 – DISSOLUTION OF STARTUP 
+12. Agreement Timetable. Within six (6) calendar months of the date of this Agreement, if the Founders have not yet incorporated the Corporation, the Founders agree to discuss the benefits of continued collaboration related to the Product or Service and will discuss a mutually agreeable timetable for the incorporation of the Corporation.  
+13. Dissolution. In the event that all of the Founders do not wish to continue their mutual collaboration, the Founders shall discuss a mutually agreeable separation and division of assets of their collaboration, if any. The Founders shall further define any and all confidentiality obligations related to the Product or Service and shall terminate this Agreement.
+14. Dispute Resolution. In the event that the Founders are not able to agree to a mutually agreeable separation pursuant to this Article 9, the Founders agree that they will submit to a binding confidential arbitration to be held in Orange County, CA and conducted by a mutually agreed to arbitrator. The Founders agree and acknowledge that all provisions of this Agreement, including confidentiality provisions, shall be binding up through the end of this arbitration process. Costs of the arbitration shall be borne equally by all Founders.
+ARTICLE 10 – GENERAL PROVISIONS
+15. Good Faith. All actions taken pursuant to this Agreement shall be made in good faith without intention to unduly deprive a Founder of any interests, rights or benefits. 
+16. Representations and Warranties. Each Founder represents and warrants that he or she is not a party to any other agreement that would restrict such Founder’s ability to perform its obligations as set forth in this Agreement. Each Founder represents and warrants that no third party can claim any rights to any intellectual property or other proprietary right possessed by that Founder as it relates to the Product or Service.
+17. Unjust Enrichment. Nothing in this Agreement, precludes, blocks or otherwise eliminates a Founder’s standing to bring a claim against the other Founders or the Corporation for unjust enrichment or other similar cause of action.
+18. Corporation to Enforce. The Founders hereby agree that after incorporation, the Corporation shall enforce the rights and obligations of the Founders hereunder. 
+19. Assignment. This Agreement shall not be assigned by any Founder without the written consent of all other Founders.
+20. Attornment. The Parties attorn to the exclusive jurisdiction of the courts in the City of Orange County in respect of any disputes arising out of this Agreement or the transactions contemplated herein.
+21. Notices. Any notice, consent or approval required or permitted to be given in connection with this Agreement (in this Section referred to as a “Notice”) must be in writing and is sufficiently given if delivered (whether in person, by courier service or other personal method of delivery), or if transmitted by fax to each Founder at the address as shown next to each Founder’s name on Schedule B attached hereto.
+22. Governing Law and Jurisdiction. This Agreement shall be governed by and interpreted in accordance with the laws of California and the laws of United States applicable therein.
+23. Severability. If any provision of this Agreement or any part thereof shall for any reason be held to be invalid or unenforceable in any respect, then such invalid or unenforceable provision or part shall be severable and severed from this Agreement and the other provisions of this Agreement shall remain in effect and be construed as if such invalid or unenforceable provision or part had never been contained herein.
+24. Amendment. No amendment, supplement or modification of this Agreement is binding unless approved by all Founders hereto in writing, and any amendment, supplement, modification, or approval so approved in accordance with this Section 33 shall be binding upon each of the Founders, provided that, the Founders agree to such amendments to the Schedules attached hereto from time to time as may be necessary to reflect permitted changes in the Founders.
+25. Waiver. Any waiver of any breach or default under this Agreement shall only be effective if in writing signed by the party against whom the waiver is sought to be enforced, and no waiver shall be implied by any other act or conduct or by any indulgence, delay or omission. Any waiver shall only apply to the specific matter waived and only in the specific instance in which it is waived. 
+26. Gender. “Him” or “his” is a generic reference to the subject of the relevant sentence in this Agreement. Such reference applies equally to female or gender-neutral persons.
+27. Currency.  Except as otherwise stated herein, all amounts are stated in United States currency.
+28. Entire Agreement. The Parties acknowledge that this Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof, and may only be varied by further written agreement signed by all the Parties. It is acknowledged and agreed that there are no oral representations or warranties of any kind between the parties.
+29. Agreement Confidential. The Parties shall keep the terms and conditions of this Agreement confidential except as may be required to enforce any provision of this Agreement or as may otherwise be required by any law, regulation or other regulatory requirement. Notwithstanding the generality of the foregoing, the Parties may disclose this Agreement to his legal and/or financial advisors. 
+30. Counterparts. This Agreement may be executed by the Founders in counterparts and may be executed and delivered by fax or other electronic means, and all such counterparts and facsimiles together constitute one agreement.
+
+
+IN WITNESS WHEREOF, the Parties hereto have agreed to all terms as set forth in this Agreement:
+
+
+
+
+____________________                                             
+Matt Pursley – Founder
+
+
+____________________
+Josh Morris – Founder
+
+
+____________________
+Thad Hoffmaster - Founder
+
+
+
+
+
+
+________________
+
+
+SCHEDULE A
+Description of the Product or Service
+Hunger.
+
+
+
+
+Business Model 
+	Hunger. Is a fitness app focused on “flipping” the existing app focused fitness environment. Hunger is a brand that picks a fight. A brand that picks a fight either wins big or dies fast. There is no middle outcome for a Liquid-Death-shaped strategy. If we're not willing to lose hard, we cannot win at all.
+* That Gen Z's relationship with the diet industry is one of inherited grievance, not active belief — they grew up watching it lie to their mothers, and they're ready to defect to anyone with the courage to name the lie.
+* That a brand built around a manifesto is more defensible than a product built around a feature. Features get copied in a quarter. A position on the world doesn't.
+* That "Hunger" — the word — is the single best piece of strategic real estate in the category, and it's free because everyone else is scared of it.
+* That the smallest, loudest cohort of believers will beat the largest, quietest cohort of users. I'd rather have 10,000 people who would tattoo our logo than 1,000,000 who can't remember installing the app.
+* That virality in 2026 is downstream of identity, not entertainment. Things spread because they say something about the person sharing them. Our job is to make Hunger a thing people want to be seen with.
+	
+
+Product or Service
+	Fitness/health/lifestyle focused app
+
+
+	
+
+
+
+
+
+
+
+________________
+
+
+SCHEDULE B
+Description of Founders Roles and Responsibilities
+
+
+Name and Address
+	Role/Title
+	Responsibility
+	Matt Pursley
+	Founder
+	Platform Buildout
+	Josh Morris
+	Founder
+	Branding/Marketing
+	Thad Hoffmaster
+	Founder
+	Business operations,. Finance, Legal

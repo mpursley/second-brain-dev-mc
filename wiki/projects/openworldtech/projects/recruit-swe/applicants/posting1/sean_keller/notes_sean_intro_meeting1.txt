@@ -1,0 +1,1753 @@
+10:57 AM
+Okay, Trying to All right? 
+
+Okay, I'm trying to set up this call with Sean Keller. 
+
+Okay, Samuel killer. 
+
+Did I? 
+
+Hey, are you? 
+
+Hey Sean, how's it going And doing? 
+
+Great! 
+
+Thanks for asking, how is your day going pretty good? 
+
+Pretty good. 
+
+Um, Okay, cool, cool. 
+
+Yeah, thanks for joining the call. 
+
+I think I have your Your LinkedIn here, right? 
+
+Yeah, this one, and This one. 
+
+Okay, yes, yes. 
+
+So, I reviewed these yesterday. 
+
+I got you. 
+
+Okay, So yes, yeah, thanks. 
+
+Good to meet you. 
+
+Um, I got to look at this, uh, I got to look at your background a little bit yesterday, which is pretty great. 
+
+These are the these are exactly the things I'm looking for. 
+
+Um, Cuz I'm starting to build apps for open world Tech. 
+
+So here. 
+
+Let me, I'll give you a little intro, but I don't. 
+
+I wanted to sort of um, Operated, more like an interview ahead of time. 
+
+But let's do some intros first, and then and then we'll go from there. 
+
+Yeah, sound good? 
+
+Okay, so I have your I have your background here, which is great. 
+
+And then, I guess we can look at mine too. 
+
+I'll put it on here. 
+
+But yeah, okay, so, yeah, uh, if you want to go ahead and give yourself an intro, then we can go from there. 
+
+Yeah, Okay. 
+
+Well, thanks. 
+
+So you can say that. 
+
+It's been like eight to nine years. 
+
+I have been in this Tech Industries, and I have a really great experience working as a full stack driver, so there is one philosophy that I usually tell people like, I count myself as a good problem solver. 
+
+Yeah, I never found myself as a developer or as a person who writes the code. 
+
+I am the one who can solve the problem if someone is going to bring problem to me. 
+
+Then I am going to provide the optimized, scalable solution for that thing, and these tools tax languages were never a barrier for me. 
+
+Like, I'm easy to learn new stack. 
+
+I am easy to dive into any already written code base and then extending some of the functionality and these type of things. 
+
+And if I have to tell you like the cool stack languages which I work with most of the time I work with typescript also work. 
+
+With.net also work with the poor language and also some of the contracts I have written in rust. 
+
+And apart from this. 
+
+Like, You can see that I've worked in multiple domains. 
+
+It's like fintech solution Healthcare applications. 
+
+You can say that working with the like, e-commerce, multivinter stores, and these type of things. 
+
+And another thing I want to mention like Most of the time. 
+
+I work with startup culture, so you can say that the beauty of the startup culture is like, you are wearing multiple heads at the same time. 
+
+Yeah, you are not only restricted to one ticket, one task. 
+
+You are the one who is responsible for end-to-end feature if I am going to develop some feature. 
+
+I'm going to write the code for it. 
+
+I am going to test for it. 
+
+I am going to deploy it. 
+
+This will be my ownership, like taking thing end-to-end from start to the beginning, and that is easily accessible by the end client. 
+
+Yeah, so this is like, really helpful. 
+
+Also, for the developer who is working in the startup culture and also for my own technical growth and grooming. 
+
+And these type of things. 
+
+Yeah, so apart For last one year, I would say like life become very easy by using some. 
+
+You can say that AI tools llms and these type of things. 
+
+Yeah, yeah. 
+
+Before that, we used to take, like, if we are going to solve the problem first, we have to think it. 
+
+Then, we have to write like a 15 to 20 lines of code. 
+
+And then we have to check it writing test cases, and these type of things. 
+
+Now you can see that if you know how to solve your problem, and how to write a good prompt, then these llm tools can work as a junior developer for you. 
+
+Yeah, and I am working with this Google Cloud code, and these type of things and these things are really amazing if you know. 
+
+But actually, you are solving and what the prompt and what the context you are going to give to the LLM. 
+
+So, yeah, can you give me some examples of different sites? 
+
+Like, is there already public sites and stuff that you've worked on that that we can look at and review? 
+
+Okay, so you can open one side connector, Spell it connect, or we put in. 
+
+Maybe put the link in the chat if you can? 
+
+Yeah, let's look at some examples. 
+
+I'd love to see some good examples. 
+
+Yeah, sure, um, so this. 
+
+This application contains multiple things. 
+
+You can say that They are working with, go react, react native, and these type of things That link here. 
+
+If you can see, okay, let me while we, while we put the sights up. 
+
+So, let's look at the sites next, but let me do a little bit of an intro just for you as well, and then we can go forward. 
+
+Yeah, okay, so, uh, I don't know if you probably didn't get. 
+
+I don't know if you got a chance to see my LinkedIn profile. 
+
+Was it included in my email sorry that I'm pretty early under the interview process. 
+
+I'm just sort of getting started, so I'm not really practiced up yet. 
+
+You're one of the first people that I interviewed. 
+
+So, yeah, sorry. 
+
+My apologies ahead of time, uh, I'm still working on building, uh, you know, building the company and getting funding and getting some Partners together. 
+
+So, I'm not even really hiring, uh, I'm not even having started even hiring yet, but but I feel like I'm getting very close. 
+
+So, yeah, I'm a little bit early in the process. 
+
+Um, but yeah, so all so as an intro, so open world Tech is the company that I started. 
+
+I've been working in this company as sort of like a consultancy, Uh working for other companies and just Consulting, and like software development and scaling. 
+
+My focus has been a lot in sort of the game industry, so building game servers and building game out game infrastructure and then building interfaces for back-end infrastructure. 
+
+That's always a big thing that I do so. 
+
+I, so I'll give you an example of my normal use case, right? 
+
+I'll come into like a small independent game company, and they're like, maybe, like a couple developers that are working on an independent game. 
+
+Maybe they have their game on, you know, uh, itch, or they have their game on Steam, and they're they're at the point where they want to scale to like hundreds or thousands of players, and they really know their game really well, but they don't know how to build a back-end infrastructure to support having thousands of players at the same time. 
+
+Okay, you see, it's a little bit tricky, because if you want to build a game with thousands of players, you need to build like a Lobby, Which is a place where players can kind of like scrum in and scroll in and scroll in. 
+
+So, the lobby sort of gets full, and then maybe you have like tens hundreds. 
+
+And then there's like hundreds and hundreds of people that are sitting in the lobby. 
+
+And then, while you're waiting for the well, what happens is, uh, the lobby admin software will pick like 10 players or 20 players or 30 players, and it will spin up a back-end game server, and then it'll just attach these 10 players to the game server, and then those players play the game for 20 minutes or a half an hour, and then, when they're done with their session, they go back into the lobby. 
+
+You see what I'm saying, so the lobby is constantly like injecting people into a game server and all the players in the lobby go into a game server. 
+
+And, and you can, kind of watch the lobby and see how many people are in there, and you kind of, you know, as soon as you get like 20 30 people in the lobby. 
+
+You kind of want them all to drain off onto a game server, play the game come back in the lobby. 
+
+That's a very common scenario for a game system, right? 
+
+So, I helped a few independent game companies get to that point Their game. 
+
+Their game works well, but they need to figure out this whole Lobby system and also sign ups, so you, you have a company like Steam or other companies that will let you have players, and then players get modeled in right. 
+
+So that's kind of been my business model for a while. 
+
+And um, so on my link to profile, I guess. 
+
+While I've been doing this, uh, As a consulting company for a variety of different companies, I've also been working, you know, at this is like a fint10 company that I worked for for a while. 
+
+Yes, oh, I don't have. 
+
+I don't have a zaps on there. 
+
+Okay, but yeah. 
+
+So, so I worked for, like fintech companies. 
+
+This is a big game company that I worked for for a while, and this is another sort of financial company. 
+
+And then, I spent, you know, quite a few. 
+
+I've been spent like eight years working at PlayStation, so I have, like, quite a bit of experience in this sort of game industry, and that's sort of where I've been started, right? 
+
+Uh, but now I'm trying to basically get my company to start spending out products that I can, um, Basically build, build intelligent websites and build apps that I can spin out into the app stores and start getting paying customers and these. 
+
+A lot of these, of course, are like AI driven, you know, agent driven, uh applications, either phone apps or web apps. 
+
+Okay, so that's kind of where I'm going, And I'm going to show you some examples of those, but let's do it after because I wanted to have a little bit, uh, hit a few more topics, and then I'll show you some of the examples of the things that I'm building out, right? 
+
+Okay, so, yeah, so let me know if you have any questions about my background or anything I'm, you know, happy to happy to get into that. 
+
+Um, but I'm also I wanted to sort of see the examples that you mentioned, like different websites and stuff that you worked on. 
+
+If you could put okay, so I see one here on the chat. 
+
+Okay, so let's, let's take a look at that. 
+
+And then we'll try to go from there. 
+
+Okay, Ah, so this is a like a Healthcare. 
+
+Yeah, you can select the idea of their product is basically, you know, there are different facilities in different states, and there are different nurses which are open to do like jobs. 
+
+Yeah, so they basically provide the solution and the good stuff is like they have multiple nurses. 
+
+They have multiple facilities and they have like automated scaling stuff and that automated scaling stuff like automatic, like shifting, scheduling automated, like adding some boosted rates to the already job so they can get the attraction by the nurses, and they can claim these jobs. 
+
+Also, there is automated process if one nurse is going to apply for the job, and then you can say that the facility manager is going to approve it. 
+
+And this type of thing, some facility manager also schedules the future shifts like recurring shapes, or maybe, like, once in a week shift, and these type of thing, yeah, so it's, you can say that management plus Healthcare stuff. 
+
+Yeah, and I know this is good. 
+
+
+
+11:12 AM
+This is really interesting, because because Applied for a few companies. 
+
+This. 
+
+This is a pretty big industry. 
+
+There's a lot of like Medicare Medicaid, but then there's yeah. 
+
+Also, like, because there's such a shortage of nurses and Healthcare people that there's a lot of companies that'll spin up these websites that allow them to make connections and do sort of HR in this area. 
+
+Yeah, it makes sense, okay? 
+
+And then, what did you actually help with in this site or or with their service? 
+
+Okay, so I joined them as a full stack developers. 
+
+So, I would say, like, I have also touched their Microservice, basically A separate go microservices responsible for fetching of the data from the frontend API from 10 API is basically a service which provide the nurse's data. 
+
+These are the like critical data, which we cannot directly store to our databases, according to HIPAA compliance. 
+
+So, type 2 compliance and these type of compliances. 
+
+So, there was a ghost service on which I did go service by the use Google service. 
+
+We can use node, but we have to create parallel threads for using node, and those parallel thread is like concurrently fetching the data for different nurses to match their like. 
+
+You can say that authenticity whether this nurse exists, checking their SSN numbers, and these type of things right. 
+
+So, basically, go provides us like a concurrent. 
+
+These type of things by default, there is no need to write the extra code for creating multiple. 
+
+That's because the beauty of go language is like they provide these type of concurrence. 
+
+Yeah, and apart from this, They have a separate service written in node, and they were using Express framework, and this express framework is for writing rest apis. 
+
+They have also some of the websockets apis for the streamless, end-to-end connections like, suppose facility manager has opened the dashboard. 
+
+And also, you can say that Express is different. 
+
+Express is a node framework, and we were using, uh, for the separate service. 
+
+Okay, make sense and then equal Services. 
+
+Yeah, okay, so different. 
+
+Yeah, sorry, sorry, let me ask. 
+
+No, this all makes sense. 
+
+I make sense to make sense. 
+
+Um, What was the database that they were running against? 
+
+What was the back-end infrastructure? 
+
+Can you take you know what it like, what was it built upon database and then API Gateway, uh? 
+
+And then, you know, front-end connection, can? 
+
+You can talk about those. 
+
+Okay, perfect. 
+
+So they were using Mongo that mongodb database. 
+
+Yeah, why they use TB database because there were a lot of relations because you know they created shape shift belongs to. 
+
+Facilitating nurse is going to apply for the shift facility. 
+
+Manager is going to approve the specific shift. 
+
+There will be a shift in specific States, and they will be different rules for different states, so that's why they use mongodb for the proper Json object for made PB, in which they can also send the data to the front-end part is key, so the API Gateways. 
+
+That's another question. 
+
+Yeah, so They were using also. 
+
+Some of their part was serverless architecture, and they were using Lambda services, and those Lambda services are exposed by the API Gateway from the AWS service. 
+
+Yeah, and now different apis had different functionality. 
+
+Like, if I have to mention some apis like one api is responsible for fetching all the shifts, and if you are going to click on the shift that is going to expand the data, and that data includes, like, facility facility, States the facility manager, who is going to approve the shift timings of the shift, the nurse, how many nurses applied to that shift they are going to see all this data, and then after that facility manager is going to approve the specific nurse for that thing on some scenarios. 
+
+This is like manual confirmation or some scenarios. 
+
+The confirmation process was automated, so you can say that there was not only rest apis. 
+
+We were also using websockets apis. 
+
+As I told you like, there were different events like, suppose nurse has opened his dashboard or faster, Opens the dashboard, and when facility manager is going to approve some shift, then this seamless Connection of this seamless update is going to be shown by the nurse side. 
+
+Instead of reloading the page and seeing the updated ones, so there was also different websockets events for this English connection. 
+
+Yeah, it makes sense. 
+
+Okay, and then the front end. 
+
+Okay, so these are all sorry. 
+
+I'm just taking now. 
+
+As you can see them on my screen, I think so, then. 
+
+So, this describes sort of the back end. 
+
+You worked with Right mongodb API Gateway, probably Lambda with websockets, and then what about the front? 
+
+Also, you can add, go in the back end. 
+
+There was more go, like, yeah. 
+
+So, so the back end was mostly driven by golang or, or, was it back end? 
+
+It was by golang and then or typescript. 
+
+Yeah, but it was microservice one micro Services only this possible to put background checking, Uh, it's on react. 
+
+So now, I worked on two front. 
+
+Also on the mobile front end, they also have their mobile mobile app. 
+
+Yes, that makes sense. 
+
+Okay, so then there's the web front end and was the how was the how was the mobile app and the web product? 
+
+Did they do exactly the same stuff where they both built and react in the same way? 
+
+Uh, you can see that they have separately built the mobile application using react native because some of the features they are giving on the mobile app. 
+
+Note on the web app. 
+
+Suppose if the nurse is in the rate, yes, then they can show like the specific ETA times. 
+
+The ETA times includes like, for how many minutes nurse is going to join the facility, whether nurse is going to check in or not, by checking Actions. 
+
+Oh yeah, it makes sense. 
+
+I mean, all this messaging and all this react could happen on a website, or it could happen on a mobile app. 
+
+Okay, cool, cool. 
+
+Yeah, interesting. 
+
+Yeah, so that's great. 
+
+This is the kind of thing go ahead. 
+
+One thing for the best. 
+
+It is only the ACT. 
+
+Yeah, Not react. 
+
+Native X only react, and for the mobile front end, it's eliminated. 
+
+Okay, understood. 
+
+Yeah, makes sense. 
+
+Okay, so I wanted to do. 
+
+That's, this is all good. 
+
+That's good background. 
+
+I wanted to do a little bit of a sort of a Hands-On, uh, review. 
+
+Are you able to share your screen? 
+
+I kind of want to see the sort of if it's possible. 
+
+I mean, I can do it on my side, too, but I kind of wanted to see the a little bit of the tools and workflow that you would work with. 
+
+Is that something that you could share on your screen on this machine? 
+
+Or is it not really set up? 
+
+Is this machine not set up for it? 
+
+It's not set up on this machine. 
+
+Okay, okay. 
+
+So, then? 
+
+Okay, so that makes sense. 
+
+So, let's say, I've already sort of setting up prototyping where I'm sort of prototyping specific apps, and I wanted to. 
+
+I'm sort of curious what you would recommend if I wanted to start prototyping an app that was completely from scratch, and I was curious, like what you would recommend for that, right from the beginning, Okay, and I'll give you an example. 
+
+Let's, let's do like a solid example that we can that we could start with right away and just see how it goes. 
+
+Okay, okay, so we'll do it like an exercise. 
+
+It'll be fine. 
+
+Okay, so let's say, for example, I wanted to build a react website that lets players play a simple game against the computer like a tick tock-ho game, right? 
+
+Okay, so what would, how would I do that? 
+
+I mean, I mean, basically, like an AI agent can probably pretty much set this up, but I'm curious, like, what would you do. 
+
+If this was the task that was started from day one and I kind of want to start really simple. 
+
+And then we'll like scale it up and scale it up and see how, how far we can get even in like a few minutes. 
+
+Okay, perfect. 
+
+So my strategy will be different. 
+
+Every person have their different perspective. 
+
+So then, Then I am going to ask plotboard to just create a boilerplate react application for me, But it is going to do. 
+
+It is just going to create a updated react buyer plate, and that is simple. 
+
+Hello, world application. 
+
+What I am going to do. 
+
+I am going to download that react application and going to check it locally. 
+
+Whether it's running or not, because we are going to go step by step. 
+
+We cannot say the cloud code to just build the things, and then we are playing the whole code base again and again. 
+
+The very first thing I am going to say Cloud code is to like create a boilerplate for the react application, and there will be a like dashboard page that has the like welcoming message. 
+
+It can be like, welcome to Tic Tech again. 
+
+Then it is going to create a code, and then you are going to download it and what you are going to do. 
+
+You are going to run it locally after running it locally. 
+
+You will see, like, it's a good react application, which is going to be run exactly. 
+
+There is no, like, errors. 
+
+There is no stuff. 
+
+Okay, now the next step is like Going to ask the cloud code. 
+
+Now, add some pages on which user is going to enter his name, and there is a options like human versus human game and human versus computer game. 
+
+I am going to ask plot code to create room for the game, And then I am going to get the two or three screens code that is easily tested by me. 
+
+If I am going to get this thing changed, now I have the updated files I am going to override those updated files with the local setup and then see whether the room was created or not. 
+
+Now, everything's good player will come. 
+
+Player will add his To play Tic-tac-toe with computer or whether he want to play Tic-tac-toe themselves if they have to plays right now. 
+
+They have two different rooms like one for the human human one for the human computer. 
+
+Now, come to the next part. 
+
+Now, I am going to ask my llm like create a logic for the tic-tac-toe game, and it can be on different scenarios. 
+
+
+
+11:23 AM
+The very first scenario human will play with you, and you are going to play against the human right and the very second scenario you are going to just create a blank board, and that blank board is responsible for playing two players, and you are going to only check whether player one wins or play two games. 
+
+Another problem. 
+
+And now, plot code is going to give me some more code. 
+
+Now, this is the tricky part. 
+
+This is our app main like logic, which is going to be represented by the client. 
+
+So then I am going to check the things first. 
+
+I am going to play by computer and see whether it's good or not. 
+
+If I am going to see, like, it's not good. 
+
+There is some modification needed. 
+
+Then, instead of checking the human human, I first ask the cloud code to correct this human computer interaction, because maybe the same errors Claude code has repeated on the human human interaction for the same logic. 
+
+So, then I asked the llm like this is the thing I am facing. 
+
+I want to build in this manner. 
+
+This is like a technologic, and this is stuff like teaching the llm. 
+
+Like which, you are actually building. 
+
+Now, it is going to give me the code. 
+
+It happens like on the very first try. 
+
+You get the good code on the second. 
+
+Try maybe like two to three. 
+
+Try! 
+
+It depends, like, uh, teaching the llms very again and again. 
+
+Suppose I get the code, and now human computer game is good to go, and then after that, I'm going to ask the llm like, it's good. 
+
+Now, let me check the human human then. 
+
+I'm going to play Eminem, and most probably there will be no, like, error on that type because the logic is same checking logic system. 
+
+Good to go then. 
+
+I am going to ask the cloud code like, Maybe add some dialogue books, maybe add some pop-up if some player is going to win. 
+
+And then there is a option to clear the board and restart the game or play next game. 
+
+And these type of things exactly then. 
+
+This is the very end. 
+
+You can say that in five to six proms. 
+
+I can get my game easily, which will be tested for every step. 
+
+Some people do very commonly mistakes like they tell each and everything in one prompt. 
+
+They get the code, and then after that they are playing with the code like, this is not written. 
+
+This is broken. 
+
+This is not running. 
+
+This is not running the very good approaches, which I usually follow. 
+
+Like, go step by step and also test step by step. 
+
+Then, at the end, you will get the good product. 
+
+And then, after that, we can motivate more if we want to add. 
+
+Some like You can say that difficulty levels, and these type of extra Yes for MVP, and then up that we can add different steps. 
+
+Okay, make sense. 
+
+Okay, this is good. 
+
+So, I'm basically doing this right now, But I'm using Gemini, which is, like, basically the same as clock code. 
+
+I don't know if you do use Gemini before. 
+
+So, okay, so then I wanted to talk about some, uh, some additional changes. 
+
+Sorry, I should have prepped. 
+
+I should have prepped this ahead of time because it is going to take like 10 minutes to build the beginning of this of the app, but I'm starting completely from scratch, And I think I might have spelled something wrong. 
+
+Build a react website that lets users play Tic-tac-toe. 
+
+I mean, that should have kind of worked. 
+
+Oh, okay, so this is just Vita. 
+
+And then it wants. 
+
+I wanted to. 
+
+Uh, let me start it again. 
+
+Sorry, I should. 
+
+I should have did a little bit more prep To get it started. 
+
+Uh, When I actually have already, I just don't know that I'd put it in this folder. 
+
+I have an example that I started with, but I wanted to see if I could start from scratch and see how quickly it would spin up. 
+
+Um, I think, Okay, sorry, just give me just give me one second to find what I'm looking for here. 
+
+Okay, uh, because I do have some more like features that I wanted to get started on, but it's not even. 
+
+Oh, okay, here we go. 
+
+Okay, so here's an example, right? 
+
+Okay, so we so say. 
+
+In this case, I've I built an example, you know, I just went to AI Studio, which is, you know, basically like clock code, and now I have. 
+
+And I and I did what you said build a react website that lets the users play Tic-tac-Toe against the computer. 
+
+Easy, right, Yeah, and it's actually working. 
+
+It's looking good, and I can, you know, It's able to do this. 
+
+It's, it's a, it's an AI agent like it's able. 
+
+This is a simple, simple task. 
+
+Okay, so then my next step is. 
+
+So, we want to be able to set this up so that basically like thousands of people could play this game at the same time. 
+
+Yeah, that's kind of like our longitude. 
+
+It's about scalability. 
+
+Yes, yeah, so okay, so we don't need to do this All right. 
+
+So in the end, we want to get to that point, but right now we're at. 
+
+We're at the beginning, right, and right now. 
+
+This is kind of a prototype, so how could I get from this prototype to be to to be able to publish it on a website. 
+
+I mean, I have a published button. 
+
+I suppose I could just publish it on the website. 
+
+Um, and then would I be able to expect for this to scale to, you know, thousands of of users, Or would I, would I want do? 
+
+Would I have to make changes? 
+
+Do you think? 
+
+Okay, so you have never told the llm like this app is going to be run by how many number of users? 
+
+Yeah, it is, maybe llm is only thinking, like, you are creating it for fun for just learning purpose, and you are creating this app to just play a game, uh, with computer. 
+
+Now, you have to tell separately in the prompt. 
+
+Like, I'm creating this game to launch it properly, and I am expected this number of traffic per like, uh, at the same time, Right? 
+
+Yes, yes, yes, yes, okay. 
+
+Okay, so it will be easily, yes. 
+
+And then, it'll have to go through sort of a whole process. 
+
+Would have been like the same thing. 
+
+Yeah, it'll have to be like login authentication. 
+
+Multiple users that I can log in and authenticate with each other. 
+
+Yeah, or, or maybe Sorry, I think I'm. 
+
+Am I breaking up? 
+
+I'll I'll wait. 
+
+I think you froze. 
+
+Sean, I think you froze. 
+
+Let me, uh, Oh, you're back. 
+
+I stopped my screen share. 
+
+Yeah, I sorry, Sorry, uh, I was cut down. 
+
+Where was, I, like, yes, we are going to tell Gemini like, we are going to develop this application for this number of users. 
+
+Now, they comes comes a concept of like local instinct stuff. 
+
+Yeah, basically, uh, the optimization. 
+
+The end user includes, like, how we are going to deploy it, and for that optimized deployment using load balancer, and this type of working we needed, like, good optimize code. 
+
+I mean, there is a proper modular approach and we going to only scale one of the service. 
+
+Yeah, and we are not going to scale whole application these type of things. 
+
+Yeah, okay, yeah, that makes sense. 
+
+So in this case, I don't know if you've used like Gemini for these specific things. 
+
+But in Gemini, with the air studio, you hit the publish button, and then what happens is Google is going to publish it to, you know, their run.app, I don't know if you ever used this before, but this is Google Cloud run. 
+
+This is very close, I don't know. 
+
+Have you have you worked mostly with AWS or have you ever work with gzp or Azure? 
+
+Also work with. 
+
+I have also worked with GCP and also with this year. 
+
+Okay, so here, let me just show you so I don't know if you like. 
+
+This is sort of a specific setup that they have, but I'll log into my content, and I know about console Cloud, yeah, Really write the code, and these type of things. 
+
+Okay, so, so, like, I say. 
+
+So, for our prototype, I built the Prototype inside of here. 
+
+I push the deploy button, and Google is automatically deployed into Cloud run right, and now I should have a cloud run tic-tac-toe game tic-tac-toe versus the CPU. 
+
+So, here's the, here's the, here's the application. 
+
+It's already deployed. 
+
+Um, I should be able to show in here. 
+
+The scalable options edit revision, right? 
+
+And I currently have one CPU, But I have scalability options. 
+
+So, for example, this website, I could give you this website here. 
+
+Tell me, tell me if you can actually do. 
+
+I don't know if you're on a computer that can actually do that. 
+
+Can you click on that website and actually like load it? 
+
+Yeah, yeah, I can play. 
+
+Yeah, and you can click through right, and it kind of works, and it does its thing. 
+
+Okay, so I feel like this actually would be scalable. 
+
+I mean, I could send, you know? 
+
+This is a very simple toy example, but I feel like I can send this to 100 people or a thousand people, and they could all play against the computer, right? 
+
+No problem, simple example. 
+
+So, now, the next question, is this, what if I wanted to, uh, like, add the ability? 
+
+I don't know if you can still see my screen, but what if I wanted to add the ability to play chess or chess and checkers. 
+
+Okay, so what's the step for that? 
+
+I mean, I mean, as you talk through it, I probably would just ask the, you know, I could probably just ask Gemini to do it, but the next parts are going to be hard because it's going to be like now that I have the Prototype working here. 
+
+Now that I have the website, how do I get access to this code. 
+
+I want to get this app so I can start working with it locally, so start thinking about that, but I'm going to post. 
+
+I'm going to post this into here. 
+
+I'm just curious to see if, Uh, if Gemini could just do it. 
+
+And I think it probably will. 
+
+Uh, it will, yeah, go. 
+
+Go ahead. 
+
+Yes, I'm saying, like, it will work so you can add, like, let's add checker and chess game with Sonor. 
+
+I want to play A different. 
+
+I want to play a different ELO levels, you know. 
+
+I don't know if you know about this, I want. 
+
+Uh, so I want, Um, the user to be able to Table to select sorry. 
+
+Let me just type this in select different levels, and this ELO level is in chess. 
+
+I don't know if people have ever play chess, but this is like the sort of Difficulty, right? 
+
+If I want to be able to. 
+
+I want. 
+
+I want to be able to dial the difficulty of the game, and I'm not really doing anything. 
+
+
+
+11:34 AM
+I'm just saying, hey, I want to build chess and checkers, and then let's let, uh. 
+
+The Aged try to do. 
+
+It was concerned. 
+
+I don't know why. 
+
+Okay, yeah, yeah, you're right. 
+
+I'm gonna do it again. 
+
+I might have canceled it. 
+
+Okay, there it goes so, But I should probably let me give it one more. 
+
+One more thing. 
+
+So, let's say, Uh, let's add that. 
+
+I want to play checkers and chess different evil levels, Uh, let's Make the main Screen. 
+
+Allow the, Uh, main screen a menu where the user can choose that game. 
+
+Choose the game I want to play, right? 
+
+You do something like this basic setup. 
+
+Okay, so that's going to run that. 
+
+That's probably going to take a few minutes. 
+
+And yeah, sorry, I should have had these up ahead of time because but, but I mean, we have a little bit more time, so we'll let that run. 
+
+So, now Say I had this set up as my prototype, and I was deploying this. 
+
+Do you have the feeling for how we would get this code so that we could make our own local changes, Uh, whole code? 
+
+So, there are two things, uh, I have tried these things with the plot code. 
+
+The very first thing just I said, like in start. 
+
+I asked for the Like. 
+
+Code base boilerplate, in which it return the whole project, and I can download it. 
+
+Yeah, and after that, when it is going to provide me the code, I can replace those code and see what the changes it has made. 
+
+Another thing, what I can do, I can do and ask this is the gcp, and I ask it to like create a GitHub repo, yeah, and it can create a private GitHub repo. 
+
+Yeah, and then you will have access to all the code base and this code base. 
+
+Now you can create TRS for the changes. 
+
+You can download the code base for the local run, and these type of things exactly. 
+
+Okay, yes. 
+
+So, let me do that here. 
+
+So I, I feel like it didn't do. 
+
+I'm not sure that The Gemini was same as clock code. 
+
+I should be able to prompt it. 
+
+Okay, so in this case, yes, you could just prompt it. 
+
+But in this case, I only have, uh, you know, I only have the tool running on the website. 
+
+I have it deployed. 
+
+It's sitting inside of Google Cloud run, But with Google, I can also do this So I can publish. 
+
+That was how I got into Cloud run, but I can also do GitHub, and I can give it a repo name so I can do like, test, game, And Test game, and I can make it a private repo, just like you said, right? 
+
+Uh, no, this is like testing, Right? 
+
+So, I got a repo name, and I got a repository, and it's private, and it'll push it. 
+
+So, here we go. 
+
+We'll do this. 
+
+This is like this is how Jay. 
+
+Basically, Gemini is going to work it out. 
+
+Okay, so now see that I got on. 
+
+My I got on my software. 
+
+It's ready to Stage. 
+
+I'm going to push it to GitHub, And now I have a private repo with this game included. 
+
+Say, Yeah, and they give you the link to right there, And it's able to run the code, and I can look at the look at the deployed version. 
+
+So, what? 
+
+I'll so what I'll do now is I'm just going to grab this. 
+
+Yeah, so we'll clone this. 
+
+I'll just clone it locally, Uh, I'll clone it into this folder. 
+
+What's it called test Dash game? 
+
+Okay, so I'm gonna do, Uh, test underscore game. 
+
+We'll run the get clone options, right? 
+
+Okay, so now I should have test Dash game. 
+
+Sorry, this font might be too small for you. 
+
+Let me know. 
+
+Let me know if you can't read it All, right? 
+
+So, now we got test game, and This code Should look exactly like this game, right? 
+
+Yes, so how? 
+
+How can I run it now that I have this Code base? 
+
+Okay, first of all, go to the port file locally. 
+
+Yeah, in the vs code, Uh, I would say it makes it a little bit easier to use anti-gravity. 
+
+Do you know, have you ever, you ever used antigraphy? 
+
+I have I have a good integrity. 
+
+Yeah, yeah, so I'll use anti-gravity rather than vs code just because it's, it's better with all this Gemini stuff. 
+
+Let me just, uh, yeah, sure. 
+
+Let me find it. 
+
+It's it's vs code. 
+
+I mean, it's basically vs code, Uh. 
+
+But sorry, let me just open my window. 
+
+Here's my editor. 
+
+Okay, so I'm going to do open folder just because I've already been, you know, building a bunch of shit with this, And it's in Dev and it's called test game, right? 
+
+So, I'm going to go to test game and let me save all this first, and then it should Hopefully Completely refresh. 
+
+Okay, so here I am. 
+
+I'm in here. 
+
+Here's all the code for this game. 
+
+Well, I just grabbed directly from Gemini. 
+
+I didn't do anything else with it. 
+
+I got it right from AI Studio. 
+
+Okay, so now, what do I do? 
+
+How do I get this thing to run? 
+
+Okay, can you open that terminal in the anti-gravity? 
+
+Yes, sir, I will do that. 
+
+Okay, so here's my terminal I'll and I'll go into the okay. 
+
+I'm in the folder, so I'm in the terminal now. 
+
+Now, what should I do to get this thing running? 
+
+Okay, perfect. 
+
+So, first, you have to write the npmi to download the mode Packages npmi N Space. 
+
+I oh install, like this, right? 
+
+Yeah, hit enter? 
+
+Yes, All right now. 
+
+Let me start another shell, Just so we have two. 
+
+And I don't. 
+
+I think I can only put them side by side. 
+
+I'll get rid of this. 
+
+It's done. 
+
+Okay, so npm and npmi is run. 
+
+Yes, yes. 
+
+Now you can run the command. 
+
+Npm run Dev. 
+
+Okay, so npm run space. 
+
+Yeah, right. 
+
+And now, you should give me up. 
+
+Now, you can go to the localhost link 301, right? 
+
+Okay, so we'll go to my browser, Uh, let me start a new one because I got Okay, so we'll go here. 
+
+Yeah. 
+
+So there we go. 
+
+Okay, so now we have the app. 
+
+It's running locally, right? 
+
+And then. 
+
+So, in this case, Uh, let me go back to. 
+
+Okay, so now, it's running. 
+
+It's running in the foreground. 
+
+I'm going to put it in the background just to keep it up and running. 
+
+But in this case, I'm going to run Here. 
+
+Let's just use this guy on the side, so I got my guy on the side here and I'll be like Make dirt. 
+
+Maybe I want Now. 
+
+I've got a scripts folder. 
+
+I'm going to say, Uh, can you make a script in the scripts folder to, Uh, folder, to start and stop the game? 
+
+Uh, let's do like, start, stop status, logs, Right? 
+
+So, we're gonna have, like, a little it'll it'll write a little shell script inside this folder, and that way we can see, like, is it running? 
+
+Is it stopped, right? 
+
+And this is sort of our like local prototype, right, Perfect? 
+
+Okay, Yeah, I'm sort of, I've gone. 
+
+I've gone through this a few times. 
+
+I just wanted, you know, I wanted to like work with it with you to just to make sure that all these Concepts I'm really familiar to you. 
+
+Like, like I say in this day and age, a prototype, you're pretty much gonna get an agent to help you build it. 
+
+You're not going to just yeah, because, like, how long would it take for even like a skilled software developer to go through and write all this CSS and to go through and write all this code by hand would take hours. 
+
+And I'm I'm in, like two, three minutes, and it's building itself, so it's perfect, right? 
+
+Yeah, you see what I'm saying. 
+
+Okay, so it's like actual beauty of AALN exactly, especially for this quick prototyping. 
+
+I mean, I, you know, obviously, I'm gonna I have examples, but I have, uh, stuff that I'm working on that's larger scale, but say I wanted to spin up a prototype. 
+
+For example, let's say I had, like a, an investor or a client who wanted to see a prototype of a product like today or tomorrow, or like in the next couple hours or you wanted to do a demo of something really quickly. 
+
+This is the perfect example for prototypes like that, right? 
+
+Okay, so it's going to run. 
+
+So, now, it's generated the script for me, Uh, let's, let's run it. 
+
+Let's, let's just read it real fast. 
+
+So, here's my scripts folder, Um, blah, blah, blah. 
+
+It's pretty easy. 
+
+It does start stop logs. 
+
+Okay, so accept the changes. 
+
+So, here's my script. 
+
+And yeah, it's pretty much what you would expect start, stop your status, logs, Etc. 
+
+So, I'm just going to run it. 
+
+So I'll do game status. 
+
+The game is running, Uh, but it's missing a process ID that's probably fine. 
+
+Let's do stop game is stopped status. 
+
+Let's see, oh, it's not able to stop it because it doesn't know the port. 
+
+We put it back in the foreground. 
+
+Oh, it did stop it. 
+
+Status okay, game is not running. 
+
+Stop game is not running start. 
+
+So now, it has a process ID. 
+
+See that, And it's got logs, so we'll do status. 
+
+Yeah, Yeah, so there it is. 
+
+See that it's already done. 
+
+Yeah, so now I can do Tic-Tac-Toe. Same as before that worked, uh, I've got a chess engine. 
+
+Let's see if it works. 
+
+Just click and then press the A block. 
+
+Yeah, it might. 
+
+I don't know if it needs to drag anyway. 
+
+If it doesn't work, you know, it's easy to fix. 
+
+We can just keep prompting it. 
+
+Let's try this one. 
+
+Yeah, see, that's working. 
+
+Okay, perfect. 
+
+So say, we've prototyped this real quick. 
+
+It looks like it's good, and then we're going to. 
+
+This hasn't updated yet, so all I'm going to do is just going to publish it, right? 
+
+So, we'll publish it. 
+
+It's already published. 
+
+I think it's going to give me the update option. 
+
+No, it's the same process update. 
+
+Publish it again. 
+
+Yeah, did the same. 
+
+It's rebuilding the app. 
+
+This might take a minute, and then once it's done, Your app is being published Fully automatic, right? 
+
+No problem. 
+
+Click at the open button takes me back to the same link. 
+
+Boom. 
+
+Okay, so now we've got our. 
+
+We've got our three game version. 
+
+Looks good, right? 
+
+So okay, so then we'll do so. 
+
+So, let's say, this is now. 
+
+So, let's start with a tic-tac-toe, so this is done, Uh, let's get add three games that's now done. 
+
+Okay, so we want to get the code into GitHub and do a private repo. 
+
+We did that right, so that's done. 
+
+Yeah, so that now we're it's sitting in a private repo. 
+
+Um, and then we got a few more things that we want to jump to. 
+
+So, let me just separate these just so we can go through the process here. 
+
+Contact experience. 
+
+The users can apply feedback. 
+
+We can do that Google Authentication. 
+
+We could probably do that. 
+
+That's probably possible, right? 
+
+And we could basically just keep prompting, uh, but let's add, allow players to Jeep to to log in with their Gmail local Dev. 
+
+
+
+11:46 AM
+So, at some point. 
+
+Know that Gemini is going to be able to provide these levels because it's sort of. 
+
+It's a simplified agent, and it's not necessarily going to be able to do these, but we'll try it, right? 
+
+Let's try it. 
+
+Let's just try it, since we, you know, we've got a few minutes. 
+
+Uh, okay, so we're gonna go back to here. 
+
+I'm going to Go to GitHub, and it should give me the updates. 
+
+So, you see, what's in here now? 
+
+I got my chest and my Checkers and all that right. 
+
+State stage this, so that's going to go to GitHub. 
+
+Okay, so now, now what do I do now that I have this updated version, and I want to continue working on it locally. 
+
+What should I do next? 
+
+You have to pull the repo which you have blown, Which I have cologne. 
+
+Yes, and I should be able to do that right here, right? 
+
+Oh, so this is, oh, this is going to want to commit my changes, right? 
+
+This is, yeah, these are my my script, so I'll commit these. 
+
+I don't know if it's gonna want, Uh, yes, so I'll say, uh, added start. 
+
+I did start stop script, right? 
+
+Yeah! 
+
+And then, I guess, just save it. 
+
+Run that okay. 
+
+Seek that change, sync the change, and it should pull. 
+
+Oh, but I got an error Show log, So it's telling me I have to pull from origin, Which is Go open, new 10 minutes And just write git Branch, Uh, the branch name is here. 
+
+I don't think we started any branches, but yes, go ahead. 
+
+Yeah, so I only have the main branch. 
+
+Oh, you could write. 
+
+Get full origin, main Get pull, origin Man, yeah, yeah, yeah, yeah. 
+
+And so, basically, this is the same. 
+
+It's kind of an error, but it's sort of. 
+
+I need to set this preference, so I'll just set it to. 
+
+I mean, do you have a? 
+
+Do you have a feeling for which preference is best here? 
+
+Uh, it's fast forward. 
+
+Yeah, Okay, you want to do fast forward. 
+
+I don't think it matters. 
+
+I think they all basically work at this point. 
+
+Okay, so I'll do fast forward. 
+
+And then I'll run main again On. 
+
+And do I want a main or do I want to do? 
+
+I want to merge, or do I want to rebase Rebase Rebase is better, sure? 
+
+Okay, so hopefully gipple origin main okay, and I think it worked. 
+
+Now you see the, Uh, changed code. 
+
+Yeah, there it is. 
+
+Chess and Checkers is here. 
+
+Uh, the game is running. 
+
+Oh, this is the sorry. 
+
+This is the output. 
+
+This is my terminal. 
+
+Okay, so now, I still got my game running, although it's it's been a bunch of errors, obviously, because it just grabbed it. 
+
+Just downloaded a whole bunch more code. 
+
+You know what I'm saying, Okay, I know why errors. 
+
+You have to run the command. 
+
+Npmi, yeah. 
+
+So basically, you saw what happened already. 
+
+I mean, I had the game server running, and then I'd like inject it. 
+
+Like, I drastically modified the game over there with AS Studio and I ejected a bunch of code, and now it's like crazy confused, because now it's like live running code. 
+
+So probably what I should have did. 
+
+In this case, I should have stopped the service, right? 
+
+Probably stop. 
+
+Uh, Oh, it pulled my. 
+
+It pulled out. 
+
+It removed. 
+
+My script Manuscript. 
+
+Is there Hold on, hold on? 
+
+Let me see, uh, because the branch changed or the rebase change. 
+
+Okay, there's the script. 
+
+Okay, so Status, I'm just gonna stop it because I know that it's gonna be a little bit messed up, and then we'll try to do so. 
+
+This is a you see what happened. 
+
+I got a rebased. 
+
+I got no Branch because it's it's in the middle of a rebase because I did. 
+
+I did it in this other shell, but I still should be able to, Uh, pull, And it's probably going to want me to push it. 
+
+But now, it's like, Broken, Well, uh, I know why it's broken. 
+
+Can you go to, uh, third option, in the vs Anti-Gravity? 
+
+Yeah, gate tops gate, The third option from the left sidebar One, two, three edit or selection website left, sidebar left side bar, oh down here. 
+
+Yeah, run a debug or Get get third one Json file. 
+
+Click it. 
+
+Yes, you can see it here. 
+
+So, oh yeah, accept incoming. 
+
+Incoming. 
+
+The four options above the green paragraph, exactly to accept, accept incoming changes. 
+
+Okay, yeah. 
+
+And just do that from. 
+
+Yeah, accept incoming, Uh, and I think, oh, there's gonna be a bunch of them. 
+
+Yes, I don't know if I have the option to just accept them all. 
+
+Oh, because this is like, packages have changed. 
+
+Yeah, except incoming. 
+
+Should I just do it for all of them? 
+
+Yes, because it's these are the conflicts you have to go. 
+
+It's like, I've made these remote changes, and now it's all confused. 
+
+This is gonna this is gonna be a while. 
+
+There's no option to just accept them all right resolved with merge manager. 
+
+Maybe it's just going to allow and you will see side by side? 
+
+Yeah, Maybe this is better. 
+
+I mean, normally, I would just Okay. 
+
+So, let's, let's make this a little bit quicker. 
+
+So the only thing I have in here is my script, right? 
+
+So, in this case, what I might do is like, I'm just going to copy the script These. 
+
+These things are not because of your scripts. 
+
+No, no, it's not. 
+
+So, what I'm gonna do? 
+
+I'm gonna just resolve this problem quickly. 
+
+I'm just going to, like, pull up. 
+
+I'm gonna blow away all my local changes, so I'll make a backup of my script. 
+
+And then I'm gonna do. 
+
+I'm just gonna pull all the changes and just do get, Uh, pull yeah, reset, Get preset there. 
+
+No, no, get instead of get. 
+
+Yes, get reset Hard. 
+
+That's this arm? 
+
+Yes, Space origin, slash main, yeah. 
+
+So, let's just wipe it out because we didn't do anything locally that I cared about, and I don't want to answer all these questions, right? 
+
+This is like taking way too long. 
+
+I should be able to crank this out quicker than this. 
+
+Yeah, so with this. 
+
+Okay, so now I've reset it to origin Main. 
+
+Now you can paste the script. 
+
+Okay, yeah, I'll copy it back. 
+
+Okay, so get full, but my branch is still broken. 
+
+Uh, how do I get rid of the the rebasing? 
+
+Get, uh, check out origin. 
+
+Main right, I should be able to just check out Main and just fix it, But I need to force it. 
+
+Yeah. 
+
+I feel like I did the reset wrong. 
+
+Your reset is good, then, I but but still, I'm still rebasing. 
+
+I guess I need to do rebates. 
+
+First, you have to get checkout. 
+
+Let me see what gets breaks. 
+
+Yeah, see the problem. 
+
+Okay, so check out Main. 
+
+Yeah, there we go. 
+
+Now, now you can write the command, get reset, Dash, dash, head origin, yeah. 
+
+Okay, so we'll go back to reset Hard or Humane. 
+
+Okay, so, and then pull, and I should be able to pull from Maine, and that's good. 
+
+And push everything is all cleaned up. 
+
+My script support is probably empty, but fortunately, I copied my script Into the temp folder. 
+
+So, I'm going to copy it back, right? 
+
+So, I'll copy this the script back. 
+
+Uh, so now I have game so I can do. 
+
+The status Game is not running stop game, right? 
+
+So, in this case, I could say. 
+
+Status Diff and commit recent changes. 
+
+I'm just going to ask this thing to do it because I mean, it's, it knows what it's doing. 
+
+Okay, so now I got my script. 
+
+I'm going to run the game again, and I should. 
+
+So when I won this game. 
+
+I should have the changes, right? 
+
+I should. 
+
+I should have the local copy with the three games attached. 
+
+Yeah, right, shouldn't I? 
+
+Okay, so there it is, it's running. 
+
+So I got 3001. 
+
+Let me go back to my browser. 
+
+Okay, now can you please write npmi? 
+
+Yes, so let's do that. 
+
+So let's troubleshoot this. 
+
+And again, I would probably. 
+
+I mean, I could just give these errors back to Gemini, and it would fix it. 
+
+But let's say, let's do that. 
+
+These are the like packages and missing packages. 
+
+Okay, so we'll do, I'm gonna do. 
+
+I'm gonna do stop first, just to stop it, right? 
+
+Yeah, stop status and npmi, Yeah, oops. 
+
+Okay, so now it's going to rerun everything. 
+
+And now I can start it, Maybe, and then logs. 
+
+Yeah, so we just meet. 
+
+So, we just needed the, Uh, all the packages. 
+
+Yeah. 
+
+So, what I might do? 
+
+Can you update the script to add the npmi for every time you start the game? 
+
+So, I'll just I'll ask it to do this, and then we can go do something else and come back, Uh, if you have is run, Uh, packages. 
+
+Installed. 
+
+Okay, so that's good, Uh. 
+
+And we have our game, and I think at least the Checker side is working. 
+
+Okay. 
+
+So, now, again, we've got our local copy. 
+
+Yeah, And that's pretty good. 
+
+I mean, we got pretty far. 
+
+This is the next part that I would do. 
+
+I don't, but the the only thing I would say is I, I would potentially. 
+
+I would ask like you could. 
+
+We could ask this Ai Studio to do this. 
+
+It might actually work, but now we have the copy that AI studio is running right? 
+
+We also have the local copy. 
+
+That's, and we so with the AI studio is running this version, and we have our own local copy, Which works Um. 
+
+And we have all the code inside of git. 
+
+So, yeah, I feel like we sort of made quite a lot of progress on a prototype we could have made. 
+
+We could make more. 
+
+Um, yeah, so that's good. 
+
+Okay, cool. 
+
+Yes, I, I think we're kind of, uh, how much time did I have? 
+
+I do have to Let me just check, Uh, where's my calendar? 
+
+Did I do 11 to 12? 
+
+Okay, yeah. 
+
+So we're sort of out of time, but that was a good exercise. 
+
+I feel like we kind of got through it, you know, we worked it together. 
+
+We, we have a copy of code. 
+
+We actually have something functional, which is pretty good. 
+
+Um, Let me show you a really quickly. 
+
+Some of the stuff that I'm working on and then we can sort of wrap it up. 
+
+Yeah, Let's see. 
+
+Okay, so here's an example Of, Uh, let's do this. 
+
+So I'm working on this website, which is not really publicly available, which is why I kind of gave that it, you know, the NDA option and stuff, but I'm basically working on a similar sort of app. 
+
+Um, but this app is somewhat complicated, but it's basically like, like an AI agent assistant. 
+
+Okay, right, and though the the way the assistant, I'm sort of. 
+
+I'm trying to set it up so that if there's lots of different options, but this is a website where You know users can log in and get assistance with the whatever you know, things they want in their life. 
+
+So, I'm working on things like a project management system where you can add projects and tasks, right? 
+
+Um, there's like health and nutrition where you can. 
+
+It will sort of automatically track the the food that you're eating or the exercise you're getting. 
+
+You know, these kind of things it's like a personal assistant sort of app. 
+
+And of course, there's an agent on the side where you. 
+
+You can speak to the to the AI driven agent, and you can ask the agent basically about anything that you have inside of your app. 
+
+You see, what I mean, and it's kind of a sort of open claw similar setup, but basically driven on the website, right? 
+
+So, this is kind of the direction I'm traveling. 
+
+And I gotta say that pretty much, you know, you know, this even on app like this. 
+
+That is pretty functional. 
+
+
+
+11:59 AM
+It's sort of beta at this point, but it's working pretty well, and it's sort of being able to be driven by a single person. 
+
+So, the other thing I'm working on is I'm trying to. 
+
+I'm basically scaling parts of this app down so that I can get them as as apps in the App Store. 
+
+Uh, so that's like, for example, this. 
+
+So, this is like Mobile version. 
+
+This should run, give it a second. 
+
+Unless I broke my dev version. 
+
+Yeah, yeah. 
+
+So, this is basically like a mobile version Of one of the modules inside the main app. 
+
+You see what I'm saying And And it's pretty functional back end front end. 
+
+Um, it's running. 
+
+It has its own URL. 
+
+It's running in Google, Google Cloud Cloud run. 
+
+It's basically operating through the Gemini standards of how Gemini wants to build it. 
+
+How Gemini wants to deploy it, and it's scalable and functional, and the same thing. 
+
+I mean, I have a chat agent So that the chat agent you can basically ask it about anything that's inside of the app. 
+
+And it's like, it's like a mobile app, but a little bit more intelligent because it has this built-in intelligence. 
+
+You see what I'm saying, and it basically followed the model that we followed right here. 
+
+Everything is inside of git, but it's also locally copied, but it's also deployed to Cloud run, and it's it's scalable. 
+
+It's functional. 
+
+Do you see what I'm saying? 
+
+This is kind of the direction I'm traveling. 
+
+So, yeah, Um, anyway, so I want to show you like the direction I'm going with, but I felt like we did a like. 
+
+This was an excellent exercise. 
+
+I, I feel like I got your background, uh, I feel like I got some good ideas about the kind of things you worked on, uh, I feel like we did a really great exercise and we kind of worked on an option that let's prototyping happen in this simple way. 
+
+But yeah, I wanted to start close up. 
+
+Did you have any questions, or did you have anything else you wanted to mention before we wrap it up because I should leave it? 
+
+Probably 12, 15 Got the latest And felt like everything is pretty much clear to me. 
+
+Like that, Grand stuff you are actually doing, but you are actually expecting from my side, and everything is clear to me. 
+
+Yeah, I really love this Instructive exercise. 
+
+Yeah, yeah, so pretty Hands-On. 
+
+Yeah, so, Uh, but but you also got to see a little bit how I'm working and how I'm setting stuff up. 
+
+So, yeah, it's good, okay, cool. 
+
+Um, Yeah, I don't think I have any more questions. 
+
+I mean, I have your resume, um, like I say, I'm pretty early in the process, so I'm still getting to the point where I get all the have all the funding and everything together to start hiring, but yeah, I had a great chat. 
+
+I really had a good time talking, and I feel like I have what I need. 
+
+I can get back to you once. 
+
+I'm at the point where I'm ready to start hiring and getting getting the team spent up Perfect. 
+
+Yeah, that's very nice. 
+
+Yeah, okay, yeah, yeah, thanks. 
+
+Okay, bye now! 
+
+Or something, or was he, What? 
+
+10, 57 a.m. 
+
+okay, trying to all right, okay? 
+
+...

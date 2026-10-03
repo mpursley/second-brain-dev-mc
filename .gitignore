@@ -1,0 +1,26 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Obsidian — keep the vault config out of git, it is machine-local
+.obsidian/
+.trash/
+
+# Scratch
+*.tmp
+.scratch/
+
+# Secrets — nothing credential-shaped belongs in a notes repo
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+token.json
