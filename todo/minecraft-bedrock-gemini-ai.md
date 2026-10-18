@@ -7,8 +7,8 @@ Project page: [Minecraft Bedrock AI Companion](../wiki/projects/minecraft-bedroc
 | Feature ID | Version Series | Major Feature Pillar | Priority | Depends On |
 | :---: | :---: | :--- | :---: | :--- |
 | **`F0`** | **`v0.x.x`** | **Project Setup, Baseline Bot (`v0.0.1`), Version Plan (`v0.0.2`), Diagnostics (`v0.0.3`), Persistence (`v0.1.0`)** | **P0 (Setup)** | — |
-| **`F1.0`** | **`v1.0.x`** | **Pre-Planned Action Queues (`action_queue[]`) & Event-Driven Hooks (`TASK_DONE`, Activity Mirroring, Discovery)** | **P0 (Major 1.0)** | `F0` (`v0.x`) |
-| **`F1.1`** | **`v1.1.x`** | **Procedural Human Micro-Behaviors (`idleHumanizer.ts`) & Instant Push-to-Talk "Look at Player" Reflex** | **P0 (Major 1.1)** | `F1.0` (`v1.0.x`) |
+| **`F1.0`** | **`v1.0.x`** | **Pre-Planned Action Queues (`action_queue[]`) & Event-Driven Hooks (`TASK_DONE`, Activity Mirroring, Discovery)** ✅ | **P0 (Major 1.0)** | `F0` (`v0.x`) |
+| **`F1.1`** | **`v1.1.x`** | **Procedural Human Micro-Behaviors (`idleHumanizer.ts`) & Instant Push-to-Talk "Look at Player" Reflex** ✅ | **P0 (Major 1.1)** | `F1.0` (`v1.0.x`) |
 | **`F1.2`** | **`v1.2.x`** | **Dual-Loop Brain (`Loops A/B/C`), Place-Bound Conversational Memory (Coords, Landscape View, Player Stats/Inventory) & Landmarks** | **P0 (Major 1.2)** | `F1.0`, `F1.1` |
 | **`F2.0–F2.2`** | **`v2.0.x–2.2.x`** | **Multi-Agent `BotManager`, Simulated "AI Server" Toggle, Craftable Admin Tool, Invites & `TP / Kick / Ban`** | **P0 (Major 2.x)** | `F1` (`v1.x`) |
 | **`F3.0–F3.2`** | **`v3.0.x–3.2.x`** | **Random Player vs. 5 Specialist Roles (`Miner`, `Forester`, `Farmer`, `Bodyguard`, `Hunter`), Auto-Armor & Inventory UI** | **P0 (Major 3.x)** | `F2` (`v2.x`) |
@@ -21,17 +21,12 @@ Project page: [Minecraft Bedrock AI Companion](../wiki/projects/minecraft-bedroc
 
 ## Open Checklists by Aligned Feature & Version Series
 
-### `F0` (`v0.x.x`) — Project Setup, Diagnostics & Persistence Plumbing
-- [ ] **`v0.0.3` (`F0.0.3`)**: Add `/ai:bot status` & `/ai:bot queue` diagnostic commands + live `[AI_EVENT]` inspector in Web HUD
-- [ ] **`v0.1.0` (`F0.1.0`)**: Build `WorldStore` wrapper around `world.setDynamicProperty` for persistent waypoints, bed homes, and banned/invited bot lists
-- [ ] **`v0.1.1` (`F0.1.1`)**: Pre-`v1.0.0` movement, chunk-loading, and WebSocket reconnect stabilization
-
 ### `F1` (`v1.x.x`) — Human-Like Brain, Reflexes & Episodic Continuity
-- [x] **`v1.0.0`–`v1.0.3` (`F1.0` Core built in `v0.0.2` branch)**: Pre-Planned Action Queue (`action_queue[]`), `TASK_DONE` / `QUEUE_DONE` hooks, Player Activity Mirroring (`playerBreakBlock` x3), and High-Value Discovery / Mob Kill / Critical HP reactions
-- [ ] **`v1.1.0` (`F1.1.0`)**: `idleHumanizer.ts` with Dynamic Gaze Tracking (`60%` waypoint/block, `25%` player eyes, `15%` nearby entities/items/caves)
-- [ ] **`v1.1.1` (`F1.1.1`)**: Sprint-Jumping overworld traversal (`> 10` blocks on safe terrain) + Reciprocal Double-Crouch Greeting (`0ms` LLM latency)
-- [ ] **`v1.1.2` (`F1.1.2`)**: Curious Item Inspection & Hotbar Fidgeting (walk up to dropped items, look down `1s`, pick up, hold in main hand)
-- [ ] **`v1.1.3` (`F1.1.3`)**: Instant Push-to-Talk "Look & Acknowledge" Reflex (`0ms` WS ping when Spacebar/Mic is pressed)
+- [x] **`v1.0.0`–`v1.0.3` (`F1.0`)**: Pre-Planned Action Queue (`action_queue[]`), `TASK_DONE` / `QUEUE_DONE` hooks, Player Activity Mirroring (`playerBreakBlock` x3), High-Value Discovery / Mob Kill / Critical HP reactions, and `/ai:bot status` & `/ai:bot queue`
+- [x] **`v1.1.0` (`F1.1.0`)**: `idleHumanizer.ts` with Dynamic Gaze Tracking (`60%` waypoint/block, `25%` player eyes, `15%` nearby entities/items/caves)
+- [x] **`v1.1.1` (`F1.1.1`)**: Sprint-Jumping overworld traversal (`> 10` blocks on safe terrain) + Reciprocal Double-Crouch Greeting (`0ms` LLM latency)
+- [x] **`v1.1.2` (`F1.1.2`)**: Curious Item Inspection & Hotbar Fidgeting (walk up to dropped items, look down `1s`, pick up, hold in main hand)
+- [x] **`v1.1.3` (`F1.1.3`)**: Instant Push-to-Talk "Look & Acknowledge" Reflex (`0ms` WS ping when Spacebar/Mic is pressed)
 - [ ] **`v1.2.0` (`F1.2.0`)**: Rolling 10-Event Episodic Memory (`recent_events[]` in `[AI_STATE]`)
 - [ ] **`v1.2.1` (`F1.2.1`)**: Named Spatial Landmarks (`home_bed`, `last_mine_shaft`, `player_death_spot`) + `timeOfDay` sunset return
 - [ ] **`v1.2.2` (`F1.2.2`)**: **Place-Bound Conversational & Contextual "Flashbulb" Memory (`EpisodicMemoryStore`)** — Remember what Players said to the AI bot at specific places/points along with `[x, y, z]` coordinates, landscape view (voxel terrain/raycast vista + AI Vision scene summary), and player/bot stats & inventory items (HP, hunger, armor, mainhand, inventory counts) + automatic recall within `15` blocks
@@ -77,7 +72,9 @@ Project page: [Minecraft Bedrock AI Companion](../wiki/projects/minecraft-bedroc
 ---
 
 ## Done
-- [x] **`v0.0.2` (`F0.0.2`)**: Create aligned `F0`–`F7` (`v0.x`–`v7.x`) `VERSION_PLAN.md` and implement `action_queue[]` + `[AI_EVENT]` hooks on `feat/v0.0.2-action-queue-hooks`  <!-- done:2026-10-18 -->
+- [x] **`v1.1.0` (`F1.1`)**: Implement `IdleHumanizer` (`idleHumanizer.ts` — Dynamic 60/25/15 Gaze, Sprint-Jumping, Reciprocal Double-Crouch Greeting, Curious Item Inspection, and `0ms` Push-to-Talk Mic Look Reflex)  <!-- done:2026-10-18 -->
+- [x] **`v1.0.0` (`F1.0`)**: Implement Pre-Planned Action Queues (`action_queue[]`), Event-Driven Hooks (`TASK_DONE`, `QUEUE_DONE`, `HIGH_VALUE_DISCOVERY`, `MOB_KILLED`, `CRITICAL_HEALTH`), Player Activity Mirroring, and `/ai:bot status`  <!-- done:2026-10-18 -->
+- [x] **`v0.0.2` (`F0.0.2`)**: Create aligned `F0`–`F7` (`v0.x`–`v7.x`) `VERSION_PLAN.md` and roadmap  <!-- done:2026-10-18 -->
 - [x] **`v0.0.1` (`F0.0.1`)`**: Release `v0.0.1`, rename project to `c:\dev\minecraft-bedrock-ai`, add `release-notes.md`, and open PR #1 on GitHub  <!-- done:2026-10-17 -->
 - [x] Bootstrap Minecraft Bedrock Behavior/Resource Pack + Node.js Companion Bridge  <!-- done:2026-10-17 -->
 - [x] Add WebRTC live game window capture, voice chat, customizable TTS voice/speed/pitch, and per-line `🔊` re-speak button  <!-- done:2026-10-17 -->
