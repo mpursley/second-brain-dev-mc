@@ -167,3 +167,12 @@ flowchart TD
 - [x] **`F7.1` (`v7.1.0`–`v7.1.1`)**: `VillageChatBus` Agent-to-Agent Communication, Task Coordination & Raid Alerts.
 - [x] **`F7.2` (`v7.2.0`–`v7.2.1`)**: `AgentTradeSkill` Physical Bartering Meetups & Specialist Economy Loop.
 - [x] **`F7.3` (`v7.3.0`–`v7.3.3`)**: `VillageBuilder` Cooperative Multi-Agent Village Construction (Cottages, Storage Barn, Smeltery, Farms, Watchtowers, Lit Roads & Walls).
+
+---
+
+### `F8` (`v8.0.0`–`v8.1.0`) — Dry-Land Station, Continuous Explore Brain, Natural Dialogue & Team Planning Mode
+- [x] **`v8.0.0`**: Dry-Land Beacon Bot Station (`findDryLandStationSpot`), underwater station cleanup, handheld `✦ AI Companion Remote ✦` (`minecraft:clock`), and 2-block player personal space buffer.  <!-- done:2026-10-18 -->
+- [x] **`v8.1.0`**: Continuous Gemini-driven `Explore Mode`, gesture mode switching (`duck-duck` crouch & emotes), 5-stage natural progression advisor (`dialogEngine.ts`), staircase anti-oscillation fix, 64-block wood search expansion, and ASCII-safe `[AI_STATE]`/`[AI_EVENT]` logging.  <!-- done:2026-10-18 -->
+- [x] **`v8.1.0`**: Team Planning & Colony Mode (`VillageManager` + `BuildingSkill` `house`, `beds`, `farm_plot` blueprints) where bots talk in chat, plan, and build a House with Beds, Irrigated Farm, Staircase Mineshaft, and Watchtower.  <!-- done:2026-10-19 -->
+- [ ] Playtest and verify all 4 phases of Team Planning & Colony Mode (`house_and_beds` $\rightarrow$ `irrigated_farm` $\rightarrow$ `mineshaft` $\rightarrow$ `watchtower_and_patrol`) in-game and merge PR #10 (`dev_v8.1.0` $\rightarrow$ `main`).
+
