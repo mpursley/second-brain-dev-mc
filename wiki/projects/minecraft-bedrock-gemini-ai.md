@@ -3,22 +3,23 @@ title: Minecraft Bedrock Gemini AI Companion
 type: project
 tags: [minecraft, bedrock, gemini, ai-agent, typescript, mcp]
 created: 2026-10-17
-updated: 2026-10-21
+updated: 2026-10-22
 sources:
   - raw/sessions/2026-10-17-minecraft-bedrock-gemini-ai.md
   - raw/sessions/2026-10-19-minecraft-bedrock-ai-v8-1-0.md
   - raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md
+  - raw/sessions/2026-10-22-minecraft-ai-v9-3-0-fine-grained-control-and-ws-fix.md
 ---
 
 # Minecraft Bedrock Gemini AI Companion
 
-An AI-driven Minecraft Bedrock Edition Addon (Behavior Pack + Resource Pack), local Bedrock Dedicated Server (`BDS`) harness, and Node.js + MCP companion bridge located at `c:\dev\minecraft-ai` (consolidated from `c:\dev\minecraft-bedrock-ai`; current version `v9.1.0`, `F0`–`F9`). It spawns autonomous `SimulatedPlayer` companions led by `Buddy` (`Buddy`, `MinerMax`, `Oakley`, `Harvestia`, `Shieldra`, `Arrowyn`, `BuilderBen`, `ScoutSam`), powered by Google Gemini (`gemini-3.8-flash`) with live game screen vision, world telemetry, function calling, two-way voice chat, customizable text-to-speech, and cooperative multi-bot colony planning ([2026-10-17 session](../../raw/sessions/2026-10-17-minecraft-bedrock-gemini-ai.md), [2026-10-19 session](../../raw/sessions/2026-10-19-minecraft-bedrock-ai-v8-1-0.md), [2026-10-21 session](../../raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md)).
+An AI-driven Minecraft Bedrock Edition Addon (Behavior Pack + Resource Pack), local Bedrock Dedicated Server (`BDS`) harness, and Node.js + MCP companion bridge located at `c:\dev\minecraft-ai` (consolidated from `c:\dev\minecraft-bedrock-ai`; current version `v9.3.0`, `F0`–`F9`). It spawns autonomous `SimulatedPlayer` companions led by `Buddy` (`Buddy`, `MinerMax`, `Oakley`, `Harvestia`, `Shieldra`, `Arrowyn`, `BuilderBen`, `ScoutSam`), powered by Google Gemini (**Gemini 4** `gemini-3.1-pro-preview` high-level planner + **Gemini 3.8 Flash** `gemini-3-flash-preview` closed-loop step executor) with live game screen vision, spatial world telemetry, fine-grained atomic control tools, two-way voice chat, customizable text-to-speech, and cooperative multi-bot colony planning ([2026-10-17 session](../../raw/sessions/2026-10-17-minecraft-bedrock-gemini-ai.md), [2026-10-19 session](../../raw/sessions/2026-10-19-minecraft-bedrock-ai-v8-1-0.md), [2026-10-21 session](../../raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md), [2026-10-22 session](../../raw/sessions/2026-10-22-minecraft-ai-v9-3-0-fine-grained-control-and-ws-fix.md)).
 
 ## Architecture & Key Paths
 
-- **Repository Root**: `c:\dev\minecraft-ai` (branch `dev_v9.1.0`)
-  - `VERSION` — Single source of truth for the active semantic version (`9.1.0`).
-  - `CURRENT_VERSION.md` — `v9.1.0` architecture and feature reference.
+- **Repository Root**: `c:\dev\minecraft-ai` (branch `dev_v9.1.0` / `dev`)
+  - `VERSION` — Single source of truth for the active semantic version (`9.3.0`).
+  - `CURRENT_VERSION.md` — `v9.3.0` architecture and feature reference.
   - `TESTING_GUIDE.md` & `TODO.md` — `F0`–`F9` aligned feature checklists and test guide.
 - **Minecraft Bedrock Addon (`addon/behavior_pack` & `addon/resource_pack`)**:
   - Uses `@minecraft/server` `2.11.0-beta`, `@minecraft/server-gametest` `1.0.0-beta`, and `@minecraft/server-ui` `2.3.0-beta`.
@@ -69,5 +70,15 @@ An AI-driven Minecraft Bedrock Edition Addon (Behavior Pack + Resource Pack), lo
   - `0.3s` (6-tick) threat loop flees Creepers within `8` blocks, kites hostile mobs at `2.7–3.5` blocks via backpedaling and circle-strafing, retreats at `<= 8 HP`, and auto-eats food to heal ([2026-10-17 session](../../raw/sessions/2026-10-17-minecraft-bedrock-gemini-ai.md)).
 - **Live Screen Capture & Voice HUD**:
   - DirectX 12 Minecraft windows return black frames with Windows GDI `CopyFromScreen`. The Web HUD uses WebRTC `getDisplayMedia` (`📺 Share Minecraft Window`) to stream live JPEG frames to `POST /api/frame` every `1.5s`, paired with Push-to-Talk (`0ms` look reflex) and customizable TTS controls ([2026-10-17 session](../../raw/sessions/2026-10-17-minecraft-bedrock-gemini-ai.md)).
+- **User-Pasted API Key, Prefix Chat Routing & Quiet Mode (`v9.2.0`–`v9.3.0`)**:
+  - Players can paste and save their own Gemini API key via the in-game **"🔑 Set Gemini API Key..."** modal (`!apikey <key>`) or Web HUD, persisted locally to `bridge/data/user_config.json` via `[AI_CONFIG]` ([2026-10-22 session](../../raw/sessions/2026-10-22-minecraft-ai-v9-3-0-fine-grained-control-and-ws-fix.md)).
+  - In-game chat prefixes route explicitly: `Buddy: <msg>` routes to Buddy's in-game `DialogEngine`; `Gemini: <msg>` or `G: <msg>` routes to **Gemini 4** (`gemini-3.1-pro-preview`, fallback `gemini-2.5-pro`) with `ThinkingLevel.HIGH` (`§d[Gemini 4]`); and `Flash: <msg>` or `F: <msg>` routes to **Gemini 3.8 Flash** (`gemini-3-flash-preview`, `§e[Gemini 3.8 Flash]`). Toggling **Agent Chat in Minecraft Chat: OFF (Quiet Mode)** (`!agentchat`) suppresses autonomous bot chatter from the Minecraft chat window while keeping overhead Thought Bubbles and direct `G:`/`F:`/`Buddy:` replies active ([2026-10-22 session](../../raw/sessions/2026-10-22-minecraft-ai-v9-3-0-fine-grained-control-and-ws-fix.md)).
+- **Bedrock 256-Byte WebSocket `commandRequest` Buffer Limit (`MinecraftWsServer.flattenActionForBedrock`)**:
+  - Sending a single `/scriptevent ai:action <json>` over the Bedrock Automation WebSocket exceeding `~256` bytes (such as a `453–477`-byte nested `actionQueue` array or long chat reply) overflows Minecraft Bedrock's native C++ `commandRequest` buffer and freezes the client ([2026-10-22 session](../../raw/sessions/2026-10-22-minecraft-ai-v9-3-0-fine-grained-control-and-ws-fix.md)).
+  - `MinecraftWsServer.flattenActionForBedrock()` splits `action: "queue"` and multi-item tool calls into flat single-step commands (`appendQueue: true`), splits chat replies `> 130` chars into sentence chunks, and caps every `/scriptevent ai:action` packet at `<= 235` bytes with `90ms` pacing ([2026-10-22 session](../../raw/sessions/2026-10-22-minecraft-ai-v9-3-0-fine-grained-control-and-ws-fix.md)).
+- **Auto-Orchestrated Gemini 4 Planner + Flash Closed-Loop Step Executor & Fine-Grained Control (`v9.3.0`)**:
+  - Multi-step, spatial, or creative requests auto-escalate to **Gemini 4 (`ThinkingLevel.HIGH`)** to register an `ActiveGoalPlan` (`set_active_goal_plan` with `steps[]`, `startPosition`, and `returnToPosition`). **Gemini 3.8 Flash** (`AiAgent.stepActiveGoalWithFlash`) executes each micro-step in a closed loop on `TASK_DONE` / `QUEUE_DONE`, displaying intermediate `[Step X/Y]` progress on Buddy's overhead **Thought Bubble** (`action: "thought_bubble"`) and announcing only the initial plan and final completion in chat ([2026-10-22 session](../../raw/sessions/2026-10-22-minecraft-ai-v9-3-0-fine-grained-control-and-ws-fix.md)).
+  - Atomic primitives include `step_relative`, `chop_entire_tree` (3D BFS flood-fill of up to `64` connected logs + sapling replant), `dig_down_and_ladder` (true vertical depth `startDigY - by >= targetCount` + ladder ascent), `climb_to_surface` (`startClimbToSurface`), `interact_with_block` (`tickInteractBlock` for furnaces/chests), `ride_or_dismount_entity` (`tickRideEntity` for boats/minecarts), `place_blocks_at` (`enqueueWorldBlock`), `build_bridge_or_dock` (`startSpanBuild` for waterfront docks with pilings/lanterns and ravine bridges with railings), `decorate_house_or_area` (`startDecorateArea` for `flowers_around`, `corner_table`, and `house_upgrade`), and `spawn_items_for_bot` (with partial stack merging in `addItemToBotInventory`) ([2026-10-22 session](../../raw/sessions/2026-10-22-minecraft-ai-v9-3-0-fine-grained-control-and-ws-fix.md)).
+
 
 
