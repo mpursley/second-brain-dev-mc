@@ -170,9 +170,12 @@ flowchart TD
 
 ---
 
-### `F8` (`v8.0.0`–`v8.1.0`) — Dry-Land Station, Continuous Explore Brain, Natural Dialogue & Team Planning Mode
+### `F8`–`F9` (`v8.0.0`–`v9.1.0`) — Dry-Land Station, Colony Mode, BDS + MCP, 20 TPS Optimization & Ladder Ascent
 - [x] **`v8.0.0`**: Dry-Land Beacon Bot Station (`findDryLandStationSpot`), underwater station cleanup, handheld `✦ AI Companion Remote ✦` (`minecraft:clock`), and 2-block player personal space buffer.  <!-- done:2026-10-18 -->
 - [x] **`v8.1.0`**: Continuous Gemini-driven `Explore Mode`, gesture mode switching (`duck-duck` crouch & emotes), 5-stage natural progression advisor (`dialogEngine.ts`), staircase anti-oscillation fix, 64-block wood search expansion, and ASCII-safe `[AI_STATE]`/`[AI_EVENT]` logging.  <!-- done:2026-10-18 -->
 - [x] **`v8.1.0`**: Team Planning & Colony Mode (`VillageManager` + `BuildingSkill` `house`, `beds`, `farm_plot` blueprints) where bots talk in chat, plan, and build a House with Beds, Irrigated Farm, Staircase Mineshaft, and Watchtower.  <!-- done:2026-10-19 -->
-- [ ] Playtest and verify all 4 phases of Team Planning & Colony Mode (`house_and_beds` $\rightarrow$ `irrigated_farm` $\rightarrow$ `mineshaft` $\rightarrow$ `watchtower_and_patrol`) in-game and merge PR #10 (`dev_v8.1.0` $\rightarrow$ `main`).
+- [x] **`v9.1.0`**: Consolidate workspace into `c:\dev\minecraft-ai`, add Bedrock Dedicated Server (`bds/bedrock_server.exe`, `seed=1`, single-flight GameTest lock), and register Antigravity MCP server (`scripts/mcp-server.mjs`).  <!-- done:2026-10-21 -->
+- [x] **`v9.1.0`**: Restore `20 TPS` Add-On tick performance (concentric shell block scanning, `WorldStore` parsed caching, `FarmingSkill` stop loop fix, throttled telemetry), fix 2-tick vertical ladder shaft ascent (`tickFastAscent` + solid cobblestone backing), and streamline `BotUiMenu` to 5 core options (`Explorer Mode`, `Follow Me`, `Teleport to Me`, `Build Structures...`, `Mine Shaft...`).  <!-- done:2026-10-21 -->
+- [ ] Playtest and re-enable remaining `BotUiMenu` options (`Chop Wood / Collect Resources`, `Farm Crops`, `Hunt Food / Guard Me`, `Craft Items & Tools`, `Team Planning & Bot Chat`) one by one in `c:\dev\minecraft-ai\addon\behavior_pack\src\uiMenu.ts`.
+- [ ] Playtest and verify all 4 phases of Team Planning & Colony Mode (`house_and_beds` $\rightarrow$ `irrigated_farm` $\rightarrow$ `mineshaft` $\rightarrow$ `watchtower_and_patrol`) in-game and merge `dev_v9.1.0` $\rightarrow$ `main`.
 

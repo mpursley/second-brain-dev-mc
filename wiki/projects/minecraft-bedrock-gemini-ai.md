@@ -1,40 +1,62 @@
 ---
 title: Minecraft Bedrock Gemini AI Companion
 type: project
-tags: [minecraft, bedrock, gemini, ai-agent, typescript]
+tags: [minecraft, bedrock, gemini, ai-agent, typescript, mcp]
 created: 2026-10-17
-updated: 2026-10-19
+updated: 2026-10-21
 sources:
   - raw/sessions/2026-10-17-minecraft-bedrock-gemini-ai.md
   - raw/sessions/2026-10-19-minecraft-bedrock-ai-v8-1-0.md
+  - raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md
 ---
 
 # Minecraft Bedrock Gemini AI Companion
 
-An AI-driven Minecraft Bedrock Edition Addon (Behavior Pack + Resource Pack) and local Node.js companion bridge located at `c:\dev\minecraft-bedrock-ai` (current version `v8.1.0`, `F0`–`F8`). It spawns up to 8 autonomous `SimulatedPlayer` companions led by `Buddy` (`Buddy`, `MinerMax`, `Oakley`, `Harvestia`, `Shieldra`, `Arrowyn`, `BuilderBen`, `ScoutSam`), powered by Google Gemini (`gemini-3.8-flash`) with live game screen vision, world telemetry, function calling, two-way voice chat, customizable text-to-speech, and cooperative multi-bot colony planning ([2026-10-17 session](../../raw/sessions/2026-10-17-minecraft-bedrock-gemini-ai.md), [2026-10-19 session](../../raw/sessions/2026-10-19-minecraft-bedrock-ai-v8-1-0.md)).
+An AI-driven Minecraft Bedrock Edition Addon (Behavior Pack + Resource Pack), local Bedrock Dedicated Server (`BDS`) harness, and Node.js + MCP companion bridge located at `c:\dev\minecraft-ai` (consolidated from `c:\dev\minecraft-bedrock-ai`; current version `v9.1.0`, `F0`–`F9`). It spawns autonomous `SimulatedPlayer` companions led by `Buddy` (`Buddy`, `MinerMax`, `Oakley`, `Harvestia`, `Shieldra`, `Arrowyn`, `BuilderBen`, `ScoutSam`), powered by Google Gemini (`gemini-3.8-flash`) with live game screen vision, world telemetry, function calling, two-way voice chat, customizable text-to-speech, and cooperative multi-bot colony planning ([2026-10-17 session](../../raw/sessions/2026-10-17-minecraft-bedrock-gemini-ai.md), [2026-10-19 session](../../raw/sessions/2026-10-19-minecraft-bedrock-ai-v8-1-0.md), [2026-10-21 session](../../raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md)).
 
 ## Architecture & Key Paths
 
-- **Repository Root**: `c:\dev\minecraft-bedrock-ai`
-  - `VERSION` — Single source of truth for the active semantic version (`8.1.0`).
-  - `CURRENT_VERSION.md` — `v8.1.0` architecture and feature reference.
-  - `TESTING_GUIDE.md` & `TODO.md` — `F0`–`F8` aligned feature checklists and test guide.
+- **Repository Root**: `c:\dev\minecraft-ai` (branch `dev_v9.1.0`)
+  - `VERSION` — Single source of truth for the active semantic version (`9.1.0`).
+  - `CURRENT_VERSION.md` — `v9.1.0` architecture and feature reference.
+  - `TESTING_GUIDE.md` & `TODO.md` — `F0`–`F9` aligned feature checklists and test guide.
 - **Minecraft Bedrock Addon (`addon/behavior_pack` & `addon/resource_pack`)**:
   - Uses `@minecraft/server` `2.11.0-beta`, `@minecraft/server-gametest` `1.0.0-beta`, and `@minecraft/server-ui` `2.3.0-beta`.
-  - Deployed via `npm run deploy:addon` to both Windows GDK (`%APPDATA%\Minecraft Bedrock\Users\*\games\com.mojang`) and UWP (`%LOCALAPPDATA%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang`) development pack folders ([2026-10-17 session](../../raw/sessions/2026-10-17-minecraft-bedrock-gemini-ai.md)).
+  - Deployed via `npm run deploy:addon` to Windows GDK (`%APPDATA%\Minecraft Bedrock\Users\*\games\com.mojang`), UWP (`%LOCALAPPDATA%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang`), and the local Bedrock Dedicated Server (`bds/development_behavior_packs` & `bds/development_resource_packs`) ([2026-10-17 session](../../raw/sessions/2026-10-17-minecraft-bedrock-gemini-ai.md), [2026-10-21 session](../../raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md)).
+- **Bedrock Dedicated Server (`bds/` & `scripts/setup-bds.mjs`, `scripts/start-bds.mjs`)**:
+  - Runs headless `bds/bedrock_server.exe` on UDP port `19132` (LAN IP `192.168.12.192:19132`) via `npm run start:bds`.
+  - `scripts/setup-bds.mjs` configures `level-seed=1` in `server.properties` and binary-patches `bds/worlds/Bedrock level/level.dat` with `RandomSeed = 1`, `Spawn = (163, 32767, 170)`, `cheatsEnabled = 1`, and Beta API experiments (`gametest` + `upcoming_creator_features`) ([2026-10-21 session](../../raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md)).
+- **Antigravity MCP Server (`scripts/mcp-server.mjs`)**:
+  - Configured in `C:\Users\mpurs\.gemini\antigravity\mcp_config.json` (`minecraft-ai`), exposing `get_bots_status`, `chat_with_bot`, `command_bot`, and `get_recent_logs` over stdio JSON-RPC.
+  - Reads and writes deterministic file IPC (`bds/worlds/Bedrock level/ai_ipc/latest_state.json`, `events.jsonl`) and falls back to `http://localhost:3000` when the standalone bridge is running ([2026-10-21 session](../../raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md)).
 - **Companion Bridge & Web HUD (`bridge/src`)**:
   - Runs on `http://localhost:3000` (Voice, TTS & Vision HUD) and `ws://localhost:8080` (Minecraft `/connect localhost:8080` WebSocket server).
   - Tails `%APPDATA%\Minecraft Bedrock\logs\ContentLog*.txt` for ASCII-sanitized `[AI_STATE]` and `[AI_EVENT]` JSON payloads emitted by the Behavior Pack ([2026-10-19 session](../../raw/sessions/2026-10-19-minecraft-bedrock-ai-v8-1-0.md)).
 
 ## Technical Conventions & Constraints
 
-- **Dry-Land Beacon Bot Station & Remote (`F8`)**:
+- **Dry-Land Beacon Bot Station, Single-Flight GameTest Lock & Streamlined UI Menu (`F8`–`F9`)**:
   - `findDryLandStationSpot()` (`botController.ts`) scans concentric rings (`8–44` blocks) around the player for a `7x7` surface footprint at `Y >= 63` with zero water or aquatic foliage before running `/gametest run ai:bot`, and `cleanupUnderwaterStationBlocks()` (`botManager.ts`) removes any submerged legacy beacons ([2026-10-19 session](../../raw/sessions/2026-10-19-minecraft-bedrock-ai-v8-1-0.md)).
-  - Players receive the `✦ AI Companion Remote ✦` (`minecraft:clock`) automatically on spawn/respawn, and right-clicking the station Beacon or Structure Block intercepts `playerInteractWithBlock` (`cancel = true`) to open `openBotStationMenu()` ([2026-10-19 session](../../raw/sessions/2026-10-19-minecraft-bedrock-ai-v8-1-0.md)).
-- **World-Space Movement & 2-Block Personal Space**:
+  - `BotController.gameTestLoadInFlightUntilMs` enforces a `4000ms` static single-flight lock around `/gametest clearall` + `/gametest run ai:bot` so spawning multiple bots simultaneously never triggers concurrent structure loads (which otherwise crash `bedrock_server.exe` with `0xC0000005`) ([2026-10-21 session](../../raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md)).
+  - Players receive the `✦ AI Companion Remote ✦` (`minecraft:clock`) automatically on spawn/respawn. `BotUiMenu.showMainForm()` (`uiMenu.ts`) currently exposes 5 core options for focused testing (**Explorer Mode**, **Follow Me**, **Teleport to Me**, **Build Structures...**, and **Mine Shaft...**), with remaining modals preserved in code to re-enable incrementally ([2026-10-21 session](../../raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md)).
+- **World-Space Movement, Follow Sprint-Jumping, Leaf Clearing & Obstacle Breaking**:
   - GameTest's built-in `navigateToBlock` and `lookAtBlock` operate in structure-relative coordinates (`3x3x3` `ai:bot_anchor`). All bot movement uses world-space rotation (`lookAtWorldPos`) and relative walking (`walkTowardWorldPos` with `bot.moveRelative(0, 1, speed)`) ([2026-10-17 session](../../raw/sessions/2026-10-17-minecraft-bedrock-gemini-ai.md)).
-  - `enforcePlayerPersonalSpaceAndClearance()` keeps bots `>= 2.0` blocks away from human players and mines out obstructing blocks when cornered. `walkTowardWorldPos()` checks `violatesPlayerPersonalSpace()` (`2.35`-block radius) and detours (`±45°/90°/135°`) or stops at the boundary so tasks near the player (such as staircase mineshafts, whose origins are offset `6` blocks away) never oscillate forward and backward ([2026-10-19 session](../../raw/sessions/2026-10-19-minecraft-bedrock-ai-v8-1-0.md)).
-- **Continuous Explore Brain, Gesture Switching & Natural Dialogue (`v8.1.0`)**:
+  - `Pathfinder3D.resolveNextSteeringWaypoint()` (`pathfinder3D.ts`) uses `hasDirectWalkableLineOfSight()` (`1–5` blocks ahead) to steer straight toward unobstructed targets without 1-block A* grid zig-zags. In Follow Mode, bots sprint-jump at distances `>= 4.5` blocks (`speed = 1.15`), and `idleHumanizer.ts` yields gaze control to movement yaw whenever `distToPlayer > followDistance + 0.6` ([2026-10-21 session](../../raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md)).
+  - Bots treat tree leaves and vines as passable in 3D A* and step checks, clearing obstructing foliage via `clearBlockingLeavesAroundBot()`. When blocked in tunnels, staircases, or ramps, `breakBlockingObstaclesAroundBot()` and `breakObstacleBlockAt()` synchronously mine out obstructing cobblestone/stone/dirt (`setType("minecraft:air")` + inventory drop) ([2026-10-21 session](../../raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md)).
+  - `enforcePlayerPersonalSpaceAndClearance()` keeps bots `>= 2.0` blocks away from human players, and `walkTowardWorldPos()` detours around a `2.05`-block personal-space radius ([2026-10-19 session](../../raw/sessions/2026-10-19-minecraft-bedrock-ai-v8-1-0.md)).
+- **2-Tick Vertical Ladder Shaft Ascent (`MiningSkill.tickFastAscent`)**:
+  - A `minecraft:ladder` hitbox is `0.1875` blocks thick against its backing wall, so a `SimulatedPlayer` (`0.6` wide) placed at block center (`+0.5, +0.5`) spans `[0.20, 0.80]`, misses the ladder hitbox, and falls `1.05` blocks during a 6-tick (`0.3s`) interval ([2026-10-21 session](../../raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md)).
+  - When climbing to the surface (`ascendingToSurface = true`), `BotController.tickWaterSwim()` calls `MiningSkill.tickFastAscent()` every `2` ticks (`0.1s`). `tickAscendWithLadders()` tracks `ascentCurrentY` monotonically, synchronously clears `by .. by + 3` overhead (`setType("minecraft:air")`), guarantees a solid `minecraft:cobblestone` backing block on the consistent left tunnel wall (`placeLadderAt`), skips blocks that already contain a ladder, and positions the bot `+0.22` toward the ladder wall with `moveRelative(0, 1, 1.0)` ([2026-10-21 session](../../raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md)).
+- **Add-On Tick Performance Rules (`20 TPS` Budget)**:
+  - **Concentric Shell Block Scanning**: `MiningSkill.findNearestTargetBlock()` (`miningSkill.ts`) and `ExploreSkill.findNearbyResource()` (`exploreSkill.ts`) scan outward in concentric horizontal shells (`r = 1..12`) and return immediately on the first shell with a match (`< 300` `getBlock` calls vs. `42,525` in a full cube). Scouting walks only re-scan every `8` ticks and only call `findNearestDryShore()` when `bot.isInWater` is true ([2026-10-21 session](../../raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md)).
+  - **Cached Dynamic Properties (`WorldStore`)**: `WorldStore` (`worldStore.ts`) caches parsed JSON objects in `parsedCache` (`initializedKeys`) so `getVillageData`, `getLandmarks`, `getServerConfig`, `getDialogLog`, and `getHomes` never re-run `world.getDynamicProperty` and `JSON.parse` on every tick ([2026-10-21 session](../../raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md)).
+  - **Throttled Telemetry & Single-Pass Inventory Reads**: `UtilityGoalBrain.getTechTreeSummary()` reads `getInventorySummary()` once per call instead of `17` separate container scans, and `BotController.emitTelemetry()` caches `nearbyNotableBlocks` for `8s` and throttles non-priority telemetry to `2.5s` ([2026-10-21 session](../../raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md)).
+  - **Specialist Role Exhaustion Transition**: `BotController.stopSkill()` matches `"No more farmable plots"`, `"No more matching blocks"`, `"No mature crops"`, and `"No hostile mobs"` to transition specialists into `explore` scouting instead of restarting `applyRoleDefaultTask()` in a same-tick loop ([2026-10-21 session](../../raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md)).
+- **Player-Anchored Building, Anti-Stacked Farms & Villager Watchtowers (`BuildingSkill`)**:
+  - Player-requested builds anchor `4` blocks in front of the requesting player's position and view direction (`BuildingSkill.start()`), shifting laterally if `footprintOverlapsExistingStructure()` detects overlap with existing structures ([2026-10-21 session](../../raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md)).
+  - `findExistingFarmNear()` redirects bots to tend an existing farm within `18` blocks (`>= 8` farmland blocks) instead of building a second farm on top, and `repairStackedFarmLayers()` (90s cooldown) removes floating farmland layers ([2026-10-21 session](../../raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md)).
+  - The `"tower"` preset builds a Villager-style watchtower with a 2-block walk-in North doorway, an interior vertical ladder shaft (`facing_direction: 2`) up to an overhanging `5x5` lookout deck hatch, and crenellated battlements; `retrofitExistingWatchtowers()` (90s cooldown) retrofits existing sealed towers ([2026-10-21 session](../../raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md)).
+- **Continuous Explore Brain, Gesture Switching & Natural Dialogue (`v8.1.0`–`v9.1.0`)**:
   - While `Explore Mode` is ON, `utilityGoalBrain.decideAndExecuteNextExploreAction()` and `[AI_EVENT: EXPLORE_DECISION_NEEDED]` run after each completed task (`stopSkill`) to chain autonomous survival and tech-tree progression until `Explore Mode` is toggled OFF ([2026-10-19 session](../../raw/sessions/2026-10-19-minecraft-bedrock-ai-v8-1-0.md)).
   - Proactive helpful questions (`tickProactiveQuestions`) fire `1–2` times per minute only in `Follow Mode`, never in `Explore Mode`. Players can toggle between `Explore Mode` and `Follow Mode` via double-crouch (`duck-duck` within `1.2s`) or performing an emote within `16` blocks of the bot ([2026-10-19 session](../../raw/sessions/2026-10-19-minecraft-bedrock-ai-v8-1-0.md)).
   - `DialogEngine` (`dialogEngine.ts`) provides a 5-stage live progression advisor (`handleWhatToDoNext`), multi-step gather/smelt/craft queues for tool requests (`handleNaturalCraftRequest`), food sharing/hunting handlers, and `64`-block expanded wood search with scouting walks when local trees are depleted ([2026-10-19 session](../../raw/sessions/2026-10-19-minecraft-bedrock-ai-v8-1-0.md)).
@@ -47,4 +69,5 @@ An AI-driven Minecraft Bedrock Edition Addon (Behavior Pack + Resource Pack) and
   - `0.3s` (6-tick) threat loop flees Creepers within `8` blocks, kites hostile mobs at `2.7–3.5` blocks via backpedaling and circle-strafing, retreats at `<= 8 HP`, and auto-eats food to heal ([2026-10-17 session](../../raw/sessions/2026-10-17-minecraft-bedrock-gemini-ai.md)).
 - **Live Screen Capture & Voice HUD**:
   - DirectX 12 Minecraft windows return black frames with Windows GDI `CopyFromScreen`. The Web HUD uses WebRTC `getDisplayMedia` (`📺 Share Minecraft Window`) to stream live JPEG frames to `POST /api/frame` every `1.5s`, paired with Push-to-Talk (`0ms` look reflex) and customizable TTS controls ([2026-10-17 session](../../raw/sessions/2026-10-17-minecraft-bedrock-gemini-ai.md)).
+
 
