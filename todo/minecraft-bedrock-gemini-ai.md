@@ -170,7 +170,7 @@ flowchart TD
 
 ---
 
-### `F8`–`F9` (`v8.0.0`–`v9.3.0`) — Dry-Land Station, Colony Mode, BDS + MCP, 20 TPS Optimization, Ladder Ascent & Fine-Grained Control
+### `F8`–`F9` (`v8.0.0`–`v9.4.0`) — Dry-Land Station, Colony Mode, BDS + MCP, 20 TPS Optimization, Ladder Ascent, Fine-Grained Control, Manhunt & Agent Moderation
 - [x] **`v8.0.0`**: Dry-Land Beacon Bot Station (`findDryLandStationSpot`), underwater station cleanup, handheld `✦ AI Companion Remote ✦` (`minecraft:clock`), and 2-block player personal space buffer.  <!-- done:2026-10-18 -->
 - [x] **`v8.1.0`**: Continuous Gemini-driven `Explore Mode`, gesture mode switching (`duck-duck` crouch & emotes), 5-stage natural progression advisor (`dialogEngine.ts`), staircase anti-oscillation fix, 64-block wood search expansion, and ASCII-safe `[AI_STATE]`/`[AI_EVENT]` logging.  <!-- done:2026-10-18 -->
 - [x] **`v8.1.0`**: Team Planning & Colony Mode (`VillageManager` + `BuildingSkill` `house`, `beds`, `farm_plot` blueprints) where bots talk in chat, plan, and build a House with Beds, Irrigated Farm, Staircase Mineshaft, and Watchtower.  <!-- done:2026-10-19 -->
@@ -178,7 +178,10 @@ flowchart TD
 - [x] **`v9.1.0`**: Restore `20 TPS` Add-On tick performance (concentric shell block scanning, `WorldStore` parsed caching, `FarmingSkill` stop loop fix, throttled telemetry), fix 2-tick vertical ladder shaft ascent (`tickFastAscent` + solid cobblestone backing), and streamline `BotUiMenu` to 5 core options (`Explorer Mode`, `Follow Me`, `Teleport to Me`, `Build Structures...`, `Mine Shaft...`).  <!-- done:2026-10-21 -->
 - [x] **`v9.2.0`**: Add user-pasted Gemini API key UI (`!apikey`, `bridge/data/user_config.json`), explicit chat prefix routing (`Buddy:`, `Gemini:` / `G:` $\rightarrow$ Gemini 4, `Flash:` / `F:` $\rightarrow$ Gemini 3.8 Flash), and Quiet Mode toggle (`Agent Chat in Minecraft Chat: ON/OFF`).  <!-- done:2026-10-22 -->
 - [x] **`v9.3.0`**: Fix Bedrock 256-byte WebSocket `/scriptevent ai:action` buffer overflow (`flattenActionForBedrock`), add auto-orchestrated Gemini 4 Planner (`ActiveGoalPlan`) + Gemini 3.8 Flash closed-loop step executor (`stepActiveGoalWithFlash` with overhead Thought Bubble progress), and implement 10 fine-grained atomic control primitives (`step_relative`, `chop_entire_tree`, `dig_down_and_ladder`, `climb_to_surface`, `interact_with_block`, `ride_or_dismount_entity`, `place_blocks_at`, `build_bridge_or_dock`, `decorate_house_or_area`, `spawn_items_for_bot`).  <!-- done:2026-10-22 -->
-- [ ] Playtest the 14 fine-grained control prompts (`G:` / `F:`) and closed-loop multi-step execution in Minecraft Bedrock (`v9.3.0`).
+- [x] **`v9.4.0`**: Add `Manhunt: Hunt Me` (`combatMode: "hunt_player"`) and `Manhunt: Hunt You` (`combatMode: "evade_player"`) with `> 100m -> 50m` safe ground teleportation and auto-OFF on death, `Agents in Game (X) — Reset / Kick...` moderation submenu with `SimulatedPlayer` world discovery, 5x walk-first building (`~17 blocks/sec`), intentional water swimming, anti-orbit follow hysteresis, `Buddy:` question fallback to Gemini 3.8 Flash, and once-per-world Colony Center founding fix.  <!-- done:2026-10-23 -->
+- [ ] Playtest `Manhunt: Hunt Me`, `Manhunt: Hunt You`, and `Agents in Game — Reset / Kick` moderation in Minecraft Bedrock (`v9.4.0`).
+- [ ] Playtest the 14 fine-grained control prompts (`G:` / `F:`) and closed-loop multi-step execution in Minecraft Bedrock (`v9.4.0`).
 - [ ] Playtest and re-enable remaining `BotUiMenu` options (`Chop Wood / Collect Resources`, `Farm Crops`, `Hunt Food / Guard Me`, `Craft Items & Tools`, `Team Planning & Bot Chat`) one by one in `c:\dev\minecraft-ai\addon\behavior_pack\src\uiMenu.ts`.
 - [ ] Playtest and verify all 4 phases of Team Planning & Colony Mode (`house_and_beds` $\rightarrow$ `irrigated_farm` $\rightarrow$ `mineshaft` $\rightarrow$ `watchtower_and_patrol`) in-game.
+
 

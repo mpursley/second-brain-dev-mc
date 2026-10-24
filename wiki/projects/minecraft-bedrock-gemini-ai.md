@@ -3,23 +3,24 @@ title: Minecraft Bedrock Gemini AI Companion
 type: project
 tags: [minecraft, bedrock, gemini, ai-agent, typescript, mcp]
 created: 2026-10-17
-updated: 2026-10-22
+updated: 2026-10-23
 sources:
   - raw/sessions/2026-10-17-minecraft-bedrock-gemini-ai.md
   - raw/sessions/2026-10-19-minecraft-bedrock-ai-v8-1-0.md
   - raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md
   - raw/sessions/2026-10-22-minecraft-ai-v9-3-0-fine-grained-control-and-ws-fix.md
+  - raw/sessions/2026-10-23-minecraft-ai-v9-4-0-manhunt-swimming-and-agent-moderation.md
 ---
 
 # Minecraft Bedrock Gemini AI Companion
 
-An AI-driven Minecraft Bedrock Edition Addon (Behavior Pack + Resource Pack), local Bedrock Dedicated Server (`BDS`) harness, and Node.js + MCP companion bridge located at `c:\dev\minecraft-ai` (consolidated from `c:\dev\minecraft-bedrock-ai`; current version `v9.3.0`, `F0`–`F9`). It spawns autonomous `SimulatedPlayer` companions led by `Buddy` (`Buddy`, `MinerMax`, `Oakley`, `Harvestia`, `Shieldra`, `Arrowyn`, `BuilderBen`, `ScoutSam`), powered by Google Gemini (**Gemini 4** `gemini-3.1-pro-preview` high-level planner + **Gemini 3.8 Flash** `gemini-3-flash-preview` closed-loop step executor) with live game screen vision, spatial world telemetry, fine-grained atomic control tools, two-way voice chat, customizable text-to-speech, and cooperative multi-bot colony planning ([2026-10-17 session](../../raw/sessions/2026-10-17-minecraft-bedrock-gemini-ai.md), [2026-10-19 session](../../raw/sessions/2026-10-19-minecraft-bedrock-ai-v8-1-0.md), [2026-10-21 session](../../raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md), [2026-10-22 session](../../raw/sessions/2026-10-22-minecraft-ai-v9-3-0-fine-grained-control-and-ws-fix.md)).
+An AI-driven Minecraft Bedrock Edition Addon (Behavior Pack + Resource Pack), local Bedrock Dedicated Server (`BDS`) harness, and Node.js + MCP companion bridge located at `c:\dev\minecraft-ai` (consolidated from `c:\dev\minecraft-bedrock-ai`; current version `v9.4.0`, `F0`–`F9`). It spawns autonomous `SimulatedPlayer` companions led by `Buddy` (`Buddy`, `MinerMax`, `Oakley`, `Harvestia`, `Shieldra`, `Arrowyn`, `BuilderBen`, `ScoutSam`), powered by Google Gemini (**Gemini 4** `gemini-3.1-pro-preview` high-level planner + **Gemini 3.8 Flash** `gemini-3-flash-preview` closed-loop step executor) with live game screen vision, spatial world telemetry, fine-grained atomic control tools, two-way voice chat, customizable text-to-speech, and cooperative multi-bot colony planning ([2026-10-17 session](../../raw/sessions/2026-10-17-minecraft-bedrock-gemini-ai.md), [2026-10-19 session](../../raw/sessions/2026-10-19-minecraft-bedrock-ai-v8-1-0.md), [2026-10-21 session](../../raw/sessions/2026-10-21-minecraft-ai-v9-1-0-bds-mcp-tick-ladder-fixes.md), [2026-10-22 session](../../raw/sessions/2026-10-22-minecraft-ai-v9-3-0-fine-grained-control-and-ws-fix.md), [2026-10-23 session](../../raw/sessions/2026-10-23-minecraft-ai-v9-4-0-manhunt-swimming-and-agent-moderation.md)).
 
 ## Architecture & Key Paths
 
 - **Repository Root**: `c:\dev\minecraft-ai` (branch `dev_v9.1.0` / `dev`)
-  - `VERSION` — Single source of truth for the active semantic version (`9.3.0`).
-  - `CURRENT_VERSION.md` — `v9.3.0` architecture and feature reference.
+  - `VERSION` — Single source of truth for the active semantic version (`9.4.0`).
+  - `CURRENT_VERSION.md` — `v9.4.0` architecture and feature reference.
   - `TESTING_GUIDE.md` & `TODO.md` — `F0`–`F9` aligned feature checklists and test guide.
 - **Minecraft Bedrock Addon (`addon/behavior_pack` & `addon/resource_pack`)**:
   - Uses `@minecraft/server` `2.11.0-beta`, `@minecraft/server-gametest` `1.0.0-beta`, and `@minecraft/server-ui` `2.3.0-beta`.
@@ -79,6 +80,11 @@ An AI-driven Minecraft Bedrock Edition Addon (Behavior Pack + Resource Pack), lo
 - **Auto-Orchestrated Gemini 4 Planner + Flash Closed-Loop Step Executor & Fine-Grained Control (`v9.3.0`)**:
   - Multi-step, spatial, or creative requests auto-escalate to **Gemini 4 (`ThinkingLevel.HIGH`)** to register an `ActiveGoalPlan` (`set_active_goal_plan` with `steps[]`, `startPosition`, and `returnToPosition`). **Gemini 3.8 Flash** (`AiAgent.stepActiveGoalWithFlash`) executes each micro-step in a closed loop on `TASK_DONE` / `QUEUE_DONE`, displaying intermediate `[Step X/Y]` progress on Buddy's overhead **Thought Bubble** (`action: "thought_bubble"`) and announcing only the initial plan and final completion in chat ([2026-10-22 session](../../raw/sessions/2026-10-22-minecraft-ai-v9-3-0-fine-grained-control-and-ws-fix.md)).
   - Atomic primitives include `step_relative`, `chop_entire_tree` (3D BFS flood-fill of up to `64` connected logs + sapling replant), `dig_down_and_ladder` (true vertical depth `startDigY - by >= targetCount` + ladder ascent), `climb_to_surface` (`startClimbToSurface`), `interact_with_block` (`tickInteractBlock` for furnaces/chests), `ride_or_dismount_entity` (`tickRideEntity` for boats/minecarts), `place_blocks_at` (`enqueueWorldBlock`), `build_bridge_or_dock` (`startSpanBuild` for waterfront docks with pilings/lanterns and ravine bridges with railings), `decorate_house_or_area` (`startDecorateArea` for `flowers_around`, `corner_table`, and `house_upgrade`), and `spawn_items_for_bot` (with partial stack merging in `addItemToBotInventory`) ([2026-10-22 session](../../raw/sessions/2026-10-22-minecraft-ai-v9-3-0-fine-grained-control-and-ws-fix.md)).
+- **Manhunt Modes, Intentional Water Swimming, 5x Walk-First Building & In-Game Agent Moderation (`v9.4.0`)**:
+  - **Dual Manhunt Modes (`combatHuntSkill.ts`, `uiMenu.ts`, `botController.ts`)**: `Manhunt: Hunt Me` (`combatMode: "hunt_player"`, `!huntme`) makes Buddy equip his best melee weapon, sprint after the player (`speed = 1.0`), attack in melee range (`<= 2.9` blocks) applying weapon damage (`getHeldWeaponDamage`), teleport to `50` blocks from the player (`findSafeHuntTeleportY`) whenever distance exceeds `100` blocks (`<= 10s` cooldown), and automatically turn OFF when the player dies. `Manhunt: Hunt You` (`combatMode: "evade_player"`, `!huntyou`) makes Buddy sprint away from the player, juke at `55°` angles when the player closes within `12` blocks, warp to `50` blocks away if distance exceeds `100` blocks, and automatically turn OFF when Buddy is defeated ([2026-10-23 session](../../raw/sessions/2026-10-23-minecraft-ai-v9-4-0-manhunt-swimming-and-agent-moderation.md)).
+  - **Agents in Game — Reset / Kick Menu & World-Wide `SimulatedPlayer` Discovery (`botManager.ts`, `botController.ts`, `uiMenu.ts`)**: `BotManager.discoverAndSyncWorldBots()` and `BotController.getBot()` auto-reattach to any `SimulatedPlayer` in `world.getAllPlayers()` (including bots lingering after `/reload`). The Companion Menu exposes **`Agents in Game (X) — Reset / Kick...`** with per-agent **Reset** (`resetBot`), per-agent **Kick** (`kickBot`), **Reset ALL**, **Kick ALL Other Agents (Keep Buddy)**, and **Kick ALL Agents** ([2026-10-23 session](../../raw/sessions/2026-10-23-minecraft-ai-v9-4-0-manhunt-swimming-and-agent-moderation.md)).
+  - **5x Walk-First Building (`buildingSkill.ts`), Intentional Swimming (`survivalInstinct.ts`), Anti-Orbit Follow & Once-Per-World Colony Founding (`villageManager.ts`)**: Bots walk once to within `5.5` blocks of `buildOrigin` (`hasReachedBuildSite`) and place up to `5` blocks per `0.3s` tick (`~17 blocks/sec`); swim across rivers/lakes (`allowWater = true`) when following/hunting a player or walking to a destination; use widened personal-space hysteresis (`1.35..2.15` blocks) and `Pathfinder3D` player-target exemption (`distTargetToPlayer < 2.2`) so they never orbit the player; route conversational `Buddy: <question>` prompts (`route: "buddy_ai"`) to Gemini 3.8 Flash; and clear persisted `teamPlanModeEnabled` on startup while ensuring `recenterVillageAtPlayerIfMoved()` never re-runs `foundVillage()` once `vState.founded` is true ([2026-10-23 session](../../raw/sessions/2026-10-23-minecraft-ai-v9-4-0-manhunt-swimming-and-agent-moderation.md)).
+
 
 
 
