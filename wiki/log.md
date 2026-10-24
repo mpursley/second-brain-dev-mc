@@ -6,6 +6,8 @@
 2026-10-22 02:15  wrap  1 pages, 3 todos
 2026-10-22 02:16  wrap-pr  #3 Document Minecraft AI v9.1.0-v9.3.0 BDS/MCP, 20 TPS optimization, 256-byte WS fix & Gemini 4 + Flash fine-grained control
 2026-10-23 23:54  wrap  1 pages, 2 todos
+2026-10-23 23:57  wrap-pr  #3 Document Minecraft AI v9.1.0-v9.4.0 BDS/MCP, 20 TPS optimization, 256-byte WS fix, Gemini 4 + Flash fine-grained control, Manhunt & agent moderation
+
 
 
 
